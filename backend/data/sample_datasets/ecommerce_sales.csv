@@ -1,0 +1,1201 @@
+order_id,order_date,customer_id,customer_segment,region,category,sub_category,product_name,sales,quantity,discount,profit,shipping_cost
+ORD-2024-10036,2024-01-01,CUST-925,Corporate,Asia Pacific,Furniture,Chairs,Chairs Pro Series 6,1201.62,10,0.0,281.27,17.01
+ORD-2024-10075,2024-01-01,CUST-990,Enterprise,Latin America,Technology,Smartphones,Smartphones Pro Series 9,2795.35,6,0.15,733.44,35.4
+ORD-2024-10523,2024-01-01,CUST-250,Corporate,Latin America,Office Supplies,Storage,Storage Pro Series 7,1981.77,10,0.05,769.52,40.1
+ORD-2024-11147,2024-01-01,CUST-872,Enterprise,Middle East,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 3,887.73,6,0.2,323.91,30.81
+ORD-2024-10021,2024-01-02,CUST-499,Small Business,Latin America,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 9,2671.72,11,0.05,1050.07,13.71
+ORD-2024-11072,2024-01-02,CUST-337,Corporate,North America,Office Supplies,Binders,Binders Pro Series 3,522.84,3,0.0,184.56,40.84
+ORD-2024-10663,2024-01-03,CUST-885,Corporate,Latin America,Technology,Smartphones,Smartphones Pro Series 8,1241.9,11,0.1,549.18,32.25
+ORD-2024-10948,2024-01-03,CUST-804,Consumer,Asia Pacific,Technology,Laptops,Laptops Pro Series 1,495.15,5,0.1,120.63,36.67
+ORD-2024-10416,2024-01-04,CUST-977,Consumer,Latin America,Furniture,Lighting,Lighting Pro Series 6,2021.57,8,0.2,382.82,24.63
+ORD-2024-11068,2024-01-04,CUST-818,Corporate,Europe,Office Supplies,Paper,Paper Pro Series 9,1007.17,8,0.0,264.39,28.78
+ORD-2024-10167,2024-01-05,CUST-210,Enterprise,Europe,Furniture,Bookcases,Bookcases Pro Series 7,180.94,6,0.0,50.47,12.79
+ORD-2024-10804,2024-01-05,CUST-717,Small Business,Latin America,Furniture,Bookcases,Bookcases Pro Series 7,751.75,6,0.1,112.89,37.67
+ORD-2024-10923,2024-01-05,CUST-483,Corporate,Middle East,Furniture,Bookcases,Bookcases Pro Series 5,1257.54,5,0.15,311.88,5.17
+ORD-2024-11166,2024-01-05,CUST-430,Enterprise,Europe,Furniture,Tables,Tables Pro Series 6,1136.34,9,0.25,443.06,37.86
+ORD-2024-10243,2024-01-06,CUST-239,Corporate,Latin America,Office Supplies,Fasteners,Fasteners Pro Series 8,1454.02,7,0.15,344.54,22.75
+ORD-2024-10338,2024-01-06,CUST-530,Consumer,Middle East,Furniture,Lighting,Lighting Pro Series 3,2052.88,7,0.0,608.73,29.71
+ORD-2024-10343,2024-01-06,CUST-241,Corporate,Asia Pacific,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 5,498.3,12,0.1,196.9,21.03
+ORD-2024-10434,2024-01-06,CUST-540,Small Business,Middle East,Technology,Laptops,Laptops Pro Series 9,964.11,6,0.2,307.42,15.0
+ORD-2024-10608,2024-01-06,CUST-198,Consumer,Middle East,Technology,Monitors,Monitors Pro Series 4,1759.44,3,0.0,743.83,38.83
+ORD-2024-10840,2024-01-06,CUST-625,Corporate,Europe,Technology,Cloud Servers,Cloud Servers Pro Series 5,588.56,1,0.25,92.79,33.3
+ORD-2024-10878,2024-01-06,CUST-910,Consumer,Middle East,Office Supplies,Storage,Storage Pro Series 2,197.25,4,0.2,35.96,37.62
+ORD-2024-10387,2024-01-07,CUST-344,Corporate,Middle East,Technology,Cloud Servers,Cloud Servers Pro Series 3,1207.41,3,0.2,304.48,43.71
+ORD-2024-10433,2024-01-07,CUST-635,Corporate,Asia Pacific,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 9,208.59,1,0.15,34.61,24.08
+ORD-2024-10765,2024-01-07,CUST-434,Enterprise,Latin America,Technology,Laptops,Laptops Pro Series 3,2596.93,9,0.25,1115.05,43.2
+ORD-2024-10780,2024-01-07,CUST-317,Enterprise,Europe,Technology,Accessories,Accessories Pro Series 6,98.67,1,0.05,32.23,35.7
+ORD-2024-10797,2024-01-08,CUST-889,Consumer,Latin America,Furniture,Lighting,Lighting Pro Series 2,2446.72,9,0.15,979.31,22.07
+ORD-2024-10893,2024-01-08,CUST-213,Corporate,North America,Office Supplies,Paper,Paper Pro Series 3,525.68,9,0.15,105.24,32.2
+ORD-2024-10483,2024-01-09,CUST-376,Enterprise,Europe,Office Supplies,Binders,Binders Pro Series 4,126.35,2,0.15,23.99,24.6
+ORD-2024-11020,2024-01-10,CUST-965,Small Business,Middle East,Office Supplies,Paper,Paper Pro Series 4,247.53,6,0.2,78.43,25.44
+ORD-2024-11174,2024-01-10,CUST-381,Small Business,North America,Technology,Smartphones,Smartphones Pro Series 3,459.35,10,0.2,185.24,32.8
+ORD-2024-10385,2024-01-11,CUST-619,Consumer,Middle East,Office Supplies,Appliances,Appliances Pro Series 4,159.83,1,0.2,29.06,26.59
+ORD-2024-10549,2024-01-11,CUST-609,Corporate,North America,Technology,Cloud Servers,Cloud Servers Pro Series 5,1555.61,3,0.15,431.85,25.62
+ORD-2024-10944,2024-01-11,CUST-902,Consumer,Latin America,Furniture,Tables,Tables Pro Series 7,252.08,1,0.2,110.48,30.79
+ORD-2024-10828,2024-01-12,CUST-669,Enterprise,North America,Office Supplies,Fasteners,Fasteners Pro Series 9,2603.77,12,0.25,1074.77,35.12
+ORD-2024-11055,2024-01-12,CUST-860,Corporate,North America,Office Supplies,Fasteners,Fasteners Pro Series 7,1056.75,4,0.1,226.75,22.01
+ORD-2024-10877,2024-01-13,CUST-946,Consumer,North America,Technology,Smartphones,Smartphones Pro Series 2,615.41,5,0.25,166.23,36.7
+ORD-2024-11010,2024-01-13,CUST-956,Consumer,Asia Pacific,Furniture,Lighting,Lighting Pro Series 7,1460.52,5,0.0,631.07,39.18
+ORD-2024-10762,2024-01-14,CUST-904,Consumer,Europe,Technology,Accessories,Accessories Pro Series 7,1269.51,7,0.15,547.02,20.46
+ORD-2024-10786,2024-01-14,CUST-967,Small Business,Asia Pacific,Technology,Smartphones,Smartphones Pro Series 9,581.48,1,0.25,89.25,37.06
+ORD-2024-11127,2024-01-14,CUST-715,Enterprise,Middle East,Office Supplies,Binders,Binders Pro Series 3,1053.64,8,0.05,418.76,42.49
+ORD-2024-10588,2024-01-15,CUST-611,Corporate,Latin America,Furniture,Tables,Tables Pro Series 1,1900.4,12,0.2,666.31,33.22
+ORD-2024-11023,2024-01-15,CUST-723,Corporate,Asia Pacific,Office Supplies,Fasteners,Fasteners Pro Series 6,454.12,4,0.2,199.91,34.05
+ORD-2024-10112,2024-01-16,CUST-773,Small Business,North America,Technology,Accessories,Accessories Pro Series 5,1885.67,6,0.05,356.47,27.65
+ORD-2024-10288,2024-01-16,CUST-711,Corporate,North America,Furniture,Chairs,Chairs Pro Series 8,970.13,9,0.2,145.63,43.96
+ORD-2024-10647,2024-01-16,CUST-153,Corporate,Latin America,Office Supplies,Binders,Binders Pro Series 1,516.76,7,0.1,183.91,8.29
+ORD-2024-10764,2024-01-16,CUST-303,Consumer,Latin America,Furniture,Tables,Tables Pro Series 4,1179.78,5,0.0,369.98,19.75
+ORD-2024-10836,2024-01-16,CUST-718,Corporate,North America,Furniture,Chairs,Chairs Pro Series 9,415.03,2,0.15,178.55,30.61
+ORD-2024-10717,2024-01-17,CUST-748,Corporate,North America,Furniture,Lighting,Lighting Pro Series 2,811.79,4,0.25,174.08,17.18
+ORD-2024-10001,2024-01-18,CUST-323,Corporate,Middle East,Office Supplies,Paper,Paper Pro Series 9,764.6,4,0.25,219.07,13.82
+ORD-2024-10934,2024-01-18,CUST-123,Corporate,Europe,Furniture,Chairs,Chairs Pro Series 4,118.49,1,0.05,50.35,32.66
+ORD-2024-10973,2024-01-19,CUST-463,Corporate,Latin America,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 2,1293.06,5,0.2,461.34,27.56
+ORD-2024-11130,2024-01-19,CUST-793,Enterprise,Middle East,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 2,1762.88,7,0.25,509.12,33.63
+ORD-2024-10271,2024-01-21,CUST-922,Enterprise,Europe,Furniture,Tables,Tables Pro Series 7,1466.14,12,0.0,408.38,9.78
+ORD-2024-11135,2024-01-21,CUST-243,Corporate,Middle East,Furniture,Chairs,Chairs Pro Series 4,917.04,6,0.25,332.55,42.79
+ORD-2024-10332,2024-01-22,CUST-304,Small Business,North America,Furniture,Lighting,Lighting Pro Series 4,181.28,1,0.25,41.68,14.05
+ORD-2024-10562,2024-01-22,CUST-284,Enterprise,Middle East,Technology,Accessories,Accessories Pro Series 6,356.81,7,0.05,140.02,44.46
+ORD-2024-11110,2024-01-22,CUST-856,Enterprise,Europe,Technology,Laptops,Laptops Pro Series 9,286.6,2,0.05,74.55,22.24
+ORD-2024-10371,2024-01-24,CUST-428,Enterprise,North America,Furniture,Bookcases,Bookcases Pro Series 9,1053.58,12,0.2,214.26,20.0
+ORD-2024-11108,2024-01-24,CUST-988,Enterprise,Latin America,Furniture,Chairs,Chairs Pro Series 6,591.04,5,0.25,213.46,37.77
+ORD-2024-10444,2024-01-25,CUST-902,Enterprise,Middle East,Technology,Accessories,Accessories Pro Series 2,704.64,4,0.0,172.08,18.54
+ORD-2024-10719,2024-01-25,CUST-932,Enterprise,Middle East,Furniture,Tables,Tables Pro Series 1,278.57,1,0.15,102.52,15.04
+ORD-2024-10743,2024-01-25,CUST-324,Consumer,Europe,Office Supplies,Binders,Binders Pro Series 8,734.41,10,0.15,168.64,43.1
+ORD-2024-10510,2024-01-26,CUST-968,Consumer,Asia Pacific,Furniture,Chairs,Chairs Pro Series 2,1833.77,9,0.25,653.29,28.1
+ORD-2024-10731,2024-01-26,CUST-838,Corporate,North America,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 9,822.4,8,0.15,322.07,8.27
+ORD-2024-10193,2024-01-27,CUST-452,Consumer,Middle East,Technology,Laptops,Laptops Pro Series 8,265.69,1,0.05,58.27,35.63
+ORD-2024-10216,2024-01-28,CUST-176,Small Business,Middle East,Office Supplies,Paper,Paper Pro Series 3,115.4,6,0.05,31.61,35.09
+ORD-2024-10298,2024-01-28,CUST-548,Enterprise,Europe,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 7,1187.51,6,0.0,239.11,36.55
+ORD-2024-10337,2024-01-28,CUST-218,Enterprise,Latin America,Furniture,Chairs,Chairs Pro Series 9,826.13,5,0.05,320.83,32.43
+ORD-2024-10776,2024-01-28,CUST-750,Consumer,Latin America,Office Supplies,Storage,Storage Pro Series 8,215.4,1,0.0,47.02,35.68
+ORD-2024-11162,2024-01-28,CUST-641,Consumer,Middle East,Furniture,Chairs,Chairs Pro Series 7,302.88,1,0.1,64.5,24.68
+ORD-2024-11170,2024-01-29,CUST-549,Enterprise,Europe,Technology,Cloud Servers,Cloud Servers Pro Series 2,1320.63,2,0.2,232.45,33.98
+ORD-2024-10514,2024-01-30,CUST-492,Consumer,North America,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 3,2061.13,12,0.2,538.28,32.6
+ORD-2024-10997,2024-01-30,CUST-653,Small Business,North America,Technology,Accessories,Accessories Pro Series 5,4288.33,7,0.0,807.35,11.31
+ORD-2024-10855,2024-01-31,CUST-949,Small Business,Latin America,Office Supplies,Paper,Paper Pro Series 7,761.4,8,0.15,323.76,22.16
+ORD-2024-11073,2024-01-31,CUST-623,Enterprise,Latin America,Office Supplies,Appliances,Appliances Pro Series 6,913.13,5,0.0,344.95,20.73
+ORD-2024-11049,2024-02-01,CUST-597,Corporate,Asia Pacific,Office Supplies,Paper,Paper Pro Series 5,974.64,8,0.2,182.56,26.44
+ORD-2024-10736,2024-02-02,CUST-153,Small Business,Latin America,Furniture,Chairs,Chairs Pro Series 7,913.91,4,0.25,240.17,23.14
+ORD-2024-10022,2024-02-03,CUST-853,Consumer,Asia Pacific,Technology,Laptops,Laptops Pro Series 8,5655.67,9,0.2,2277.94,43.43
+ORD-2024-10741,2024-02-03,CUST-619,Consumer,Latin America,Furniture,Tables,Tables Pro Series 4,3512.82,11,0.0,1220.83,31.71
+ORD-2024-10784,2024-02-04,CUST-483,Enterprise,Asia Pacific,Technology,Smartphones,Smartphones Pro Series 7,2141.8,4,0.05,370.48,28.92
+ORD-2024-11083,2024-02-05,CUST-297,Corporate,Asia Pacific,Technology,Smartphones,Smartphones Pro Series 8,256.9,1,0.05,62.53,21.37
+ORD-2024-10103,2024-02-06,CUST-559,Small Business,Middle East,Office Supplies,Paper,Paper Pro Series 8,642.38,9,0.2,280.71,36.33
+ORD-2024-10140,2024-02-06,CUST-956,Enterprise,Middle East,Office Supplies,Paper,Paper Pro Series 9,912.47,10,0.05,330.88,5.06
+ORD-2024-10778,2024-02-06,CUST-198,Corporate,Europe,Technology,Cloud Servers,Cloud Servers Pro Series 9,1264.5,2,0.1,355.81,12.58
+ORD-2024-11144,2024-02-06,CUST-235,Small Business,North America,Technology,Smartphones,Smartphones Pro Series 4,5604.43,10,0.15,1741.4,26.48
+ORD-2024-10451,2024-02-08,CUST-955,Corporate,Europe,Technology,Smartphones,Smartphones Pro Series 2,1626.35,8,0.0,453.26,38.45
+ORD-2024-11069,2024-02-08,CUST-751,Corporate,Asia Pacific,Office Supplies,Paper,Paper Pro Series 4,468.36,5,0.15,128.64,17.23
+ORD-2024-10707,2024-02-09,CUST-145,Enterprise,Latin America,Office Supplies,Storage,Storage Pro Series 8,1411.44,6,0.15,281.81,38.35
+ORD-2024-10375,2024-02-10,CUST-941,Corporate,Asia Pacific,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 8,1489.85,11,0.1,662.88,31.93
+ORD-2024-10454,2024-02-10,CUST-411,Consumer,Europe,Office Supplies,Paper,Paper Pro Series 2,942.39,12,0.15,370.51,26.05
+ORD-2024-10945,2024-02-10,CUST-197,Enterprise,Asia Pacific,Furniture,Bookcases,Bookcases Pro Series 6,262.85,7,0.1,79.34,6.88
+ORD-2024-10118,2024-02-11,CUST-982,Consumer,Latin America,Technology,Cloud Servers,Cloud Servers Pro Series 2,2450.92,6,0.2,805.55,30.61
+ORD-2024-10440,2024-02-11,CUST-581,Corporate,Europe,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 1,512.24,2,0.25,192.25,35.85
+ORD-2024-10794,2024-02-11,CUST-139,Consumer,Latin America,Office Supplies,Binders,Binders Pro Series 4,1762.04,7,0.25,608.66,33.37
+ORD-2024-10124,2024-02-13,CUST-572,Enterprise,North America,Technology,Accessories,Accessories Pro Series 5,1131.47,2,0.0,300.4,25.28
+ORD-2024-10366,2024-02-13,CUST-277,Consumer,Latin America,Technology,Cloud Servers,Cloud Servers Pro Series 5,2234.9,9,0.05,614.16,15.2
+ORD-2024-10269,2024-02-14,CUST-566,Small Business,North America,Furniture,Lighting,Lighting Pro Series 3,406.19,6,0.0,73.81,31.96
+ORD-2024-10631,2024-02-14,CUST-943,Small Business,Middle East,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 9,418.33,6,0.15,156.72,25.61
+ORD-2024-10884,2024-02-14,CUST-102,Corporate,Europe,Furniture,Tables,Tables Pro Series 7,1745.22,8,0.15,358.83,9.53
+ORD-2024-10896,2024-02-14,CUST-809,Enterprise,Latin America,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 7,89.95,3,0.1,23.03,12.79
+ORD-2024-10256,2024-02-15,CUST-707,Corporate,Middle East,Office Supplies,Appliances,Appliances Pro Series 1,248.03,1,0.0,38.09,21.89
+ORD-2024-10391,2024-02-15,CUST-357,Enterprise,Europe,Office Supplies,Appliances,Appliances Pro Series 6,908.3,6,0.15,166.99,5.26
+ORD-2024-10023,2024-02-16,CUST-290,Consumer,Middle East,Technology,Smartphones,Smartphones Pro Series 7,1285.24,2,0.2,483.42,28.78
+ORD-2024-10071,2024-02-16,CUST-140,Enterprise,Asia Pacific,Office Supplies,Storage,Storage Pro Series 1,137.53,2,0.25,27.4,28.01
+ORD-2024-10148,2024-02-16,CUST-776,Small Business,Asia Pacific,Furniture,Lighting,Lighting Pro Series 7,664.39,3,0.1,209.85,34.07
+ORD-2024-11001,2024-02-16,CUST-664,Enterprise,Europe,Furniture,Chairs,Chairs Pro Series 2,172.29,1,0.05,43.92,22.26
+ORD-2024-11027,2024-02-16,CUST-673,Consumer,Asia Pacific,Office Supplies,Appliances,Appliances Pro Series 4,2115.93,8,0.05,590.76,38.07
+ORD-2024-11107,2024-02-16,CUST-107,Small Business,Middle East,Furniture,Tables,Tables Pro Series 9,2199.42,10,0.15,702.79,23.59
+ORD-2024-10255,2024-02-17,CUST-780,Corporate,North America,Furniture,Bookcases,Bookcases Pro Series 4,1231.58,7,0.25,519.04,13.54
+ORD-2024-10535,2024-02-17,CUST-617,Consumer,Asia Pacific,Furniture,Tables,Tables Pro Series 5,1511.91,5,0.0,344.07,29.15
+ORD-2024-10613,2024-02-17,CUST-605,Consumer,Latin America,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 5,3197.89,11,0.15,1222.35,21.29
+ORD-2024-10724,2024-02-17,CUST-997,Consumer,Middle East,Technology,Cloud Servers,Cloud Servers Pro Series 2,4220.92,6,0.15,851.61,19.32
+ORD-2024-11104,2024-02-17,CUST-802,Consumer,Latin America,Technology,Smartphones,Smartphones Pro Series 6,1299.85,3,0.15,317.31,5.46
+ORD-2024-10401,2024-02-18,CUST-712,Enterprise,Asia Pacific,Technology,Laptops,Laptops Pro Series 1,3744.26,10,0.2,1676.84,31.18
+ORD-2024-10014,2024-02-19,CUST-597,Consumer,Middle East,Technology,Smartphones,Smartphones Pro Series 8,1311.13,9,0.2,246.85,21.93
+ORD-2024-10186,2024-02-20,CUST-785,Consumer,Europe,Technology,Cloud Servers,Cloud Servers Pro Series 6,188.58,4,0.15,71.54,35.15
+ORD-2024-10273,2024-02-20,CUST-567,Consumer,Asia Pacific,Technology,Accessories,Accessories Pro Series 5,5591.37,12,0.15,1898.37,43.87
+ORD-2024-10677,2024-02-20,CUST-238,Consumer,Europe,Technology,Laptops,Laptops Pro Series 4,163.04,1,0.25,66.27,14.67
+ORD-2024-10092,2024-02-22,CUST-402,Small Business,Latin America,Technology,Smartphones,Smartphones Pro Series 3,6084.46,9,0.1,1769.02,41.54
+ORD-2024-10369,2024-02-23,CUST-326,Corporate,Asia Pacific,Furniture,Bookcases,Bookcases Pro Series 5,1066.73,4,0.2,310.26,44.87
+ORD-2024-10670,2024-02-23,CUST-625,Small Business,Latin America,Office Supplies,Binders,Binders Pro Series 3,1149.83,8,0.25,336.44,16.63
+ORD-2024-10130,2024-02-24,CUST-786,Enterprise,Middle East,Furniture,Chairs,Chairs Pro Series 6,358.09,5,0.05,124.43,35.65
+ORD-2024-10662,2024-02-24,CUST-989,Small Business,Europe,Technology,Monitors,Monitors Pro Series 5,6101.72,10,0.2,2356.98,44.92
+ORD-2024-11078,2024-02-24,CUST-477,Small Business,Middle East,Technology,Monitors,Monitors Pro Series 5,425.83,1,0.25,130.47,6.76
+ORD-2024-10097,2024-02-26,CUST-650,Corporate,Latin America,Furniture,Bookcases,Bookcases Pro Series 9,1111.73,7,0.25,448.74,21.6
+ORD-2024-10098,2024-02-27,CUST-601,Enterprise,Asia Pacific,Technology,Accessories,Accessories Pro Series 4,3083.75,8,0.05,596.29,8.97
+ORD-2024-10560,2024-02-27,CUST-967,Enterprise,Europe,Technology,Cloud Servers,Cloud Servers Pro Series 2,55.78,1,0.0,13.27,28.75
+ORD-2024-10289,2024-02-28,CUST-772,Corporate,Asia Pacific,Office Supplies,Paper,Paper Pro Series 4,2537.92,10,0.15,871.92,38.57
+ORD-2024-10419,2024-02-28,CUST-470,Small Business,Europe,Office Supplies,Storage,Storage Pro Series 4,691.6,5,0.2,240.03,12.36
+ORD-2024-10959,2024-02-28,CUST-331,Enterprise,Latin America,Furniture,Chairs,Chairs Pro Series 4,2619.57,12,0.25,967.98,13.23
+ORD-2024-10955,2024-02-29,CUST-572,Consumer,North America,Technology,Laptops,Laptops Pro Series 8,671.68,3,0.15,168.88,23.11
+ORD-2024-10345,2024-03-01,CUST-704,Enterprise,Middle East,Office Supplies,Appliances,Appliances Pro Series 3,1279.95,10,0.1,341.23,39.5
+ORD-2024-10543,2024-03-01,CUST-556,Small Business,Europe,Office Supplies,Storage,Storage Pro Series 5,84.49,4,0.2,35.69,42.54
+ORD-2024-11123,2024-03-02,CUST-803,Small Business,Middle East,Office Supplies,Fasteners,Fasteners Pro Series 7,1029.47,4,0.15,229.52,16.45
+ORD-2024-10849,2024-03-03,CUST-458,Corporate,Latin America,Furniture,Chairs,Chairs Pro Series 2,1258.85,7,0.0,366.67,40.94
+ORD-2024-10897,2024-03-03,CUST-179,Small Business,Middle East,Furniture,Chairs,Chairs Pro Series 4,347.62,5,0.0,149.62,28.88
+ORD-2024-10279,2024-03-04,CUST-208,Corporate,Latin America,Furniture,Bookcases,Bookcases Pro Series 7,369.62,2,0.05,116.22,23.53
+ORD-2024-10384,2024-03-04,CUST-761,Consumer,Asia Pacific,Technology,Monitors,Monitors Pro Series 4,2388.13,5,0.25,1019.88,8.02
+ORD-2024-10802,2024-03-04,CUST-751,Corporate,North America,Furniture,Chairs,Chairs Pro Series 7,193.89,2,0.1,85.52,14.39
+ORD-2024-10293,2024-03-05,CUST-638,Small Business,North America,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 2,661.72,6,0.05,104.05,34.29
+ORD-2024-10747,2024-03-05,CUST-315,Small Business,Latin America,Technology,Accessories,Accessories Pro Series 6,1646.37,11,0.2,258.27,44.91
+ORD-2024-10814,2024-03-05,CUST-448,Corporate,North America,Office Supplies,Storage,Storage Pro Series 3,1606.14,6,0.2,367.69,17.43
+ORD-2024-10612,2024-03-06,CUST-421,Consumer,Latin America,Technology,Monitors,Monitors Pro Series 3,3958.91,8,0.25,1439.14,33.89
+ORD-2024-10919,2024-03-06,CUST-280,Enterprise,Latin America,Furniture,Tables,Tables Pro Series 9,590.67,10,0.15,198.19,38.8
+ORD-2024-11047,2024-03-06,CUST-813,Enterprise,Europe,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 7,927.41,11,0.1,342.79,13.6
+ORD-2024-10270,2024-03-07,CUST-858,Consumer,North America,Technology,Smartphones,Smartphones Pro Series 1,2592.98,8,0.05,1027.63,43.41
+ORD-2024-10393,2024-03-09,CUST-335,Enterprise,Asia Pacific,Office Supplies,Paper,Paper Pro Series 8,1832.96,11,0.05,499.96,30.89
+ORD-2024-10555,2024-03-09,CUST-926,Enterprise,Middle East,Technology,Monitors,Monitors Pro Series 4,151.05,2,0.05,45.82,5.76
+ORD-2024-10882,2024-03-09,CUST-186,Consumer,Middle East,Technology,Smartphones,Smartphones Pro Series 7,2717.83,9,0.05,669.05,11.01
+ORD-2024-11185,2024-03-09,CUST-386,Small Business,Asia Pacific,Technology,Accessories,Accessories Pro Series 6,4539.72,8,0.15,1139.59,31.72
+ORD-2024-10117,2024-03-10,CUST-609,Enterprise,Europe,Technology,Cloud Servers,Cloud Servers Pro Series 9,2247.25,12,0.2,449.44,37.25
+ORD-2024-10308,2024-03-10,CUST-875,Enterprise,Europe,Technology,Smartphones,Smartphones Pro Series 4,252.42,3,0.0,38.75,22.42
+ORD-2024-10621,2024-03-10,CUST-560,Small Business,Latin America,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 1,55.69,1,0.25,10.69,17.12
+ORD-2024-10863,2024-03-10,CUST-700,Corporate,Europe,Office Supplies,Appliances,Appliances Pro Series 2,528.81,2,0.2,183.57,34.01
+ORD-2024-10869,2024-03-10,CUST-329,Consumer,Middle East,Technology,Accessories,Accessories Pro Series 1,1668.26,11,0.1,286.65,15.82
+ORD-2024-11081,2024-03-10,CUST-554,Consumer,Asia Pacific,Technology,Monitors,Monitors Pro Series 5,1722.25,4,0.25,766.4,38.49
+ORD-2024-11187,2024-03-10,CUST-829,Small Business,Europe,Furniture,Bookcases,Bookcases Pro Series 8,1402.49,7,0.0,224.56,43.87
+ORD-2024-10054,2024-03-11,CUST-679,Consumer,Asia Pacific,Office Supplies,Appliances,Appliances Pro Series 6,332.09,2,0.1,148.18,21.8
+ORD-2024-10705,2024-03-11,CUST-685,Small Business,North America,Office Supplies,Binders,Binders Pro Series 2,632.61,6,0.1,227.12,24.44
+ORD-2024-10826,2024-03-11,CUST-756,Corporate,North America,Office Supplies,Fasteners,Fasteners Pro Series 8,1236.99,5,0.0,261.87,12.24
+ORD-2024-11171,2024-03-11,CUST-874,Corporate,North America,Furniture,Lighting,Lighting Pro Series 6,3554.14,12,0.15,1395.73,44.41
+ORD-2024-10699,2024-03-12,CUST-874,Consumer,Latin America,Furniture,Lighting,Lighting Pro Series 1,977.04,8,0.05,203.6,44.56
+ORD-2024-11016,2024-03-13,CUST-682,Small Business,Asia Pacific,Technology,Cloud Servers,Cloud Servers Pro Series 8,341.64,1,0.15,149.95,19.35
+ORD-2024-11028,2024-03-13,CUST-650,Corporate,Latin America,Office Supplies,Fasteners,Fasteners Pro Series 3,919.74,10,0.1,319.64,9.72
+ORD-2024-10569,2024-03-14,CUST-808,Consumer,Asia Pacific,Technology,Laptops,Laptops Pro Series 8,2768.97,8,0.1,1063.41,16.81
+ORD-2024-10935,2024-03-14,CUST-380,Enterprise,Europe,Technology,Accessories,Accessories Pro Series 9,2355.02,11,0.25,488.19,22.44
+ORD-2024-11039,2024-03-14,CUST-564,Small Business,North America,Office Supplies,Paper,Paper Pro Series 8,1261.68,7,0.0,240.54,44.72
+ORD-2024-10029,2024-03-16,CUST-368,Corporate,Latin America,Office Supplies,Appliances,Appliances Pro Series 9,39.36,1,0.25,7.04,26.82
+ORD-2024-10666,2024-03-16,CUST-983,Consumer,Asia Pacific,Furniture,Chairs,Chairs Pro Series 2,2554.23,9,0.15,1078.48,15.21
+ORD-2024-10821,2024-03-16,CUST-870,Consumer,Asia Pacific,Furniture,Tables,Tables Pro Series 3,1786.64,8,0.1,323.09,13.39
+ORD-2024-10102,2024-03-17,CUST-466,Corporate,Middle East,Furniture,Chairs,Chairs Pro Series 3,122.08,5,0.25,39.52,9.55
+ORD-2024-10222,2024-03-17,CUST-291,Enterprise,Latin America,Office Supplies,Fasteners,Fasteners Pro Series 9,347.22,7,0.0,119.38,8.72
+ORD-2024-10257,2024-03-17,CUST-172,Corporate,Latin America,Technology,Laptops,Laptops Pro Series 2,1857.87,6,0.1,759.61,35.94
+ORD-2024-10574,2024-03-17,CUST-402,Corporate,North America,Technology,Cloud Servers,Cloud Servers Pro Series 5,1470.34,3,0.2,332.02,5.98
+ORD-2024-10708,2024-03-18,CUST-241,Enterprise,Latin America,Office Supplies,Appliances,Appliances Pro Series 3,1189.9,12,0.2,298.25,21.39
+ORD-2024-10723,2024-03-18,CUST-102,Enterprise,North America,Technology,Smartphones,Smartphones Pro Series 7,5171.95,9,0.25,1568.69,20.71
+ORD-2024-10782,2024-03-18,CUST-279,Small Business,Latin America,Technology,Accessories,Accessories Pro Series 1,6627.3,10,0.15,2222.06,30.62
+ORD-2024-10833,2024-03-18,CUST-665,Corporate,Middle East,Furniture,Bookcases,Bookcases Pro Series 3,2681.7,12,0.0,764.41,15.43
+ORD-2024-10739,2024-03-20,CUST-145,Consumer,Europe,Furniture,Lighting,Lighting Pro Series 7,2725.76,9,0.1,972.12,40.41
+ORD-2024-10135,2024-03-21,CUST-356,Consumer,Latin America,Furniture,Lighting,Lighting Pro Series 2,3580.49,12,0.0,1305.02,35.52
+ORD-2024-10605,2024-03-21,CUST-552,Small Business,Europe,Office Supplies,Storage,Storage Pro Series 1,3281.86,12,0.05,1350.11,32.77
+ORD-2024-11102,2024-03-21,CUST-292,Consumer,Europe,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 2,818.88,6,0.05,263.91,16.4
+ORD-2024-10241,2024-03-22,CUST-497,Enterprise,Middle East,Technology,Monitors,Monitors Pro Series 7,1042.67,7,0.25,301.11,41.77
+ORD-2024-10354,2024-03-22,CUST-834,Enterprise,North America,Furniture,Lighting,Lighting Pro Series 4,188.53,4,0.15,72.64,37.98
+ORD-2024-11160,2024-03-22,CUST-888,Consumer,Asia Pacific,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 4,349.48,3,0.05,108.95,18.32
+ORD-2024-10163,2024-03-24,CUST-982,Small Business,Asia Pacific,Furniture,Tables,Tables Pro Series 6,1645.54,9,0.1,621.16,9.9
+ORD-2024-10858,2024-03-25,CUST-118,Corporate,North America,Technology,Cloud Servers,Cloud Servers Pro Series 7,1992.31,9,0.25,310.73,13.87
+ORD-2024-10564,2024-03-27,CUST-964,Enterprise,Latin America,Technology,Smartphones,Smartphones Pro Series 1,509.3,1,0.1,197.16,15.06
+ORD-2024-10892,2024-03-27,CUST-286,Enterprise,Europe,Office Supplies,Fasteners,Fasteners Pro Series 5,1100.59,8,0.1,348.68,30.79
+ORD-2024-10230,2024-03-30,CUST-533,Enterprise,North America,Furniture,Lighting,Lighting Pro Series 8,1194.16,10,0.2,206.53,39.79
+ORD-2024-10668,2024-03-30,CUST-405,Enterprise,Latin America,Office Supplies,Storage,Storage Pro Series 3,1284.93,6,0.1,380.6,24.58
+ORD-2024-10570,2024-03-31,CUST-913,Corporate,Middle East,Office Supplies,Binders,Binders Pro Series 2,1797.41,7,0.15,343.92,13.66
+ORD-2024-10791,2024-03-31,CUST-912,Enterprise,North America,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 2,1018.34,5,0.05,289.36,12.03
+ORD-2024-11120,2024-03-31,CUST-698,Corporate,Middle East,Furniture,Lighting,Lighting Pro Series 7,2440.21,7,0.0,548.03,16.36
+ORD-2024-10254,2024-04-01,CUST-567,Consumer,Latin America,Technology,Smartphones,Smartphones Pro Series 5,2023.75,3,0.1,854.02,19.42
+ORD-2024-10479,2024-04-01,CUST-169,Consumer,Europe,Furniture,Tables,Tables Pro Series 1,1580.21,6,0.15,255.43,17.13
+ORD-2024-10512,2024-04-01,CUST-217,Consumer,Middle East,Office Supplies,Fasteners,Fasteners Pro Series 2,629.59,4,0.2,223.16,10.66
+ORD-2024-10648,2024-04-01,CUST-628,Corporate,Middle East,Office Supplies,Appliances,Appliances Pro Series 6,1051.51,8,0.25,431.06,11.94
+ORD-2024-11136,2024-04-01,CUST-749,Small Business,Latin America,Office Supplies,Appliances,Appliances Pro Series 5,594.34,3,0.25,244.53,29.3
+ORD-2024-10150,2024-04-02,CUST-131,Corporate,Middle East,Office Supplies,Appliances,Appliances Pro Series 1,84.43,3,0.25,28.71,20.31
+ORD-2024-10340,2024-04-03,CUST-661,Enterprise,Europe,Office Supplies,Appliances,Appliances Pro Series 6,47.75,4,0.25,20.21,9.42
+ORD-2024-10586,2024-04-03,CUST-648,Small Business,Europe,Technology,Smartphones,Smartphones Pro Series 3,516.72,4,0.1,143.46,22.64
+ORD-2024-10423,2024-04-04,CUST-320,Small Business,Latin America,Office Supplies,Paper,Paper Pro Series 8,1372.79,12,0.1,469.37,27.3
+ORD-2024-10491,2024-04-04,CUST-248,Corporate,North America,Furniture,Bookcases,Bookcases Pro Series 5,2779.41,12,0.15,1009.94,12.23
+ORD-2024-10236,2024-04-05,CUST-858,Corporate,Middle East,Technology,Monitors,Monitors Pro Series 3,2539.18,6,0.15,966.01,21.2
+ORD-2024-10789,2024-04-05,CUST-302,Corporate,Latin America,Technology,Monitors,Monitors Pro Series 4,1182.7,5,0.15,188.86,13.06
+ORD-2024-10395,2024-04-06,CUST-284,Enterprise,Middle East,Office Supplies,Paper,Paper Pro Series 5,140.09,2,0.2,21.32,39.69
+ORD-2024-10487,2024-04-06,CUST-401,Consumer,Middle East,Technology,Cloud Servers,Cloud Servers Pro Series 8,1256.23,2,0.0,497.55,28.42
+ORD-2024-10917,2024-04-06,CUST-486,Corporate,Asia Pacific,Technology,Smartphones,Smartphones Pro Series 1,4206.14,6,0.0,1511.76,17.28
+ORD-2024-10244,2024-04-07,CUST-678,Consumer,Europe,Furniture,Chairs,Chairs Pro Series 5,741.38,4,0.05,159.97,27.63
+ORD-2024-10331,2024-04-07,CUST-882,Corporate,Latin America,Technology,Smartphones,Smartphones Pro Series 7,3679.48,11,0.15,590.19,20.33
+ORD-2024-10616,2024-04-07,CUST-472,Corporate,Asia Pacific,Technology,Monitors,Monitors Pro Series 7,401.7,2,0.15,93.37,16.14
+ORD-2024-10964,2024-04-07,CUST-250,Consumer,North America,Furniture,Bookcases,Bookcases Pro Series 8,1671.44,8,0.2,623.11,24.46
+ORD-2024-11133,2024-04-07,CUST-522,Small Business,Europe,Technology,Cloud Servers,Cloud Servers Pro Series 4,478.88,5,0.25,115.83,23.33
+ORD-2024-10300,2024-04-08,CUST-484,Corporate,North America,Office Supplies,Paper,Paper Pro Series 6,2933.07,10,0.15,699.97,22.25
+ORD-2024-10326,2024-04-08,CUST-773,Corporate,Asia Pacific,Technology,Cloud Servers,Cloud Servers Pro Series 3,2466.45,12,0.2,545.39,12.32
+ORD-2024-10396,2024-04-08,CUST-950,Enterprise,Middle East,Technology,Monitors,Monitors Pro Series 3,5199.47,10,0.1,2078.14,32.42
+ORD-2024-10585,2024-04-09,CUST-366,Corporate,Latin America,Furniture,Bookcases,Bookcases Pro Series 1,339.9,3,0.15,55.45,29.75
+ORD-2024-11064,2024-04-09,CUST-922,Enterprise,Europe,Office Supplies,Fasteners,Fasteners Pro Series 7,126.71,7,0.0,40.47,16.77
+ORD-2024-10407,2024-04-11,CUST-606,Enterprise,North America,Technology,Monitors,Monitors Pro Series 5,246.04,4,0.2,73.03,32.94
+ORD-2024-10968,2024-04-11,CUST-795,Small Business,Asia Pacific,Furniture,Lighting,Lighting Pro Series 7,593.12,5,0.0,163.79,33.07
+ORD-2024-10422,2024-04-12,CUST-611,Corporate,Middle East,Office Supplies,Storage,Storage Pro Series 8,396.31,5,0.2,172.67,8.96
+ORD-2024-10725,2024-04-12,CUST-886,Consumer,North America,Furniture,Bookcases,Bookcases Pro Series 4,108.82,8,0.25,48.32,16.25
+ORD-2024-11122,2024-04-13,CUST-262,Enterprise,Middle East,Furniture,Bookcases,Bookcases Pro Series 4,1994.92,7,0.1,706.56,19.53
+ORD-2024-10330,2024-04-14,CUST-182,Enterprise,Asia Pacific,Office Supplies,Binders,Binders Pro Series 6,321.96,11,0.15,118.46,35.45
+ORD-2024-10755,2024-04-14,CUST-339,Small Business,North America,Furniture,Chairs,Chairs Pro Series 5,1260.8,9,0.25,537.8,16.06
+ORD-2024-11018,2024-04-14,CUST-884,Small Business,Asia Pacific,Furniture,Tables,Tables Pro Series 4,646.41,11,0.2,163.68,14.31
+ORD-2024-10714,2024-04-15,CUST-886,Consumer,Europe,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 3,198.76,1,0.1,78.62,33.53
+ORD-2024-11165,2024-04-15,CUST-689,Small Business,Latin America,Office Supplies,Appliances,Appliances Pro Series 1,1452.76,7,0.0,381.92,20.6
+ORD-2024-11188,2024-04-15,CUST-939,Corporate,Europe,Office Supplies,Binders,Binders Pro Series 1,938.5,4,0.1,274.35,36.2
+ORD-2024-10237,2024-04-16,CUST-755,Enterprise,Latin America,Technology,Monitors,Monitors Pro Series 4,3561.59,8,0.15,1597.96,13.59
+ORD-2024-10517,2024-04-16,CUST-781,Small Business,Asia Pacific,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 1,313.63,2,0.1,96.1,38.83
+ORD-2024-10438,2024-04-17,CUST-204,Small Business,Asia Pacific,Technology,Cloud Servers,Cloud Servers Pro Series 1,488.63,4,0.0,147.53,18.68
+ORD-2024-11043,2024-04-18,CUST-608,Small Business,Europe,Technology,Laptops,Laptops Pro Series 9,7794.68,12,0.0,2491.99,24.63
+ORD-2024-11093,2024-04-18,CUST-466,Small Business,Europe,Furniture,Lighting,Lighting Pro Series 3,129.65,1,0.2,40.59,28.04
+ORD-2024-10204,2024-04-19,CUST-879,Corporate,Latin America,Technology,Accessories,Accessories Pro Series 5,208.47,1,0.05,33.64,9.69
+ORD-2024-10291,2024-04-19,CUST-929,Enterprise,Middle East,Furniture,Tables,Tables Pro Series 8,42.97,1,0.05,11.58,5.8
+ORD-2024-10793,2024-04-19,CUST-113,Small Business,Latin America,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 7,1428.04,12,0.15,510.75,44.5
+ORD-2024-10355,2024-04-20,CUST-446,Consumer,Latin America,Technology,Monitors,Monitors Pro Series 2,2661.83,8,0.2,434.26,10.39
+ORD-2024-10450,2024-04-20,CUST-799,Enterprise,Middle East,Technology,Monitors,Monitors Pro Series 5,2040.36,6,0.1,850.55,25.93
+ORD-2024-10131,2024-04-21,CUST-240,Corporate,North America,Furniture,Chairs,Chairs Pro Series 9,2122.31,9,0.2,931.01,18.47
+ORD-2024-10089,2024-04-25,CUST-493,Enterprise,North America,Technology,Cloud Servers,Cloud Servers Pro Series 6,2150.23,10,0.25,777.16,44.12
+ORD-2024-10685,2024-04-25,CUST-720,Enterprise,North America,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 5,340.64,4,0.0,51.17,19.35
+ORD-2024-10265,2024-04-27,CUST-927,Corporate,Middle East,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 2,933.96,5,0.25,153.14,14.55
+ORD-2024-10076,2024-04-28,CUST-662,Corporate,Asia Pacific,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 2,272.8,1,0.2,57.34,33.39
+ORD-2024-10471,2024-04-28,CUST-635,Small Business,Middle East,Furniture,Lighting,Lighting Pro Series 3,2989.0,12,0.0,1007.35,41.24
+ORD-2024-10415,2024-04-29,CUST-307,Corporate,Middle East,Furniture,Tables,Tables Pro Series 2,484.89,2,0.25,79.17,24.71
+ORD-2024-10478,2024-04-29,CUST-241,Corporate,Europe,Furniture,Lighting,Lighting Pro Series 3,2317.89,7,0.05,586.73,27.59
+ORD-2024-10689,2024-04-29,CUST-470,Corporate,Asia Pacific,Office Supplies,Appliances,Appliances Pro Series 9,2083.24,8,0.0,841.03,19.55
+ORD-2024-10712,2024-04-29,CUST-949,Enterprise,North America,Office Supplies,Fasteners,Fasteners Pro Series 6,1263.06,7,0.15,241.76,5.93
+ORD-2024-10830,2024-04-29,CUST-265,Consumer,Middle East,Furniture,Chairs,Chairs Pro Series 2,332.21,2,0.1,53.19,11.86
+ORD-2024-10952,2024-04-29,CUST-179,Consumer,Latin America,Technology,Smartphones,Smartphones Pro Series 1,2084.19,11,0.15,820.39,9.18
+ORD-2024-10505,2024-04-30,CUST-801,Small Business,Asia Pacific,Technology,Smartphones,Smartphones Pro Series 5,273.12,1,0.15,71.57,38.7
+ORD-2024-10779,2024-04-30,CUST-654,Enterprise,Latin America,Technology,Smartphones,Smartphones Pro Series 4,637.0,2,0.05,283.78,31.16
+ORD-2024-10498,2024-05-01,CUST-314,Consumer,North America,Office Supplies,Fasteners,Fasteners Pro Series 2,1648.41,8,0.2,279.95,44.45
+ORD-2024-10799,2024-05-01,CUST-866,Enterprise,Asia Pacific,Technology,Smartphones,Smartphones Pro Series 8,95.62,1,0.25,31.04,21.67
+ORD-2024-10953,2024-05-01,CUST-704,Small Business,Asia Pacific,Office Supplies,Appliances,Appliances Pro Series 3,430.89,9,0.05,165.62,19.55
+ORD-2024-10015,2024-05-02,CUST-652,Corporate,Asia Pacific,Furniture,Bookcases,Bookcases Pro Series 8,1421.42,9,0.05,543.82,18.52
+ORD-2024-10067,2024-05-02,CUST-776,Consumer,Europe,Technology,Smartphones,Smartphones Pro Series 9,297.88,2,0.15,93.79,28.75
+ORD-2024-10319,2024-05-04,CUST-326,Corporate,Europe,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 9,228.49,1,0.25,102.21,41.46
+ORD-2024-10702,2024-05-04,CUST-179,Small Business,Middle East,Furniture,Lighting,Lighting Pro Series 9,2234.84,9,0.1,613.93,30.46
+ORD-2024-10818,2024-05-05,CUST-398,Enterprise,North America,Furniture,Tables,Tables Pro Series 4,3739.6,12,0.05,897.05,7.1
+ORD-2024-10902,2024-05-05,CUST-797,Corporate,Europe,Office Supplies,Fasteners,Fasteners Pro Series 9,939.96,6,0.05,327.38,19.41
+ORD-2024-10246,2024-05-06,CUST-535,Consumer,Europe,Furniture,Chairs,Chairs Pro Series 8,658.87,5,0.0,209.7,44.76
+ORD-2024-10548,2024-05-06,CUST-758,Consumer,Latin America,Office Supplies,Storage,Storage Pro Series 2,31.54,1,0.2,7.31,36.09
+ORD-2024-10868,2024-05-06,CUST-813,Consumer,Middle East,Furniture,Lighting,Lighting Pro Series 9,554.05,5,0.05,200.06,15.74
+ORD-2024-11046,2024-05-06,CUST-873,Small Business,Latin America,Furniture,Bookcases,Bookcases Pro Series 4,1644.1,11,0.05,510.62,17.76
+ORD-2024-11086,2024-05-06,CUST-483,Enterprise,North America,Office Supplies,Binders,Binders Pro Series 5,2405.34,11,0.05,543.07,34.52
+ORD-2024-11091,2024-05-06,CUST-367,Consumer,North America,Office Supplies,Binders,Binders Pro Series 8,463.12,3,0.1,156.68,20.12
+ORD-2024-10872,2024-05-07,CUST-386,Corporate,Asia Pacific,Technology,Monitors,Monitors Pro Series 2,6595.48,12,0.15,1096.85,15.29
+ORD-2024-10383,2024-05-08,CUST-857,Enterprise,Asia Pacific,Furniture,Tables,Tables Pro Series 6,1224.39,8,0.1,266.39,24.48
+ORD-2024-10406,2024-05-08,CUST-181,Consumer,Latin America,Furniture,Lighting,Lighting Pro Series 9,1013.55,5,0.2,438.63,35.94
+ORD-2024-10929,2024-05-08,CUST-298,Corporate,Latin America,Furniture,Chairs,Chairs Pro Series 5,492.33,2,0.25,218.13,44.39
+ORD-2024-10650,2024-05-10,CUST-123,Corporate,North America,Furniture,Tables,Tables Pro Series 5,3604.36,12,0.0,1188.32,22.16
+ORD-2024-10652,2024-05-10,CUST-308,Corporate,Asia Pacific,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 7,454.54,3,0.05,122.71,44.81
+ORD-2024-11140,2024-05-10,CUST-384,Consumer,Europe,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 8,3207.55,10,0.0,635.12,38.83
+ORD-2024-10314,2024-05-12,CUST-407,Enterprise,Asia Pacific,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 2,554.12,4,0.15,126.18,35.38
+ORD-2024-10567,2024-05-12,CUST-342,Enterprise,Europe,Furniture,Tables,Tables Pro Series 2,1688.05,8,0.0,308.67,10.8
+ORD-2024-10756,2024-05-12,CUST-221,Consumer,Asia Pacific,Technology,Monitors,Monitors Pro Series 4,1119.51,6,0.1,419.81,34.81
+ORD-2024-10208,2024-05-13,CUST-683,Corporate,Latin America,Office Supplies,Storage,Storage Pro Series 5,2032.68,8,0.25,463.7,23.43
+ORD-2024-10783,2024-05-14,CUST-701,Consumer,Europe,Technology,Monitors,Monitors Pro Series 2,1016.25,5,0.15,226.45,29.79
+ORD-2024-10199,2024-05-15,CUST-849,Small Business,Middle East,Office Supplies,Storage,Storage Pro Series 4,1157.05,5,0.25,339.74,21.54
+ORD-2024-10709,2024-05-15,CUST-504,Small Business,Middle East,Technology,Cloud Servers,Cloud Servers Pro Series 5,1262.61,11,0.05,300.3,27.88
+ORD-2024-11095,2024-05-15,CUST-619,Consumer,Latin America,Furniture,Bookcases,Bookcases Pro Series 7,196.53,10,0.2,78.63,17.02
+ORD-2024-11169,2024-05-15,CUST-322,Small Business,North America,Technology,Cloud Servers,Cloud Servers Pro Series 2,369.28,7,0.25,71.55,13.34
+ORD-2024-10137,2024-05-16,CUST-183,Small Business,Europe,Technology,Accessories,Accessories Pro Series 2,6497.64,12,0.05,2655.72,16.48
+ORD-2024-10428,2024-05-16,CUST-357,Consumer,Europe,Technology,Cloud Servers,Cloud Servers Pro Series 2,171.76,2,0.15,49.03,6.05
+ORD-2024-11021,2024-05-17,CUST-433,Small Business,Latin America,Technology,Cloud Servers,Cloud Servers Pro Series 5,167.41,3,0.2,35.75,18.4
+ORD-2024-10349,2024-05-19,CUST-384,Consumer,Middle East,Technology,Monitors,Monitors Pro Series 7,4925.78,7,0.0,1538.18,37.05
+ORD-2024-10643,2024-05-19,CUST-665,Enterprise,Asia Pacific,Office Supplies,Storage,Storage Pro Series 2,2336.53,9,0.15,779.14,41.39
+ORD-2024-10667,2024-05-19,CUST-889,Enterprise,North America,Technology,Smartphones,Smartphones Pro Series 3,4243.64,7,0.1,1085.73,43.18
+ORD-2024-10843,2024-05-19,CUST-195,Corporate,Middle East,Technology,Laptops,Laptops Pro Series 5,7143.04,9,0.0,1152.53,21.96
+ORD-2024-10180,2024-05-20,CUST-785,Corporate,Europe,Technology,Laptops,Laptops Pro Series 7,3743.32,6,0.0,919.52,10.5
+ORD-2024-11129,2024-05-20,CUST-281,Enterprise,Middle East,Office Supplies,Paper,Paper Pro Series 6,218.32,3,0.25,35.21,5.28
+ORD-2024-10266,2024-05-21,CUST-544,Consumer,Latin America,Office Supplies,Fasteners,Fasteners Pro Series 1,893.01,5,0.25,203.43,9.78
+ORD-2024-11026,2024-05-21,CUST-348,Small Business,Europe,Furniture,Bookcases,Bookcases Pro Series 2,861.76,12,0.25,140.22,21.4
+ORD-2024-10876,2024-05-22,CUST-760,Enterprise,North America,Office Supplies,Fasteners,Fasteners Pro Series 3,3196.79,12,0.0,859.97,20.12
+ORD-2024-10982,2024-05-23,CUST-206,Enterprise,North America,Office Supplies,Appliances,Appliances Pro Series 7,292.7,1,0.1,96.19,44.31
+ORD-2024-10031,2024-05-24,CUST-205,Small Business,Middle East,Furniture,Lighting,Lighting Pro Series 3,1157.64,4,0.05,214.83,5.99
+ORD-2024-10455,2024-05-24,CUST-740,Corporate,Middle East,Office Supplies,Fasteners,Fasteners Pro Series 7,453.13,12,0.25,125.53,31.98
+ORD-2024-10654,2024-05-24,CUST-696,Enterprise,North America,Technology,Cloud Servers,Cloud Servers Pro Series 3,4230.55,6,0.15,1032.02,33.53
+ORD-2024-10841,2024-05-24,CUST-723,Enterprise,Latin America,Technology,Cloud Servers,Cloud Servers Pro Series 6,3252.84,8,0.1,534.17,25.82
+ORD-2024-10381,2024-05-25,CUST-302,Enterprise,Asia Pacific,Furniture,Tables,Tables Pro Series 4,221.04,2,0.0,39.78,17.71
+ORD-2024-10618,2024-05-25,CUST-609,Corporate,Europe,Technology,Laptops,Laptops Pro Series 1,897.02,2,0.0,142.07,20.31
+ORD-2024-10993,2024-05-26,CUST-548,Small Business,Europe,Technology,Smartphones,Smartphones Pro Series 7,5958.82,9,0.05,2527.7,5.97
+ORD-2024-10179,2024-05-28,CUST-590,Corporate,Europe,Office Supplies,Storage,Storage Pro Series 9,1271.92,12,0.0,337.44,28.47
+ORD-2024-10461,2024-05-28,CUST-407,Consumer,Middle East,Furniture,Lighting,Lighting Pro Series 4,441.32,12,0.1,93.62,11.92
+ORD-2024-11155,2024-05-28,CUST-952,Small Business,North America,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 7,908.79,6,0.25,354.58,13.6
+ORD-2024-10044,2024-05-30,CUST-353,Small Business,Middle East,Furniture,Tables,Tables Pro Series 5,294.89,8,0.1,111.96,18.43
+ORD-2024-10651,2024-05-30,CUST-191,Small Business,Europe,Office Supplies,Paper,Paper Pro Series 1,1949.79,12,0.15,393.51,24.77
+ORD-2024-11014,2024-05-30,CUST-490,Enterprise,Europe,Technology,Laptops,Laptops Pro Series 5,8918.51,11,0.0,1340.97,35.85
+ORD-2024-10686,2024-05-31,CUST-793,Corporate,Europe,Office Supplies,Paper,Paper Pro Series 2,764.44,6,0.2,292.01,27.48
+ORD-2024-10305,2024-06-01,CUST-576,Small Business,Europe,Furniture,Lighting,Lighting Pro Series 1,600.75,3,0.25,252.91,31.73
+ORD-2024-10597,2024-06-01,CUST-755,Enterprise,North America,Office Supplies,Storage,Storage Pro Series 7,404.51,3,0.25,103.78,6.14
+ORD-2024-11148,2024-06-02,CUST-644,Corporate,Asia Pacific,Furniture,Lighting,Lighting Pro Series 9,1123.42,5,0.0,176.19,42.83
+ORD-2024-11177,2024-06-02,CUST-428,Consumer,North America,Furniture,Chairs,Chairs Pro Series 8,248.15,1,0.05,43.66,6.86
+ORD-2024-10956,2024-06-03,CUST-663,Consumer,Asia Pacific,Furniture,Tables,Tables Pro Series 3,1026.11,7,0.2,359.01,22.65
+ORD-2024-10213,2024-06-04,CUST-506,Consumer,Asia Pacific,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 4,815.96,12,0.25,164.48,8.22
+ORD-2024-10136,2024-06-07,CUST-625,Corporate,Latin America,Technology,Smartphones,Smartphones Pro Series 8,4051.33,6,0.15,1758.37,25.08
+ORD-2024-10358,2024-06-07,CUST-451,Small Business,Latin America,Technology,Smartphones,Smartphones Pro Series 7,4575.09,10,0.25,1355.65,38.72
+ORD-2024-10390,2024-06-07,CUST-859,Small Business,Middle East,Office Supplies,Fasteners,Fasteners Pro Series 3,1474.08,7,0.1,403.45,40.93
+ORD-2024-10541,2024-06-07,CUST-376,Small Business,North America,Furniture,Lighting,Lighting Pro Series 7,1644.03,8,0.25,620.56,31.88
+ORD-2024-11054,2024-06-07,CUST-226,Enterprise,Latin America,Technology,Accessories,Accessories Pro Series 2,163.67,2,0.25,39.11,34.31
+ORD-2024-10200,2024-06-08,CUST-670,Corporate,Latin America,Office Supplies,Appliances,Appliances Pro Series 1,1486.94,6,0.25,499.1,25.98
+ORD-2024-10866,2024-06-08,CUST-232,Small Business,North America,Office Supplies,Paper,Paper Pro Series 4,2936.26,12,0.15,718.18,39.81
+ORD-2024-11111,2024-06-08,CUST-569,Corporate,Middle East,Office Supplies,Appliances,Appliances Pro Series 1,248.81,2,0.0,101.01,44.07
+ORD-2024-10410,2024-06-09,CUST-720,Corporate,Latin America,Furniture,Lighting,Lighting Pro Series 1,294.55,5,0.2,123.14,7.9
+ORD-2024-10476,2024-06-09,CUST-163,Small Business,Latin America,Technology,Monitors,Monitors Pro Series 5,582.65,4,0.15,147.36,8.51
+ORD-2024-10546,2024-06-09,CUST-537,Small Business,Asia Pacific,Technology,Laptops,Laptops Pro Series 5,320.62,1,0.1,48.48,15.33
+ORD-2024-10050,2024-06-10,CUST-951,Enterprise,Asia Pacific,Technology,Cloud Servers,Cloud Servers Pro Series 1,5200.58,12,0.1,1990.44,7.74
+ORD-2024-10152,2024-06-10,CUST-216,Consumer,Europe,Furniture,Lighting,Lighting Pro Series 7,441.04,9,0.1,105.32,13.58
+ORD-2024-10238,2024-06-10,CUST-820,Consumer,Middle East,Technology,Monitors,Monitors Pro Series 3,1585.02,6,0.15,659.07,31.83
+ORD-2024-10750,2024-06-11,CUST-229,Enterprise,Europe,Office Supplies,Paper,Paper Pro Series 8,2309.31,11,0.05,686.83,35.05
+ORD-2024-10339,2024-06-12,CUST-903,Consumer,Latin America,Technology,Monitors,Monitors Pro Series 4,3397.2,5,0.05,1163.96,21.39
+ORD-2024-10518,2024-06-12,CUST-456,Corporate,Middle East,Technology,Cloud Servers,Cloud Servers Pro Series 2,2969.52,6,0.0,630.34,26.31
+ORD-2024-10430,2024-06-13,CUST-741,Corporate,Europe,Office Supplies,Binders,Binders Pro Series 1,213.56,1,0.1,40.73,23.69
+ORD-2024-10561,2024-06-13,CUST-810,Enterprise,Europe,Technology,Smartphones,Smartphones Pro Series 5,3508.37,9,0.05,591.42,29.42
+ORD-2024-10653,2024-06-13,CUST-793,Corporate,Latin America,Technology,Cloud Servers,Cloud Servers Pro Series 3,253.94,1,0.1,96.33,23.04
+ORD-2024-10971,2024-06-13,CUST-707,Consumer,North America,Furniture,Bookcases,Bookcases Pro Series 1,931.04,7,0.0,405.03,10.51
+ORD-2024-11100,2024-06-13,CUST-790,Enterprise,Middle East,Furniture,Lighting,Lighting Pro Series 2,803.63,6,0.25,127.72,6.08
+ORD-2024-10425,2024-06-14,CUST-432,Enterprise,Latin America,Technology,Cloud Servers,Cloud Servers Pro Series 5,4220.81,8,0.05,799.94,30.62
+ORD-2024-10085,2024-06-15,CUST-332,Consumer,Latin America,Technology,Laptops,Laptops Pro Series 8,1815.6,3,0.0,791.97,36.85
+ORD-2024-10499,2024-06-15,CUST-723,Small Business,Asia Pacific,Office Supplies,Fasteners,Fasteners Pro Series 6,563.01,3,0.15,165.57,30.27
+ORD-2024-10074,2024-06-16,CUST-510,Consumer,Latin America,Technology,Accessories,Accessories Pro Series 5,727.96,6,0.15,138.7,38.0
+ORD-2024-10119,2024-06-16,CUST-514,Consumer,Asia Pacific,Technology,Monitors,Monitors Pro Series 8,9429.79,12,0.0,3007.98,9.23
+ORD-2024-10596,2024-06-16,CUST-602,Consumer,Asia Pacific,Office Supplies,Storage,Storage Pro Series 8,2247.38,9,0.05,993.23,5.1
+ORD-2024-10800,2024-06-16,CUST-541,Corporate,Europe,Furniture,Tables,Tables Pro Series 3,569.5,4,0.2,94.23,23.03
+ORD-2024-10998,2024-06-16,CUST-647,Corporate,Middle East,Office Supplies,Fasteners,Fasteners Pro Series 5,1244.58,7,0.2,299.63,9.43
+ORD-2024-11037,2024-06-16,CUST-365,Consumer,Europe,Office Supplies,Storage,Storage Pro Series 3,134.87,2,0.2,30.15,6.09
+ORD-2024-10068,2024-06-17,CUST-337,Small Business,Asia Pacific,Office Supplies,Appliances,Appliances Pro Series 2,922.65,11,0.1,197.13,30.0
+ORD-2024-10745,2024-06-17,CUST-299,Small Business,North America,Technology,Smartphones,Smartphones Pro Series 4,851.93,5,0.1,199.65,18.59
+ORD-2024-10086,2024-06-19,CUST-483,Enterprise,Europe,Technology,Monitors,Monitors Pro Series 7,5656.68,10,0.05,2257.04,8.16
+ORD-2024-10295,2024-06-19,CUST-281,Consumer,Middle East,Furniture,Lighting,Lighting Pro Series 1,520.32,3,0.2,199.66,27.62
+ORD-2024-10411,2024-06-19,CUST-219,Small Business,Middle East,Office Supplies,Storage,Storage Pro Series 8,1354.35,7,0.05,301.69,43.45
+ORD-2024-10447,2024-06-19,CUST-813,Enterprise,Europe,Office Supplies,Binders,Binders Pro Series 9,629.51,6,0.15,231.28,38.25
+ORD-2024-10525,2024-06-19,CUST-478,Consumer,North America,Office Supplies,Fasteners,Fasteners Pro Series 6,607.04,2,0.0,230.33,33.09
+ORD-2024-11015,2024-06-20,CUST-684,Enterprise,North America,Office Supplies,Storage,Storage Pro Series 6,884.41,5,0.25,183.0,29.32
+ORD-2024-10674,2024-06-21,CUST-701,Enterprise,Latin America,Office Supplies,Storage,Storage Pro Series 6,257.12,3,0.0,58.08,29.16
+ORD-2024-10715,2024-06-21,CUST-201,Small Business,Europe,Furniture,Bookcases,Bookcases Pro Series 5,2313.0,7,0.0,1004.85,14.58
+ORD-2024-10880,2024-06-21,CUST-623,Enterprise,Europe,Technology,Smartphones,Smartphones Pro Series 1,1488.49,4,0.05,512.05,16.47
+ORD-2024-10225,2024-06-22,CUST-901,Consumer,Asia Pacific,Furniture,Tables,Tables Pro Series 8,1883.46,10,0.15,787.11,17.19
+ORD-2024-10524,2024-06-22,CUST-913,Small Business,Latin America,Office Supplies,Storage,Storage Pro Series 2,141.76,10,0.2,46.6,10.1
+ORD-2024-10946,2024-06-22,CUST-565,Enterprise,North America,Furniture,Lighting,Lighting Pro Series 2,90.04,1,0.0,36.77,44.74
+ORD-2024-10602,2024-06-23,CUST-801,Small Business,North America,Office Supplies,Fasteners,Fasteners Pro Series 6,46.37,3,0.2,16.95,36.15
+ORD-2024-10986,2024-06-24,CUST-760,Enterprise,North America,Furniture,Tables,Tables Pro Series 8,2022.57,12,0.0,314.46,19.31
+ORD-2024-11002,2024-06-24,CUST-970,Corporate,North America,Technology,Laptops,Laptops Pro Series 4,4104.31,9,0.15,1007.27,34.52
+ORD-2024-10475,2024-06-25,CUST-601,Enterprise,Europe,Technology,Accessories,Accessories Pro Series 6,3136.05,6,0.05,474.18,44.14
+ORD-2024-11009,2024-06-25,CUST-666,Corporate,North America,Furniture,Tables,Tables Pro Series 1,746.83,4,0.25,164.86,43.12
+ORD-2024-11012,2024-06-25,CUST-654,Small Business,North America,Office Supplies,Storage,Storage Pro Series 5,875.42,10,0.0,304.4,38.17
+ORD-2024-11153,2024-06-25,CUST-248,Small Business,Asia Pacific,Office Supplies,Storage,Storage Pro Series 6,756.39,8,0.2,251.07,21.68
+ORD-2024-10404,2024-06-26,CUST-452,Enterprise,Europe,Office Supplies,Paper,Paper Pro Series 4,2107.8,8,0.05,885.1,25.33
+ORD-2024-10753,2024-06-26,CUST-486,Corporate,Asia Pacific,Furniture,Lighting,Lighting Pro Series 2,720.34,3,0.1,228.09,19.06
+ORD-2024-10116,2024-06-27,CUST-325,Enterprise,Middle East,Technology,Laptops,Laptops Pro Series 4,3829.73,5,0.05,845.42,16.58
+ORD-2024-10879,2024-06-27,CUST-590,Corporate,Europe,Technology,Monitors,Monitors Pro Series 5,5333.79,11,0.0,1080.21,9.11
+ORD-2024-10037,2024-06-28,CUST-518,Small Business,Latin America,Office Supplies,Storage,Storage Pro Series 9,178.35,3,0.25,29.94,32.09
+ORD-2024-10077,2024-06-29,CUST-114,Enterprise,North America,Technology,Laptops,Laptops Pro Series 8,1079.52,2,0.05,324.38,33.66
+ORD-2024-10439,2024-06-29,CUST-918,Enterprise,Asia Pacific,Furniture,Chairs,Chairs Pro Series 6,565.42,2,0.05,244.93,36.03
+ORD-2024-10981,2024-06-29,CUST-106,Enterprise,Middle East,Office Supplies,Binders,Binders Pro Series 2,24.02,2,0.2,4.47,25.79
+ORD-2024-11087,2024-06-29,CUST-488,Small Business,Europe,Furniture,Tables,Tables Pro Series 6,603.13,7,0.05,222.05,12.97
+ORD-2024-10511,2024-06-30,CUST-314,Small Business,Europe,Technology,Accessories,Accessories Pro Series 5,2335.7,9,0.15,580.8,15.91
+ORD-2024-10832,2024-06-30,CUST-460,Corporate,North America,Office Supplies,Paper,Paper Pro Series 4,70.2,1,0.1,13.56,13.61
+ORD-2024-11062,2024-06-30,CUST-767,Corporate,Asia Pacific,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 9,2042.88,9,0.25,869.39,9.2
+ORD-2024-10278,2024-07-01,CUST-920,Enterprise,Asia Pacific,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 5,152.08,4,0.05,62.23,35.81
+ORD-2024-10474,2024-07-01,CUST-987,Consumer,Europe,Technology,Monitors,Monitors Pro Series 8,7119.72,9,0.0,3118.97,41.89
+ORD-2024-10145,2024-07-02,CUST-417,Enterprise,Middle East,Furniture,Bookcases,Bookcases Pro Series 1,782.29,11,0.1,149.7,6.91
+ORD-2024-10413,2024-07-02,CUST-461,Consumer,Asia Pacific,Technology,Accessories,Accessories Pro Series 2,3710.44,7,0.1,1585.07,42.26
+ORD-2024-11008,2024-07-03,CUST-654,Consumer,North America,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 8,196.08,5,0.05,38.74,25.84
+ORD-2024-10464,2024-07-04,CUST-678,Corporate,Asia Pacific,Office Supplies,Binders,Binders Pro Series 3,204.57,1,0.15,32.46,35.11
+ORD-2024-11034,2024-07-04,CUST-280,Small Business,North America,Technology,Accessories,Accessories Pro Series 8,425.43,6,0.2,76.92,28.19
+ORD-2024-10941,2024-07-05,CUST-338,Consumer,Latin America,Furniture,Lighting,Lighting Pro Series 4,632.52,9,0.2,231.87,29.32
+ORD-2024-10123,2024-07-06,CUST-742,Small Business,Europe,Furniture,Chairs,Chairs Pro Series 8,1630.9,8,0.1,444.54,19.08
+ORD-2024-10007,2024-07-07,CUST-886,Consumer,Europe,Technology,Accessories,Accessories Pro Series 7,411.8,5,0.2,77.04,17.59
+ORD-2024-10114,2024-07-07,CUST-681,Consumer,North America,Technology,Smartphones,Smartphones Pro Series 1,1077.73,11,0.15,270.96,24.43
+ORD-2024-10175,2024-07-07,CUST-778,Enterprise,Middle East,Furniture,Bookcases,Bookcases Pro Series 3,2308.04,8,0.1,660.37,32.03
+ORD-2024-10484,2024-07-07,CUST-568,Corporate,Latin America,Furniture,Chairs,Chairs Pro Series 7,1150.28,12,0.2,193.54,27.88
+ORD-2024-10228,2024-07-08,CUST-387,Enterprise,Asia Pacific,Technology,Monitors,Monitors Pro Series 4,8054.21,10,0.05,1977.2,27.0
+ORD-2024-10773,2024-07-08,CUST-866,Enterprise,Latin America,Furniture,Chairs,Chairs Pro Series 2,1586.94,9,0.25,261.84,10.61
+ORD-2024-10191,2024-07-09,CUST-632,Enterprise,North America,Office Supplies,Binders,Binders Pro Series 8,537.42,2,0.15,111.46,23.14
+ORD-2024-10367,2024-07-10,CUST-826,Corporate,North America,Technology,Accessories,Accessories Pro Series 1,4475.52,11,0.25,1609.64,36.6
+ORD-2024-10744,2024-07-11,CUST-857,Enterprise,Europe,Furniture,Tables,Tables Pro Series 1,98.89,6,0.1,43.61,9.61
+ORD-2024-10576,2024-07-12,CUST-133,Small Business,Latin America,Furniture,Lighting,Lighting Pro Series 9,2108.63,10,0.25,897.67,40.23
+ORD-2024-10979,2024-07-12,CUST-199,Small Business,Middle East,Furniture,Bookcases,Bookcases Pro Series 1,394.59,2,0.25,117.1,33.68
+ORD-2024-10559,2024-07-13,CUST-223,Small Business,Europe,Furniture,Tables,Tables Pro Series 6,600.87,9,0.05,103.53,6.63
+ORD-2024-10253,2024-07-14,CUST-691,Corporate,Middle East,Furniture,Bookcases,Bookcases Pro Series 1,41.1,1,0.15,18.29,42.18
+ORD-2024-10028,2024-07-17,CUST-803,Small Business,Middle East,Furniture,Bookcases,Bookcases Pro Series 1,409.47,2,0.1,178.85,18.34
+ORD-2024-10537,2024-07-17,CUST-186,Corporate,Middle East,Technology,Cloud Servers,Cloud Servers Pro Series 7,1430.13,7,0.15,332.08,11.69
+ORD-2024-10584,2024-07-17,CUST-761,Small Business,Latin America,Office Supplies,Fasteners,Fasteners Pro Series 9,1077.97,8,0.2,442.41,36.57
+ORD-2024-10910,2024-07-17,CUST-718,Enterprise,Europe,Office Supplies,Appliances,Appliances Pro Series 2,669.14,5,0.2,269.85,23.8
+ORD-2024-11186,2024-07-17,CUST-631,Small Business,North America,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 1,489.8,9,0.05,77.13,38.2
+ORD-2024-10683,2024-07-18,CUST-337,Corporate,Middle East,Office Supplies,Storage,Storage Pro Series 8,699.44,3,0.25,165.48,43.39
+ORD-2024-10035,2024-07-19,CUST-905,Small Business,Latin America,Office Supplies,Fasteners,Fasteners Pro Series 2,2103.62,7,0.05,785.88,33.35
+ORD-2024-11097,2024-07-19,CUST-505,Corporate,Latin America,Technology,Smartphones,Smartphones Pro Series 4,873.08,3,0.0,344.54,39.31
+ORD-2024-11006,2024-07-21,CUST-770,Corporate,Asia Pacific,Technology,Monitors,Monitors Pro Series 7,3456.4,8,0.25,1475.74,15.01
+ORD-2024-10141,2024-07-23,CUST-684,Enterprise,Europe,Office Supplies,Paper,Paper Pro Series 9,180.83,6,0.2,51.86,36.46
+ORD-2024-10905,2024-07-23,CUST-172,Corporate,Latin America,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 5,1769.64,8,0.05,297.39,43.87
+ORD-2024-10938,2024-07-23,CUST-747,Consumer,Latin America,Technology,Laptops,Laptops Pro Series 9,2337.73,5,0.1,628.46,40.09
+ORD-2024-10018,2024-07-24,CUST-520,Enterprise,North America,Office Supplies,Paper,Paper Pro Series 1,1812.66,7,0.0,680.48,12.61
+ORD-2024-10285,2024-07-24,CUST-291,Small Business,Asia Pacific,Furniture,Tables,Tables Pro Series 1,2113.03,10,0.05,540.55,24.96
+ORD-2024-11173,2024-07-24,CUST-417,Consumer,Latin America,Office Supplies,Storage,Storage Pro Series 4,389.62,12,0.25,80.63,40.04
+ORD-2024-10976,2024-07-26,CUST-462,Enterprise,Latin America,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 8,320.71,1,0.0,52.2,21.84
+ORD-2024-10003,2024-07-27,CUST-452,Small Business,North America,Office Supplies,Appliances,Appliances Pro Series 9,579.69,2,0.15,247.16,16.73
+ORD-2024-10206,2024-07-27,CUST-367,Small Business,Middle East,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 2,1860.62,12,0.1,326.91,19.83
+ORD-2024-10862,2024-07-28,CUST-897,Small Business,Europe,Office Supplies,Storage,Storage Pro Series 4,1436.57,10,0.0,590.22,34.7
+ORD-2024-10888,2024-07-28,CUST-308,Consumer,Asia Pacific,Office Supplies,Appliances,Appliances Pro Series 3,62.93,2,0.1,21.51,38.97
+ORD-2024-10931,2024-07-28,CUST-958,Corporate,Latin America,Technology,Cloud Servers,Cloud Servers Pro Series 1,571.52,7,0.25,244.1,32.49
+ORD-2024-10638,2024-07-29,CUST-773,Consumer,Latin America,Office Supplies,Binders,Binders Pro Series 4,330.04,2,0.2,56.15,25.88
+ORD-2024-10642,2024-07-29,CUST-832,Small Business,Asia Pacific,Technology,Monitors,Monitors Pro Series 1,6957.34,12,0.0,1689.21,36.55
+ORD-2024-10837,2024-07-29,CUST-441,Small Business,Europe,Technology,Accessories,Accessories Pro Series 1,668.28,2,0.05,224.82,9.2
+ORD-2024-10127,2024-07-30,CUST-389,Enterprise,Latin America,Furniture,Lighting,Lighting Pro Series 1,2550.32,11,0.0,895.4,27.32
+ORD-2024-10965,2024-07-30,CUST-113,Small Business,Asia Pacific,Office Supplies,Storage,Storage Pro Series 9,2658.31,11,0.2,809.97,15.8
+ORD-2024-10403,2024-07-31,CUST-382,Enterprise,Europe,Furniture,Lighting,Lighting Pro Series 9,479.17,8,0.2,135.86,15.15
+ORD-2024-11180,2024-07-31,CUST-728,Consumer,Latin America,Furniture,Lighting,Lighting Pro Series 4,252.14,3,0.05,52.54,10.7
+ORD-2024-10587,2024-08-02,CUST-310,Consumer,Asia Pacific,Furniture,Tables,Tables Pro Series 6,1488.5,8,0.05,431.53,9.86
+ORD-2024-10957,2024-08-02,CUST-150,Enterprise,Latin America,Technology,Accessories,Accessories Pro Series 4,1205.29,7,0.1,350.9,24.74
+ORD-2024-10507,2024-08-03,CUST-949,Small Business,Europe,Office Supplies,Storage,Storage Pro Series 3,280.72,2,0.0,60.82,41.53
+ORD-2024-10109,2024-08-04,CUST-233,Consumer,Middle East,Office Supplies,Fasteners,Fasteners Pro Series 6,553.88,11,0.1,104.08,42.65
+ORD-2024-10169,2024-08-04,CUST-447,Small Business,Europe,Technology,Monitors,Monitors Pro Series 9,3150.44,7,0.0,1380.92,33.54
+ORD-2024-10847,2024-08-04,CUST-215,Small Business,Europe,Office Supplies,Paper,Paper Pro Series 5,795.81,5,0.1,307.25,34.52
+ORD-2024-10595,2024-08-05,CUST-106,Enterprise,Asia Pacific,Furniture,Tables,Tables Pro Series 9,1922.29,8,0.05,750.12,38.29
+ORD-2024-10932,2024-08-05,CUST-421,Enterprise,Europe,Technology,Accessories,Accessories Pro Series 1,1299.9,3,0.25,348.38,6.26
+ORD-2024-11178,2024-08-06,CUST-712,Corporate,Europe,Technology,Laptops,Laptops Pro Series 6,494.8,4,0.0,205.97,24.03
+ORD-2024-10106,2024-08-08,CUST-711,Small Business,Latin America,Office Supplies,Fasteners,Fasteners Pro Series 7,561.37,2,0.0,109.0,31.04
+ORD-2024-10792,2024-08-08,CUST-413,Enterprise,Asia Pacific,Furniture,Lighting,Lighting Pro Series 8,189.95,2,0.25,58.74,11.19
+ORD-2024-10949,2024-08-08,CUST-815,Corporate,Europe,Office Supplies,Appliances,Appliances Pro Series 2,347.63,3,0.05,77.9,40.51
+ORD-2024-10477,2024-08-09,CUST-794,Corporate,Latin America,Technology,Monitors,Monitors Pro Series 3,4628.01,7,0.2,1625.42,26.69
+ORD-2024-11024,2024-08-09,CUST-764,Consumer,North America,Technology,Monitors,Monitors Pro Series 9,4156.95,10,0.25,1349.25,34.32
+ORD-2024-10218,2024-08-10,CUST-857,Corporate,North America,Office Supplies,Storage,Storage Pro Series 1,322.85,2,0.0,112.29,35.76
+ORD-2024-11011,2024-08-10,CUST-119,Enterprise,Latin America,Furniture,Chairs,Chairs Pro Series 4,426.22,4,0.25,136.68,7.09
+ORD-2024-11125,2024-08-10,CUST-768,Enterprise,Latin America,Furniture,Tables,Tables Pro Series 1,720.84,10,0.2,190.32,44.96
+ORD-2024-10082,2024-08-11,CUST-779,Corporate,Latin America,Technology,Smartphones,Smartphones Pro Series 9,3155.96,10,0.0,592.51,22.61
+ORD-2024-10128,2024-08-12,CUST-358,Corporate,Asia Pacific,Technology,Monitors,Monitors Pro Series 3,1341.83,6,0.25,322.65,20.68
+ORD-2024-11103,2024-08-12,CUST-940,Enterprise,North America,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 3,356.17,3,0.2,71.14,23.6
+ORD-2024-10325,2024-08-13,CUST-136,Corporate,Asia Pacific,Office Supplies,Binders,Binders Pro Series 9,2293.01,11,0.25,785.24,17.01
+ORD-2024-10554,2024-08-13,CUST-911,Small Business,Latin America,Office Supplies,Appliances,Appliances Pro Series 1,115.79,1,0.1,24.74,6.71
+ORD-2024-10900,2024-08-14,CUST-464,Corporate,North America,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 9,348.14,2,0.05,154.19,36.84
+ORD-2024-10985,2024-08-14,CUST-814,Consumer,Latin America,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 3,109.95,1,0.0,30.87,5.44
+ORD-2024-10644,2024-08-15,CUST-361,Small Business,North America,Technology,Accessories,Accessories Pro Series 4,1761.1,3,0.25,624.92,37.49
+ORD-2024-10526,2024-08-16,CUST-425,Enterprise,Latin America,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 9,805.57,4,0.15,328.9,27.22
+ORD-2024-10770,2024-08-16,CUST-144,Corporate,Europe,Furniture,Lighting,Lighting Pro Series 5,2656.16,11,0.25,616.33,41.09
+ORD-2024-11099,2024-08-16,CUST-317,Enterprise,Latin America,Furniture,Tables,Tables Pro Series 2,386.02,7,0.05,127.4,18.08
+ORD-2024-10429,2024-08-18,CUST-883,Consumer,North America,Furniture,Lighting,Lighting Pro Series 3,398.43,2,0.15,142.31,14.9
+ORD-2024-10466,2024-08-19,CUST-187,Enterprise,Middle East,Furniture,Tables,Tables Pro Series 3,1376.08,8,0.15,456.04,27.85
+ORD-2024-10113,2024-08-20,CUST-245,Consumer,North America,Office Supplies,Fasteners,Fasteners Pro Series 4,980.56,7,0.1,394.95,17.47
+ORD-2024-10519,2024-08-20,CUST-523,Corporate,Middle East,Technology,Monitors,Monitors Pro Series 3,2570.78,8,0.1,996.25,32.76
+ORD-2024-10926,2024-08-21,CUST-425,Corporate,Latin America,Technology,Laptops,Laptops Pro Series 3,1041.83,9,0.2,223.7,38.72
+ORD-2024-11060,2024-08-21,CUST-958,Enterprise,Middle East,Office Supplies,Fasteners,Fasteners Pro Series 4,244.87,1,0.1,79.94,34.62
+ORD-2024-10718,2024-08-23,CUST-185,Corporate,Europe,Furniture,Lighting,Lighting Pro Series 3,663.25,4,0.15,107.18,27.21
+ORD-2024-10916,2024-08-23,CUST-633,Consumer,Latin America,Technology,Cloud Servers,Cloud Servers Pro Series 2,213.65,1,0.05,69.21,26.84
+ORD-2024-11022,2024-08-24,CUST-767,Small Business,Latin America,Furniture,Lighting,Lighting Pro Series 1,373.63,3,0.1,63.86,41.47
+ORD-2024-11029,2024-08-24,CUST-617,Corporate,Middle East,Furniture,Tables,Tables Pro Series 3,161.57,8,0.0,52.42,35.62
+ORD-2024-10394,2024-08-26,CUST-349,Consumer,Europe,Office Supplies,Fasteners,Fasteners Pro Series 3,677.69,3,0.0,123.86,10.87
+ORD-2024-10603,2024-08-26,CUST-266,Consumer,Europe,Technology,Monitors,Monitors Pro Series 4,2195.47,4,0.2,583.93,38.26
+ORD-2024-10850,2024-08-26,CUST-599,Consumer,Europe,Office Supplies,Storage,Storage Pro Series 4,1061.61,8,0.1,361.64,40.69
+ORD-2024-10207,2024-08-28,CUST-676,Corporate,Europe,Technology,Accessories,Accessories Pro Series 9,4363.17,10,0.15,1577.03,12.85
+ORD-2024-10046,2024-08-29,CUST-311,Enterprise,Latin America,Office Supplies,Paper,Paper Pro Series 7,122.22,8,0.1,44.05,20.6
+ORD-2024-10364,2024-08-29,CUST-907,Small Business,Middle East,Technology,Laptops,Laptops Pro Series 5,1857.93,4,0.15,373.45,41.46
+ORD-2024-10174,2024-08-30,CUST-522,Corporate,Latin America,Office Supplies,Fasteners,Fasteners Pro Series 8,2328.12,12,0.25,951.21,13.29
+ORD-2024-10231,2024-08-30,CUST-137,Small Business,Middle East,Office Supplies,Paper,Paper Pro Series 2,847.07,4,0.1,338.91,29.51
+ORD-2024-10398,2024-08-31,CUST-253,Consumer,Europe,Furniture,Lighting,Lighting Pro Series 1,1652.54,9,0.0,697.44,31.38
+ORD-2024-10583,2024-08-31,CUST-855,Consumer,Asia Pacific,Technology,Laptops,Laptops Pro Series 1,2297.47,4,0.2,589.53,21.47
+ORD-2024-10914,2024-08-31,CUST-586,Corporate,Latin America,Furniture,Lighting,Lighting Pro Series 7,162.32,1,0.2,63.37,33.91
+ORD-2024-11193,2024-08-31,CUST-705,Corporate,Europe,Furniture,Chairs,Chairs Pro Series 4,263.7,5,0.15,108.9,34.59
+ORD-2024-10010,2024-09-01,CUST-165,Enterprise,Latin America,Office Supplies,Appliances,Appliances Pro Series 9,1701.56,5,0.0,418.44,9.58
+ORD-2024-10110,2024-09-02,CUST-838,Consumer,Asia Pacific,Office Supplies,Storage,Storage Pro Series 6,396.35,2,0.05,159.96,24.29
+ORD-2024-10420,2024-09-02,CUST-529,Small Business,Asia Pacific,Furniture,Bookcases,Bookcases Pro Series 8,495.41,3,0.2,120.98,37.57
+ORD-2024-10468,2024-09-02,CUST-456,Corporate,Asia Pacific,Furniture,Lighting,Lighting Pro Series 1,322.65,5,0.1,85.55,44.61
+ORD-2024-10529,2024-09-02,CUST-939,Enterprise,Latin America,Furniture,Tables,Tables Pro Series 3,1218.18,7,0.2,366.13,34.24
+ORD-2024-10108,2024-09-04,CUST-781,Small Business,Asia Pacific,Technology,Cloud Servers,Cloud Servers Pro Series 2,1430.84,2,0.0,458.49,34.78
+ORD-2024-10859,2024-09-04,CUST-162,Enterprise,North America,Furniture,Chairs,Chairs Pro Series 5,588.53,6,0.1,139.2,14.88
+ORD-2024-10885,2024-09-04,CUST-844,Small Business,Europe,Technology,Accessories,Accessories Pro Series 3,1792.88,3,0.1,635.05,21.95
+ORD-2024-10303,2024-09-05,CUST-401,Enterprise,Europe,Technology,Laptops,Laptops Pro Series 4,1681.66,3,0.0,517.83,9.62
+ORD-2024-10925,2024-09-06,CUST-669,Enterprise,Europe,Office Supplies,Appliances,Appliances Pro Series 1,1190.62,10,0.25,396.33,34.12
+ORD-2024-10967,2024-09-06,CUST-311,Consumer,Europe,Furniture,Chairs,Chairs Pro Series 5,2266.43,11,0.15,348.58,40.04
+ORD-2024-11036,2024-09-06,CUST-384,Small Business,North America,Furniture,Bookcases,Bookcases Pro Series 3,189.43,2,0.15,60.3,40.41
+ORD-2024-10520,2024-09-07,CUST-545,Small Business,Middle East,Office Supplies,Binders,Binders Pro Series 3,1974.37,11,0.25,337.11,27.97
+ORD-2024-10658,2024-09-08,CUST-366,Consumer,Asia Pacific,Technology,Smartphones,Smartphones Pro Series 8,2755.1,5,0.15,1005.95,40.08
+ORD-2024-10958,2024-09-08,CUST-797,Consumer,Europe,Technology,Smartphones,Smartphones Pro Series 2,612.84,1,0.2,226.84,7.63
+ORD-2024-11013,2024-09-08,CUST-537,Consumer,North America,Office Supplies,Appliances,Appliances Pro Series 5,1225.97,9,0.2,287.16,35.76
+ORD-2024-10120,2024-09-09,CUST-510,Consumer,Latin America,Furniture,Bookcases,Bookcases Pro Series 4,1656.03,6,0.0,491.6,9.56
+ORD-2024-10374,2024-09-09,CUST-936,Consumer,Europe,Technology,Cloud Servers,Cloud Servers Pro Series 6,120.02,1,0.0,47.6,15.08
+ORD-2024-10432,2024-09-09,CUST-755,Small Business,Asia Pacific,Furniture,Lighting,Lighting Pro Series 4,293.44,2,0.1,95.76,11.23
+ORD-2024-10636,2024-09-09,CUST-762,Consumer,Europe,Technology,Accessories,Accessories Pro Series 3,231.05,1,0.1,58.32,12.04
+ORD-2024-11076,2024-09-09,CUST-456,Corporate,North America,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 6,1507.83,12,0.2,425.3,44.92
+ORD-2024-11094,2024-09-09,CUST-508,Enterprise,Europe,Furniture,Bookcases,Bookcases Pro Series 6,1744.68,8,0.1,764.1,42.16
+ORD-2024-10294,2024-09-10,CUST-754,Enterprise,Asia Pacific,Technology,Monitors,Monitors Pro Series 6,2213.22,4,0.05,744.71,34.36
+ORD-2024-10661,2024-09-10,CUST-606,Consumer,Latin America,Furniture,Lighting,Lighting Pro Series 8,1080.91,8,0.25,205.3,9.95
+ORD-2024-10671,2024-09-10,CUST-920,Enterprise,Asia Pacific,Technology,Smartphones,Smartphones Pro Series 5,1686.51,4,0.1,471.28,27.04
+ORD-2024-10713,2024-09-10,CUST-524,Consumer,Middle East,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 5,106.81,2,0.0,30.7,16.41
+ORD-2024-11098,2024-09-10,CUST-841,Corporate,Europe,Office Supplies,Fasteners,Fasteners Pro Series 6,157.42,1,0.1,66.12,26.99
+ORD-2024-10235,2024-09-11,CUST-813,Enterprise,Asia Pacific,Technology,Accessories,Accessories Pro Series 1,1534.34,12,0.1,392.19,32.09
+ORD-2024-11158,2024-09-11,CUST-391,Consumer,Latin America,Technology,Laptops,Laptops Pro Series 6,4343.65,12,0.05,815.8,28.59
+ORD-2024-10039,2024-09-13,CUST-791,Corporate,Middle East,Furniture,Tables,Tables Pro Series 2,703.79,5,0.25,185.96,8.74
+ORD-2024-10115,2024-09-13,CUST-379,Corporate,Middle East,Technology,Accessories,Accessories Pro Series 7,414.9,2,0.25,112.88,26.08
+ORD-2024-10441,2024-09-13,CUST-855,Consumer,Europe,Furniture,Chairs,Chairs Pro Series 9,3216.48,11,0.15,1071.93,43.45
+ORD-2024-10469,2024-09-13,CUST-249,Enterprise,North America,Technology,Smartphones,Smartphones Pro Series 6,1968.56,3,0.0,819.49,7.18
+ORD-2024-10508,2024-09-14,CUST-125,Enterprise,Middle East,Technology,Smartphones,Smartphones Pro Series 6,4070.1,8,0.2,1452.59,18.09
+ORD-2024-10515,2024-09-15,CUST-464,Small Business,Asia Pacific,Technology,Monitors,Monitors Pro Series 2,4033.85,8,0.0,831.56,41.79
+ORD-2024-10190,2024-09-16,CUST-820,Small Business,North America,Office Supplies,Paper,Paper Pro Series 1,2714.35,9,0.05,755.1,10.99
+ORD-2024-10350,2024-09-16,CUST-977,Enterprise,Latin America,Furniture,Chairs,Chairs Pro Series 8,2806.56,12,0.0,923.27,6.43
+ORD-2024-10019,2024-09-17,CUST-532,Corporate,Asia Pacific,Furniture,Tables,Tables Pro Series 2,1828.4,8,0.2,769.08,31.09
+ORD-2024-10164,2024-09-17,CUST-244,Consumer,North America,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 7,1282.5,4,0.05,264.14,42.35
+ORD-2024-10203,2024-09-17,CUST-479,Consumer,Middle East,Office Supplies,Binders,Binders Pro Series 1,565.41,5,0.2,152.17,39.94
+ORD-2024-10540,2024-09-17,CUST-794,Small Business,Middle East,Office Supplies,Paper,Paper Pro Series 2,1748.31,9,0.15,466.54,31.08
+ORD-2024-10846,2024-09-17,CUST-272,Corporate,Europe,Technology,Accessories,Accessories Pro Series 3,2993.7,9,0.0,967.51,20.16
+ORD-2024-10865,2024-09-17,CUST-834,Consumer,Latin America,Technology,Cloud Servers,Cloud Servers Pro Series 7,5724.47,9,0.2,1217.79,11.68
+ORD-2024-10066,2024-09-18,CUST-553,Small Business,Middle East,Furniture,Bookcases,Bookcases Pro Series 1,3366.36,10,0.0,557.88,13.31
+ORD-2024-10382,2024-09-18,CUST-731,Small Business,Middle East,Technology,Monitors,Monitors Pro Series 6,4656.48,6,0.05,2088.67,14.85
+ORD-2024-10913,2024-09-18,CUST-529,Corporate,Asia Pacific,Technology,Laptops,Laptops Pro Series 2,2038.78,7,0.1,816.82,18.97
+ORD-2024-11106,2024-09-18,CUST-481,Enterprise,Asia Pacific,Office Supplies,Storage,Storage Pro Series 2,824.51,3,0.2,183.14,39.81
+ORD-2024-10575,2024-09-20,CUST-890,Corporate,Latin America,Technology,Accessories,Accessories Pro Series 8,5010.5,12,0.25,2148.45,40.74
+ORD-2024-10041,2024-09-21,CUST-744,Corporate,Latin America,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 4,704.34,3,0.0,128.33,39.42
+ORD-2024-10211,2024-09-21,CUST-161,Enterprise,Latin America,Technology,Laptops,Laptops Pro Series 9,3411.64,9,0.0,993.38,15.99
+ORD-2024-10033,2024-09-23,CUST-412,Corporate,Europe,Technology,Smartphones,Smartphones Pro Series 7,1637.29,6,0.0,261.86,16.16
+ORD-2024-10412,2024-09-23,CUST-571,Consumer,Latin America,Technology,Accessories,Accessories Pro Series 2,3703.58,7,0.05,914.51,14.2
+ORD-2024-10692,2024-09-23,CUST-972,Small Business,North America,Furniture,Tables,Tables Pro Series 1,3421.11,12,0.0,1452.49,17.59
+ORD-2024-10282,2024-09-24,CUST-923,Corporate,North America,Technology,Laptops,Laptops Pro Series 4,531.69,3,0.15,179.89,30.21
+ORD-2024-10504,2024-09-24,CUST-985,Small Business,Latin America,Furniture,Chairs,Chairs Pro Series 9,765.96,5,0.25,272.18,26.44
+ORD-2024-11118,2024-09-24,CUST-860,Enterprise,Europe,Office Supplies,Binders,Binders Pro Series 7,562.44,5,0.25,109.29,43.71
+ORD-2024-10125,2024-09-25,CUST-667,Consumer,Latin America,Office Supplies,Binders,Binders Pro Series 6,1656.19,10,0.05,269.43,23.02
+ORD-2024-10196,2024-09-25,CUST-836,Enterprise,Middle East,Furniture,Tables,Tables Pro Series 4,942.94,8,0.1,371.01,40.01
+ORD-2024-10328,2024-09-25,CUST-220,Enterprise,North America,Office Supplies,Fasteners,Fasteners Pro Series 2,2002.93,8,0.2,829.32,32.23
+ORD-2024-10772,2024-09-25,CUST-174,Enterprise,Latin America,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 4,174.22,7,0.1,72.4,41.69
+ORD-2024-10052,2024-09-26,CUST-362,Small Business,Europe,Office Supplies,Fasteners,Fasteners Pro Series 2,1014.54,3,0.0,280.41,42.16
+ORD-2024-10342,2024-09-26,CUST-202,Corporate,North America,Furniture,Bookcases,Bookcases Pro Series 6,1836.88,7,0.0,357.51,40.61
+ORD-2024-10737,2024-09-26,CUST-538,Consumer,Asia Pacific,Office Supplies,Paper,Paper Pro Series 8,1068.28,9,0.05,446.11,5.49
+ORD-2024-10482,2024-09-28,CUST-765,Small Business,Europe,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 8,199.13,3,0.05,87.68,35.58
+ORD-2024-10516,2024-09-28,CUST-566,Small Business,Latin America,Furniture,Tables,Tables Pro Series 4,728.32,3,0.2,271.36,19.54
+ORD-2024-10633,2024-09-28,CUST-753,Enterprise,Middle East,Office Supplies,Paper,Paper Pro Series 9,520.72,4,0.05,196.77,34.86
+ORD-2024-10909,2024-09-28,CUST-647,Enterprise,North America,Technology,Smartphones,Smartphones Pro Series 2,4419.41,7,0.05,1456.39,7.58
+ORD-2024-10533,2024-09-29,CUST-851,Small Business,Latin America,Furniture,Bookcases,Bookcases Pro Series 5,64.4,3,0.2,14.5,34.08
+ORD-2024-10999,2024-09-30,CUST-369,Consumer,North America,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 5,508.29,4,0.0,207.49,26.88
+ORD-2024-10060,2024-10-01,CUST-643,Small Business,Latin America,Office Supplies,Fasteners,Fasteners Pro Series 6,1352.46,6,0.1,484.2,14.22
+ORD-2024-10571,2024-10-01,CUST-573,Small Business,North America,Office Supplies,Appliances,Appliances Pro Series 4,398.86,4,0.2,152.87,42.1
+ORD-2024-10589,2024-10-01,CUST-396,Corporate,Middle East,Office Supplies,Appliances,Appliances Pro Series 6,536.78,12,0.15,96.59,10.58
+ORD-2024-10313,2024-10-02,CUST-375,Small Business,North America,Furniture,Bookcases,Bookcases Pro Series 5,1115.08,5,0.25,272.69,43.9
+ORD-2024-10611,2024-10-02,CUST-814,Corporate,Latin America,Office Supplies,Paper,Paper Pro Series 3,1753.05,6,0.15,676.18,14.1
+ORD-2024-10763,2024-10-02,CUST-436,Enterprise,Asia Pacific,Technology,Smartphones,Smartphones Pro Series 2,5415.58,11,0.0,1094.26,29.13
+ORD-2024-10962,2024-10-02,CUST-442,Consumer,Europe,Furniture,Chairs,Chairs Pro Series 3,2966.56,11,0.0,806.31,43.78
+ORD-2024-10414,2024-10-03,CUST-462,Corporate,Middle East,Furniture,Tables,Tables Pro Series 4,1990.69,8,0.05,456.61,39.91
+ORD-2024-10812,2024-10-03,CUST-786,Consumer,Europe,Office Supplies,Appliances,Appliances Pro Series 2,1441.97,12,0.05,245.81,35.65
+ORD-2024-10901,2024-10-03,CUST-989,Consumer,Asia Pacific,Technology,Smartphones,Smartphones Pro Series 8,1516.33,2,0.0,248.91,14.26
+ORD-2024-11033,2024-10-03,CUST-237,Corporate,Middle East,Office Supplies,Paper,Paper Pro Series 3,192.46,1,0.1,47.7,23.14
+ORD-2024-10292,2024-10-04,CUST-439,Corporate,Europe,Furniture,Tables,Tables Pro Series 6,17.87,1,0.2,4.26,10.67
+ORD-2024-10853,2024-10-04,CUST-781,Small Business,North America,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 9,1697.64,8,0.25,699.04,35.04
+ORD-2024-10733,2024-10-05,CUST-927,Consumer,Middle East,Office Supplies,Storage,Storage Pro Series 5,194.28,4,0.05,31.54,38.3
+ORD-2024-10162,2024-10-07,CUST-924,Enterprise,Asia Pacific,Furniture,Chairs,Chairs Pro Series 1,413.78,3,0.15,128.55,18.61
+ORD-2024-10827,2024-10-07,CUST-760,Enterprise,Asia Pacific,Office Supplies,Binders,Binders Pro Series 2,174.11,6,0.2,68.69,37.51
+ORD-2024-10803,2024-10-08,CUST-878,Consumer,North America,Technology,Accessories,Accessories Pro Series 1,5675.52,11,0.0,2389.1,25.89
+ORD-2024-10521,2024-10-09,CUST-706,Enterprise,Asia Pacific,Office Supplies,Paper,Paper Pro Series 8,301.39,3,0.15,129.33,9.35
+ORD-2024-10580,2024-10-09,CUST-639,Consumer,Latin America,Office Supplies,Fasteners,Fasteners Pro Series 9,748.86,5,0.1,157.28,42.81
+ORD-2024-10687,2024-10-09,CUST-448,Small Business,North America,Office Supplies,Storage,Storage Pro Series 3,2953.81,12,0.2,735.95,33.26
+ORD-2024-11146,2024-10-09,CUST-682,Consumer,Middle East,Furniture,Chairs,Chairs Pro Series 8,662.13,11,0.25,175.91,23.25
+ORD-2024-11149,2024-10-09,CUST-426,Enterprise,Latin America,Technology,Smartphones,Smartphones Pro Series 2,4118.67,7,0.0,710.11,22.73
+ORD-2024-10239,2024-10-10,CUST-754,Small Business,Middle East,Furniture,Lighting,Lighting Pro Series 7,479.41,10,0.1,94.13,29.69
+ORD-2024-10628,2024-10-10,CUST-807,Corporate,Asia Pacific,Furniture,Lighting,Lighting Pro Series 6,596.61,3,0.1,94.96,13.07
+ORD-2024-10906,2024-10-10,CUST-472,Small Business,Latin America,Furniture,Lighting,Lighting Pro Series 3,882.27,8,0.2,145.03,19.95
+ORD-2024-10055,2024-10-11,CUST-543,Small Business,Latin America,Office Supplies,Binders,Binders Pro Series 7,586.85,3,0.25,216.53,37.33
+ORD-2024-10592,2024-10-11,CUST-717,Consumer,Asia Pacific,Furniture,Tables,Tables Pro Series 7,866.09,6,0.0,315.78,19.05
+ORD-2024-10500,2024-10-12,CUST-284,Corporate,Asia Pacific,Technology,Laptops,Laptops Pro Series 2,421.91,1,0.0,96.52,13.29
+ORD-2024-10493,2024-10-13,CUST-322,Enterprise,Latin America,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 2,2052.32,10,0.05,380.4,16.12
+ORD-2024-10752,2024-10-13,CUST-374,Enterprise,Middle East,Office Supplies,Paper,Paper Pro Series 4,1070.27,4,0.15,204.47,20.84
+ORD-2024-10215,2024-10-16,CUST-544,Small Business,Middle East,Technology,Monitors,Monitors Pro Series 1,657.4,4,0.25,120.79,24.02
+ORD-2024-10356,2024-10-16,CUST-643,Consumer,Middle East,Furniture,Lighting,Lighting Pro Series 8,2365.46,9,0.05,573.52,11.95
+ORD-2024-10781,2024-10-16,CUST-204,Corporate,Asia Pacific,Technology,Monitors,Monitors Pro Series 6,5008.18,11,0.25,864.58,35.86
+ORD-2024-10943,2024-10-16,CUST-381,Enterprise,North America,Technology,Cloud Servers,Cloud Servers Pro Series 3,2647.75,10,0.15,1003.69,5.85
+ORD-2024-10012,2024-10-17,CUST-282,Consumer,Asia Pacific,Office Supplies,Fasteners,Fasteners Pro Series 4,399.74,3,0.05,115.2,36.15
+ORD-2024-10264,2024-10-17,CUST-525,Enterprise,Latin America,Technology,Monitors,Monitors Pro Series 9,1721.44,10,0.0,614.6,25.45
+ORD-2024-10188,2024-10-18,CUST-820,Small Business,North America,Office Supplies,Storage,Storage Pro Series 6,845.35,10,0.05,259.14,23.2
+ORD-2024-10418,2024-10-18,CUST-503,Corporate,Latin America,Technology,Monitors,Monitors Pro Series 8,3608.21,6,0.0,894.0,20.18
+ORD-2024-11156,2024-10-18,CUST-976,Small Business,North America,Technology,Smartphones,Smartphones Pro Series 3,2827.26,6,0.25,769.35,43.08
+ORD-2024-10142,2024-10-21,CUST-120,Enterprise,Latin America,Technology,Cloud Servers,Cloud Servers Pro Series 6,2915.34,5,0.1,622.26,18.79
+ORD-2024-10078,2024-10-22,CUST-379,Enterprise,Latin America,Furniture,Tables,Tables Pro Series 8,542.54,9,0.05,94.1,25.33
+ORD-2024-10121,2024-10-22,CUST-894,Small Business,Asia Pacific,Office Supplies,Binders,Binders Pro Series 4,121.71,2,0.05,48.43,11.11
+ORD-2024-10844,2024-10-22,CUST-848,Corporate,Latin America,Furniture,Lighting,Lighting Pro Series 9,681.26,12,0.0,180.61,41.44
+ORD-2024-10460,2024-10-23,CUST-684,Corporate,North America,Technology,Cloud Servers,Cloud Servers Pro Series 6,433.96,3,0.1,79.46,14.99
+ORD-2024-10192,2024-10-24,CUST-567,Consumer,Middle East,Furniture,Bookcases,Bookcases Pro Series 1,701.7,7,0.0,158.77,28.13
+ORD-2024-11041,2024-10-24,CUST-895,Consumer,Asia Pacific,Technology,Cloud Servers,Cloud Servers Pro Series 2,7401.87,12,0.1,2908.05,27.33
+ORD-2024-10310,2024-10-28,CUST-994,Consumer,Middle East,Office Supplies,Fasteners,Fasteners Pro Series 7,292.29,2,0.05,81.85,28.31
+ORD-2024-10697,2024-10-28,CUST-653,Small Business,Europe,Technology,Monitors,Monitors Pro Series 9,1751.51,5,0.25,704.09,6.12
+ORD-2024-10966,2024-10-28,CUST-755,Consumer,Europe,Furniture,Tables,Tables Pro Series 3,1036.11,6,0.05,286.72,32.83
+ORD-2024-10210,2024-10-30,CUST-959,Consumer,North America,Technology,Cloud Servers,Cloud Servers Pro Series 3,1939.96,11,0.25,785.08,13.75
+ORD-2024-10615,2024-10-30,CUST-792,Consumer,North America,Technology,Cloud Servers,Cloud Servers Pro Series 7,6269.35,12,0.0,1426.72,40.7
+ORD-2024-10062,2024-10-31,CUST-389,Consumer,Europe,Furniture,Tables,Tables Pro Series 6,261.58,3,0.25,75.8,15.97
+ORD-2024-10604,2024-10-31,CUST-644,Consumer,Latin America,Furniture,Chairs,Chairs Pro Series 2,827.07,3,0.15,285.78,32.64
+ORD-2024-10083,2024-11-01,CUST-567,Consumer,Europe,Furniture,Tables,Tables Pro Series 2,1993.04,8,0.1,694.44,32.71
+ORD-2024-10472,2024-11-01,CUST-361,Corporate,North America,Furniture,Tables,Tables Pro Series 5,170.76,1,0.0,73.43,31.41
+ORD-2024-10591,2024-11-01,CUST-900,Small Business,Europe,Technology,Laptops,Laptops Pro Series 9,4733.21,8,0.0,744.29,20.78
+ORD-2024-10262,2024-11-02,CUST-112,Small Business,Asia Pacific,Technology,Cloud Servers,Cloud Servers Pro Series 7,2776.38,6,0.05,614.09,43.18
+ORD-2024-10610,2024-11-02,CUST-832,Corporate,Asia Pacific,Technology,Monitors,Monitors Pro Series 1,1470.01,12,0.05,255.57,39.05
+ORD-2024-10695,2024-11-02,CUST-250,Enterprise,Latin America,Office Supplies,Binders,Binders Pro Series 9,2093.21,10,0.25,664.29,18.81
+ORD-2024-10013,2024-11-03,CUST-100,Small Business,Latin America,Technology,Laptops,Laptops Pro Series 6,1147.42,5,0.05,214.11,42.88
+ORD-2024-10329,2024-11-03,CUST-523,Consumer,Europe,Technology,Smartphones,Smartphones Pro Series 6,4996.53,7,0.15,2033.75,39.5
+ORD-2024-10641,2024-11-05,CUST-816,Consumer,Asia Pacific,Office Supplies,Appliances,Appliances Pro Series 8,965.51,11,0.1,179.75,42.48
+ORD-2024-10376,2024-11-06,CUST-756,Consumer,Middle East,Technology,Laptops,Laptops Pro Series 6,910.63,9,0.25,327.46,8.46
+ORD-2024-10485,2024-11-06,CUST-756,Consumer,Middle East,Technology,Cloud Servers,Cloud Servers Pro Series 8,714.61,1,0.05,210.37,20.82
+ORD-2024-10851,2024-11-07,CUST-375,Consumer,Latin America,Office Supplies,Appliances,Appliances Pro Series 3,340.43,3,0.15,152.6,40.34
+ORD-2024-10056,2024-11-08,CUST-595,Enterprise,Latin America,Office Supplies,Fasteners,Fasteners Pro Series 5,1801.94,6,0.0,660.09,23.03
+ORD-2024-10373,2024-11-08,CUST-107,Consumer,Europe,Office Supplies,Binders,Binders Pro Series 7,125.8,2,0.25,23.45,34.66
+ORD-2024-10816,2024-11-08,CUST-571,Small Business,Europe,Furniture,Tables,Tables Pro Series 8,1475.65,11,0.2,538.59,34.88
+ORD-2024-10020,2024-11-09,CUST-115,Consumer,Europe,Technology,Cloud Servers,Cloud Servers Pro Series 8,1502.79,8,0.15,269.4,11.59
+ORD-2024-11109,2024-11-10,CUST-283,Small Business,Asia Pacific,Furniture,Chairs,Chairs Pro Series 8,688.34,6,0.0,186.72,19.29
+ORD-2024-10287,2024-11-11,CUST-119,Enterprise,Asia Pacific,Furniture,Lighting,Lighting Pro Series 8,1539.58,6,0.2,544.27,15.82
+ORD-2024-11007,2024-11-11,CUST-606,Small Business,Europe,Furniture,Bookcases,Bookcases Pro Series 6,763.08,9,0.25,287.48,40.72
+ORD-2024-10359,2024-11-13,CUST-421,Corporate,Europe,Technology,Monitors,Monitors Pro Series 5,2691.44,11,0.25,1104.02,33.42
+ORD-2024-10351,2024-11-14,CUST-945,Consumer,Middle East,Office Supplies,Storage,Storage Pro Series 9,568.99,9,0.25,178.17,18.63
+ORD-2024-10158,2024-11-15,CUST-701,Corporate,Europe,Furniture,Lighting,Lighting Pro Series 1,339.42,2,0.1,135.97,17.91
+ORD-2024-10368,2024-11-15,CUST-174,Small Business,Middle East,Technology,Smartphones,Smartphones Pro Series 9,1290.11,2,0.05,419.57,26.48
+ORD-2024-10590,2024-11-15,CUST-415,Consumer,Latin America,Office Supplies,Binders,Binders Pro Series 8,275.89,6,0.0,73.82,12.81
+ORD-2024-10922,2024-11-15,CUST-217,Corporate,Latin America,Technology,Accessories,Accessories Pro Series 8,4076.07,7,0.25,973.57,34.65
+ORD-2024-10168,2024-11-16,CUST-175,Enterprise,Middle East,Furniture,Lighting,Lighting Pro Series 5,2429.34,10,0.0,999.43,8.87
+ORD-2024-11003,2024-11-16,CUST-153,Enterprise,Latin America,Office Supplies,Binders,Binders Pro Series 7,1801.08,12,0.05,748.03,9.72
+ORD-2024-10027,2024-11-17,CUST-779,Consumer,Europe,Furniture,Chairs,Chairs Pro Series 2,2163.56,12,0.1,790.72,13.43
+ORD-2024-10156,2024-11-17,CUST-477,Enterprise,Middle East,Technology,Monitors,Monitors Pro Series 2,446.15,2,0.25,104.55,26.03
+ORD-2024-10746,2024-11-17,CUST-282,Corporate,North America,Technology,Accessories,Accessories Pro Series 2,679.4,1,0.05,228.5,36.5
+ORD-2024-10657,2024-11-20,CUST-694,Corporate,Asia Pacific,Technology,Monitors,Monitors Pro Series 8,4288.21,6,0.05,1814.37,33.41
+ORD-2024-10467,2024-11-21,CUST-853,Corporate,Europe,Technology,Accessories,Accessories Pro Series 7,2869.39,6,0.2,1214.1,31.87
+ORD-2024-10065,2024-11-22,CUST-411,Consumer,Europe,Technology,Monitors,Monitors Pro Series 7,4215.21,10,0.2,1611.45,25.9
+ORD-2024-10232,2024-11-22,CUST-760,Enterprise,Asia Pacific,Furniture,Chairs,Chairs Pro Series 1,162.68,2,0.2,36.76,27.32
+ORD-2024-10534,2024-11-22,CUST-162,Enterprise,Middle East,Technology,Monitors,Monitors Pro Series 1,6948.91,11,0.25,1825.51,16.47
+ORD-2024-10988,2024-11-22,CUST-570,Corporate,Asia Pacific,Office Supplies,Storage,Storage Pro Series 7,482.87,2,0.25,147.22,43.5
+ORD-2024-11071,2024-11-22,CUST-229,Enterprise,Asia Pacific,Office Supplies,Fasteners,Fasteners Pro Series 5,2762.08,12,0.25,489.53,13.37
+ORD-2024-11189,2024-11-22,CUST-643,Consumer,Middle East,Furniture,Lighting,Lighting Pro Series 4,3190.08,12,0.2,1275.95,11.35
+ORD-2024-10700,2024-11-24,CUST-742,Corporate,Asia Pacific,Furniture,Bookcases,Bookcases Pro Series 3,1273.66,12,0.25,478.53,18.11
+ORD-2024-10151,2024-11-25,CUST-719,Corporate,Latin America,Furniture,Bookcases,Bookcases Pro Series 8,331.62,2,0.2,112.72,17.58
+ORD-2024-10316,2024-11-25,CUST-277,Corporate,Europe,Technology,Smartphones,Smartphones Pro Series 1,651.22,8,0.1,155.39,15.96
+ORD-2024-10551,2024-11-25,CUST-467,Small Business,Asia Pacific,Furniture,Chairs,Chairs Pro Series 2,1048.14,6,0.1,446.36,23.39
+ORD-2024-10627,2024-11-25,CUST-531,Small Business,North America,Office Supplies,Appliances,Appliances Pro Series 1,721.86,6,0.15,255.01,8.91
+ORD-2024-10848,2024-11-25,CUST-322,Small Business,Middle East,Technology,Cloud Servers,Cloud Servers Pro Series 8,267.68,1,0.2,83.49,16.93
+ORD-2024-10248,2024-11-26,CUST-645,Small Business,Middle East,Office Supplies,Binders,Binders Pro Series 6,1085.11,12,0.2,401.27,39.32
+ORD-2024-10224,2024-11-27,CUST-273,Enterprise,Europe,Technology,Accessories,Accessories Pro Series 5,2222.5,5,0.0,888.64,16.04
+ORD-2024-10506,2024-11-27,CUST-498,Corporate,Middle East,Technology,Accessories,Accessories Pro Series 6,768.09,12,0.15,325.64,40.08
+ORD-2024-10623,2024-11-27,CUST-587,Corporate,Middle East,Technology,Cloud Servers,Cloud Servers Pro Series 5,3555.29,8,0.15,941.86,19.11
+ORD-2024-10732,2024-11-27,CUST-125,Corporate,Latin America,Technology,Smartphones,Smartphones Pro Series 4,940.14,3,0.0,246.51,8.87
+ORD-2024-11184,2024-11-27,CUST-595,Small Business,Europe,Office Supplies,Fasteners,Fasteners Pro Series 7,2363.37,8,0.15,623.0,26.84
+ORD-2024-10182,2024-11-28,CUST-647,Consumer,Europe,Furniture,Tables,Tables Pro Series 1,1855.13,7,0.05,313.55,43.49
+ORD-2024-11159,2024-11-28,CUST-675,Consumer,Latin America,Technology,Accessories,Accessories Pro Series 9,2275.46,11,0.2,466.03,32.58
+ORD-2024-10053,2024-11-29,CUST-484,Enterprise,Europe,Technology,Monitors,Monitors Pro Series 4,1093.96,2,0.1,213.23,29.02
+ORD-2024-10341,2024-11-29,CUST-605,Corporate,North America,Office Supplies,Paper,Paper Pro Series 2,981.12,5,0.15,150.5,16.84
+ORD-2024-10465,2024-11-29,CUST-192,Corporate,Latin America,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 3,325.42,3,0.15,90.65,6.97
+ORD-2024-11163,2024-11-29,CUST-749,Consumer,North America,Office Supplies,Paper,Paper Pro Series 9,309.02,2,0.2,60.6,8.51
+ORD-2024-10299,2024-12-01,CUST-876,Corporate,Europe,Furniture,Chairs,Chairs Pro Series 1,97.77,5,0.1,16.08,7.97
+ORD-2024-10538,2024-12-01,CUST-962,Small Business,North America,Office Supplies,Storage,Storage Pro Series 2,60.47,1,0.15,18.57,24.05
+ORD-2024-10915,2024-12-01,CUST-248,Small Business,Asia Pacific,Technology,Smartphones,Smartphones Pro Series 8,1213.8,3,0.1,504.84,43.8
+ORD-2024-10080,2024-12-02,CUST-775,Enterprise,Europe,Furniture,Lighting,Lighting Pro Series 8,606.56,6,0.2,204.31,42.31
+ORD-2024-10277,2024-12-02,CUST-617,Corporate,Latin America,Technology,Monitors,Monitors Pro Series 1,3856.7,7,0.05,1461.57,15.44
+ORD-2024-10701,2024-12-03,CUST-942,Small Business,Latin America,Technology,Smartphones,Smartphones Pro Series 7,808.9,7,0.0,260.9,10.2
+ORD-2024-10009,2024-12-04,CUST-470,Corporate,Europe,Office Supplies,Appliances,Appliances Pro Series 2,288.3,1,0.05,75.47,36.68
+ORD-2024-10173,2024-12-04,CUST-274,Enterprise,Europe,Office Supplies,Binders,Binders Pro Series 1,3326.49,10,0.0,1306.53,22.64
+ORD-2024-10754,2024-12-04,CUST-576,Small Business,Latin America,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 7,821.79,7,0.15,291.65,20.29
+ORD-2024-10963,2024-12-04,CUST-600,Corporate,Latin America,Technology,Laptops,Laptops Pro Series 1,5346.33,10,0.1,1066.02,26.01
+ORD-2024-10409,2024-12-05,CUST-630,Consumer,North America,Technology,Monitors,Monitors Pro Series 5,6852.59,12,0.2,2368.06,43.53
+ORD-2024-10673,2024-12-05,CUST-887,Consumer,North America,Office Supplies,Appliances,Appliances Pro Series 3,892.12,3,0.0,379.16,40.07
+ORD-2024-10318,2024-12-06,CUST-458,Small Business,Europe,Furniture,Chairs,Chairs Pro Series 5,137.27,1,0.05,26.61,36.19
+ORD-2024-11117,2024-12-06,CUST-750,Small Business,Middle East,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 9,116.9,1,0.1,40.46,22.78
+ORD-2024-10002,2024-12-07,CUST-928,Consumer,Europe,Office Supplies,Appliances,Appliances Pro Series 6,301.89,5,0.1,126.59,20.2
+ORD-2024-10016,2024-12-07,CUST-335,Corporate,North America,Technology,Laptops,Laptops Pro Series 4,1393.8,2,0.1,597.58,14.52
+ORD-2024-11092,2024-12-07,CUST-134,Small Business,North America,Office Supplies,Storage,Storage Pro Series 1,421.66,3,0.1,147.16,41.12
+ORD-2024-10815,2024-12-08,CUST-294,Enterprise,Latin America,Furniture,Bookcases,Bookcases Pro Series 3,1708.95,9,0.2,655.14,20.81
+ORD-2024-10626,2024-12-09,CUST-804,Consumer,Asia Pacific,Technology,Accessories,Accessories Pro Series 3,480.73,1,0.0,149.86,39.53
+ORD-2024-10649,2024-12-09,CUST-435,Small Business,Europe,Technology,Cloud Servers,Cloud Servers Pro Series 6,930.23,3,0.15,154.95,40.37
+ORD-2024-11032,2024-12-09,CUST-731,Consumer,North America,Technology,Accessories,Accessories Pro Series 8,2911.99,7,0.25,581.11,16.57
+ORD-2024-10070,2024-12-11,CUST-944,Small Business,Latin America,Technology,Cloud Servers,Cloud Servers Pro Series 5,4017.67,12,0.1,1204.73,24.75
+ORD-2024-10129,2024-12-11,CUST-186,Small Business,Middle East,Furniture,Bookcases,Bookcases Pro Series 3,2066.2,11,0.25,311.69,41.5
+ORD-2024-10496,2024-12-11,CUST-906,Corporate,Latin America,Office Supplies,Fasteners,Fasteners Pro Series 6,41.58,1,0.1,14.68,40.9
+ORD-2024-10223,2024-12-12,CUST-432,Enterprise,North America,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 7,412.52,2,0.2,73.61,44.13
+ORD-2024-10379,2024-12-12,CUST-650,Consumer,Asia Pacific,Technology,Accessories,Accessories Pro Series 4,4337.21,7,0.2,1766.39,12.36
+ORD-2024-10716,2024-12-12,CUST-342,Enterprise,Middle East,Office Supplies,Appliances,Appliances Pro Series 2,150.07,5,0.15,42.63,7.62
+ORD-2024-11096,2024-12-12,CUST-814,Corporate,Middle East,Technology,Smartphones,Smartphones Pro Series 6,743.63,1,0.1,157.75,10.66
+ORD-2024-11126,2024-12-13,CUST-849,Enterprise,North America,Furniture,Lighting,Lighting Pro Series 4,524.58,3,0.15,128.36,43.07
+ORD-2024-10635,2024-12-14,CUST-515,Corporate,North America,Technology,Smartphones,Smartphones Pro Series 1,2475.49,4,0.1,769.26,27.39
+ORD-2024-10813,2024-12-14,CUST-759,Small Business,Latin America,Office Supplies,Appliances,Appliances Pro Series 9,1900.77,7,0.05,707.6,16.64
+ORD-2024-10656,2024-12-17,CUST-786,Consumer,North America,Furniture,Lighting,Lighting Pro Series 7,1284.26,5,0.25,435.02,43.72
+ORD-2024-10989,2024-12-17,CUST-284,Small Business,Europe,Office Supplies,Storage,Storage Pro Series 6,1885.76,10,0.15,810.37,6.18
+ORD-2024-10992,2024-12-17,CUST-960,Consumer,Europe,Furniture,Chairs,Chairs Pro Series 8,313.04,7,0.25,86.98,12.99
+ORD-2024-10261,2024-12-18,CUST-293,Enterprise,Asia Pacific,Office Supplies,Paper,Paper Pro Series 4,1096.46,8,0.05,329.08,28.76
+ORD-2024-11131,2024-12-18,CUST-646,Consumer,Latin America,Furniture,Chairs,Chairs Pro Series 5,1535.54,7,0.25,336.85,19.53
+ORD-2024-10312,2024-12-19,CUST-138,Corporate,Asia Pacific,Furniture,Tables,Tables Pro Series 7,132.83,1,0.1,32.26,6.97
+ORD-2024-11152,2024-12-19,CUST-260,Small Business,Middle East,Furniture,Lighting,Lighting Pro Series 7,1136.63,12,0.1,350.54,39.25
+ORD-2024-10153,2024-12-20,CUST-810,Enterprise,Europe,Technology,Smartphones,Smartphones Pro Series 2,1128.75,8,0.25,357.21,8.51
+ORD-2024-10557,2024-12-20,CUST-955,Consumer,North America,Technology,Cloud Servers,Cloud Servers Pro Series 4,1179.06,2,0.15,411.25,38.44
+ORD-2024-10681,2024-12-20,CUST-794,Enterprise,Europe,Office Supplies,Paper,Paper Pro Series 9,140.73,1,0.1,39.97,15.71
+ORD-2024-11044,2024-12-20,CUST-827,Corporate,North America,Furniture,Bookcases,Bookcases Pro Series 7,1737.5,11,0.25,600.11,26.22
+ORD-2024-10481,2024-12-21,CUST-710,Corporate,Europe,Office Supplies,Paper,Paper Pro Series 6,417.4,2,0.15,171.04,38.85
+ORD-2024-10659,2024-12-21,CUST-879,Small Business,Middle East,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 3,1335.44,6,0.15,295.0,11.05
+ORD-2024-10408,2024-12-22,CUST-790,Consumer,Asia Pacific,Technology,Laptops,Laptops Pro Series 3,1440.67,2,0.15,495.68,20.81
+ORD-2024-10501,2024-12-22,CUST-524,Enterprise,North America,Furniture,Bookcases,Bookcases Pro Series 9,710.6,11,0.25,276.88,16.27
+ORD-2024-10363,2024-12-23,CUST-791,Corporate,Middle East,Furniture,Tables,Tables Pro Series 9,1002.23,12,0.25,436.88,20.26
+ORD-2024-10380,2024-12-23,CUST-358,Corporate,North America,Technology,Monitors,Monitors Pro Series 1,3016.89,9,0.2,1291.4,31.87
+ORD-2024-10565,2024-12-23,CUST-876,Enterprise,North America,Technology,Laptops,Laptops Pro Series 9,529.31,3,0.0,161.17,9.64
+ORD-2024-11004,2024-12-23,CUST-476,Small Business,Europe,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 1,296.74,4,0.2,132.64,21.52
+ORD-2024-10856,2024-12-24,CUST-846,Corporate,Europe,Furniture,Chairs,Chairs Pro Series 5,998.21,12,0.15,389.78,33.26
+ORD-2024-10928,2024-12-24,CUST-656,Consumer,Middle East,Furniture,Chairs,Chairs Pro Series 3,1638.33,8,0.1,645.56,31.1
+ORD-2024-10024,2024-12-25,CUST-529,Small Business,Asia Pacific,Technology,Accessories,Accessories Pro Series 4,1374.86,5,0.25,352.45,23.29
+ORD-2024-10625,2024-12-28,CUST-489,Consumer,Latin America,Furniture,Bookcases,Bookcases Pro Series 7,193.29,6,0.05,72.62,30.92
+ORD-2024-11070,2024-12-28,CUST-512,Small Business,Middle East,Office Supplies,Binders,Binders Pro Series 2,495.46,10,0.25,190.79,12.13
+ORD-2024-10873,2024-12-29,CUST-718,Corporate,Latin America,Technology,Accessories,Accessories Pro Series 5,1752.13,4,0.15,706.65,14.27
+ORD-2024-10927,2024-12-29,CUST-366,Corporate,Asia Pacific,Technology,Laptops,Laptops Pro Series 2,299.95,1,0.25,65.69,11.12
+ORD-2024-10004,2024-12-30,CUST-982,Small Business,Middle East,Technology,Laptops,Laptops Pro Series 1,2299.95,11,0.1,355.19,39.21
+ORD-2024-10494,2024-12-30,CUST-939,Corporate,North America,Technology,Smartphones,Smartphones Pro Series 1,3440.31,11,0.05,666.91,31.68
+ORD-2024-10975,2024-12-30,CUST-658,Corporate,Latin America,Furniture,Chairs,Chairs Pro Series 3,1320.6,9,0.1,394.67,32.41
+ORD-2024-11195,2024-12-30,CUST-582,Corporate,Latin America,Furniture,Chairs,Chairs Pro Series 9,2500.73,12,0.05,1072.51,44.16
+ORD-2024-10680,2024-12-31,CUST-830,Enterprise,Latin America,Furniture,Lighting,Lighting Pro Series 9,116.45,5,0.15,35.42,28.64
+ORD-2024-11119,2025-01-01,CUST-674,Small Business,North America,Technology,Monitors,Monitors Pro Series 6,1275.56,5,0.1,401.23,23.7
+ORD-2024-10221,2025-01-02,CUST-857,Enterprise,Asia Pacific,Furniture,Chairs,Chairs Pro Series 2,281.26,1,0.15,96.2,15.79
+ORD-2024-10788,2025-01-02,CUST-244,Corporate,Europe,Technology,Smartphones,Smartphones Pro Series 9,956.19,4,0.0,308.02,23.68
+ORD-2024-10073,2025-01-03,CUST-603,Consumer,Latin America,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 6,1365.12,6,0.05,479.24,32.75
+ORD-2024-10252,2025-01-03,CUST-814,Small Business,North America,Office Supplies,Appliances,Appliances Pro Series 4,1733.38,7,0.15,640.38,38.13
+ORD-2024-10629,2025-01-03,CUST-906,Consumer,Middle East,Technology,Accessories,Accessories Pro Series 5,230.28,1,0.2,75.85,14.04
+ORD-2024-10722,2025-01-03,CUST-870,Enterprise,Asia Pacific,Technology,Accessories,Accessories Pro Series 6,1337.09,4,0.2,469.94,41.56
+ORD-2024-10795,2025-01-03,CUST-477,Consumer,Latin America,Furniture,Tables,Tables Pro Series 4,191.23,8,0.1,49.86,32.06
+ORD-2024-11084,2025-01-03,CUST-962,Consumer,Asia Pacific,Furniture,Lighting,Lighting Pro Series 6,207.02,2,0.2,41.23,8.44
+ORD-2024-11116,2025-01-03,CUST-199,Corporate,Europe,Technology,Accessories,Accessories Pro Series 4,808.66,2,0.25,191.16,38.08
+ORD-2024-10091,2025-01-04,CUST-735,Small Business,Europe,Office Supplies,Paper,Paper Pro Series 1,1395.92,5,0.0,385.45,34.29
+ORD-2024-10437,2025-01-04,CUST-732,Enterprise,Asia Pacific,Office Supplies,Fasteners,Fasteners Pro Series 8,465.18,4,0.05,202.4,26.4
+ORD-2024-11017,2025-01-04,CUST-669,Corporate,Latin America,Technology,Monitors,Monitors Pro Series 2,3070.54,5,0.2,1092.47,7.56
+ORD-2024-11112,2025-01-04,CUST-203,Enterprise,Middle East,Office Supplies,Paper,Paper Pro Series 6,2487.14,11,0.15,820.2,12.36
+ORD-2024-11150,2025-01-04,CUST-651,Corporate,Europe,Technology,Smartphones,Smartphones Pro Series 4,2031.41,5,0.1,447.06,23.88
+ORD-2024-10000,2025-01-05,CUST-125,Small Business,Europe,Technology,Smartphones,Smartphones Pro Series 2,5654.3,11,0.2,2396.96,21.88
+ORD-2024-10100,2025-01-05,CUST-121,Consumer,Asia Pacific,Technology,Smartphones,Smartphones Pro Series 4,1142.17,2,0.2,442.99,13.64
+ORD-2024-10449,2025-01-05,CUST-488,Corporate,North America,Office Supplies,Storage,Storage Pro Series 4,1154.41,6,0.25,184.53,37.76
+ORD-2024-10601,2025-01-05,CUST-178,Corporate,Europe,Technology,Monitors,Monitors Pro Series 3,2495.49,9,0.1,503.97,32.4
+ORD-2024-10160,2025-01-06,CUST-706,Corporate,Europe,Office Supplies,Fasteners,Fasteners Pro Series 6,288.0,10,0.0,122.58,42.94
+ORD-2024-10323,2025-01-06,CUST-982,Small Business,Asia Pacific,Office Supplies,Storage,Storage Pro Series 4,536.64,3,0.05,96.65,37.22
+ORD-2024-10911,2025-01-06,CUST-427,Consumer,Middle East,Furniture,Chairs,Chairs Pro Series 6,2279.74,7,0.05,988.9,39.72
+ORD-2024-10034,2025-01-07,CUST-509,Small Business,North America,Technology,Accessories,Accessories Pro Series 3,7380.25,10,0.1,3236.41,28.86
+ORD-2024-10049,2025-01-07,CUST-238,Enterprise,Europe,Technology,Accessories,Accessories Pro Series 7,1184.37,6,0.1,413.05,40.19
+ORD-2024-10348,2025-01-07,CUST-252,Consumer,North America,Office Supplies,Binders,Binders Pro Series 9,2282.86,8,0.05,976.01,24.67
+ORD-2024-11059,2025-01-07,CUST-440,Corporate,North America,Technology,Monitors,Monitors Pro Series 3,2522.33,4,0.15,686.02,8.36
+ORD-2024-10283,2025-01-08,CUST-696,Small Business,North America,Technology,Laptops,Laptops Pro Series 4,4229.59,11,0.05,1786.61,38.89
+ORD-2024-10427,2025-01-08,CUST-377,Enterprise,Asia Pacific,Office Supplies,Fasteners,Fasteners Pro Series 9,1168.02,8,0.05,226.29,10.0
+ORD-2024-10446,2025-01-08,CUST-455,Enterprise,Europe,Technology,Cloud Servers,Cloud Servers Pro Series 6,1893.43,12,0.0,576.38,22.5
+ORD-2024-10645,2025-01-08,CUST-908,Consumer,Asia Pacific,Technology,Cloud Servers,Cloud Servers Pro Series 8,4107.99,12,0.1,964.49,40.07
+ORD-2024-10751,2025-01-09,CUST-621,Small Business,Latin America,Office Supplies,Appliances,Appliances Pro Series 3,1217.68,6,0.2,294.25,33.63
+ORD-2024-10006,2025-01-10,CUST-723,Corporate,Middle East,Office Supplies,Binders,Binders Pro Series 3,852.71,8,0.25,207.68,13.78
+ORD-2024-10096,2025-01-10,CUST-750,Enterprise,Asia Pacific,Office Supplies,Appliances,Appliances Pro Series 2,90.57,3,0.0,32.49,24.7
+ORD-2024-10320,2025-01-10,CUST-715,Consumer,Europe,Furniture,Lighting,Lighting Pro Series 5,3050.58,12,0.25,1120.74,40.82
+ORD-2024-10545,2025-01-10,CUST-922,Corporate,North America,Office Supplies,Binders,Binders Pro Series 5,857.15,5,0.0,221.46,41.91
+ORD-2024-11080,2025-01-10,CUST-658,Consumer,North America,Furniture,Chairs,Chairs Pro Series 3,2982.53,12,0.05,1268.03,38.36
+ORD-2024-10084,2025-01-11,CUST-972,Small Business,Middle East,Furniture,Bookcases,Bookcases Pro Series 8,243.24,9,0.0,92.33,32.38
+ORD-2024-10682,2025-01-11,CUST-584,Consumer,Latin America,Office Supplies,Storage,Storage Pro Series 8,1836.96,12,0.05,667.91,12.69
+ORD-2024-10834,2025-01-11,CUST-267,Enterprise,Latin America,Technology,Accessories,Accessories Pro Series 7,1876.38,12,0.05,804.65,34.31
+ORD-2024-10336,2025-01-12,CUST-138,Enterprise,Asia Pacific,Office Supplies,Fasteners,Fasteners Pro Series 1,2611.63,10,0.25,1090.53,38.44
+ORD-2024-10301,2025-01-14,CUST-721,Enterprise,Europe,Technology,Laptops,Laptops Pro Series 6,2820.36,4,0.15,679.26,33.88
+ORD-2024-10386,2025-01-14,CUST-252,Small Business,Latin America,Technology,Monitors,Monitors Pro Series 5,1012.23,3,0.2,428.01,19.55
+ORD-2024-11019,2025-01-14,CUST-288,Enterprise,Middle East,Furniture,Chairs,Chairs Pro Series 9,822.28,12,0.25,125.32,44.01
+ORD-2024-11105,2025-01-14,CUST-786,Enterprise,Latin America,Technology,Accessories,Accessories Pro Series 7,3218.26,5,0.0,865.42,37.1
+ORD-2024-10008,2025-01-15,CUST-505,Enterprise,Europe,Furniture,Tables,Tables Pro Series 4,2193.03,12,0.1,495.4,22.14
+ORD-2024-10146,2025-01-15,CUST-379,Consumer,Asia Pacific,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 8,855.04,7,0.05,257.49,24.9
+ORD-2024-10544,2025-01-15,CUST-955,Corporate,Middle East,Office Supplies,Paper,Paper Pro Series 2,573.62,2,0.05,193.43,35.55
+ORD-2024-10090,2025-01-16,CUST-381,Consumer,Middle East,Office Supplies,Paper,Paper Pro Series 8,1305.65,5,0.05,349.76,19.09
+ORD-2024-10452,2025-01-16,CUST-638,Small Business,North America,Furniture,Tables,Tables Pro Series 2,310.29,1,0.05,78.59,42.14
+ORD-2024-10528,2025-01-16,CUST-239,Consumer,Europe,Office Supplies,Appliances,Appliances Pro Series 8,2218.34,12,0.15,583.48,23.18
+ORD-2024-10940,2025-01-16,CUST-480,Corporate,Asia Pacific,Technology,Laptops,Laptops Pro Series 6,634.18,12,0.1,244.71,27.7
+ORD-2024-10984,2025-01-16,CUST-274,Corporate,Latin America,Furniture,Bookcases,Bookcases Pro Series 5,426.86,11,0.2,128.96,31.71
+ORD-2024-10353,2025-01-17,CUST-102,Small Business,Asia Pacific,Office Supplies,Storage,Storage Pro Series 9,1262.28,9,0.0,550.69,11.57
+ORD-2024-10807,2025-01-17,CUST-586,Enterprise,Europe,Technology,Accessories,Accessories Pro Series 1,3719.81,11,0.0,591.9,34.43
+ORD-2024-10811,2025-01-17,CUST-191,Consumer,Latin America,Office Supplies,Paper,Paper Pro Series 3,1713.89,6,0.1,657.94,15.31
+ORD-2024-11181,2025-01-17,CUST-861,Consumer,Latin America,Furniture,Lighting,Lighting Pro Series 2,344.98,4,0.05,79.69,17.04
+ORD-2024-10069,2025-01-18,CUST-302,Enterprise,North America,Office Supplies,Binders,Binders Pro Series 3,1459.61,5,0.0,630.71,36.71
+ORD-2024-10473,2025-01-19,CUST-775,Small Business,North America,Technology,Accessories,Accessories Pro Series 7,2668.27,4,0.2,418.96,8.98
+ORD-2024-10620,2025-01-19,CUST-602,Small Business,Middle East,Furniture,Lighting,Lighting Pro Series 9,334.11,1,0.0,51.05,40.21
+ORD-2024-10443,2025-01-21,CUST-215,Corporate,Latin America,Furniture,Chairs,Chairs Pro Series 3,896.21,5,0.15,191.12,5.36
+ORD-2024-11199,2025-01-21,CUST-357,Small Business,North America,Technology,Laptops,Laptops Pro Series 8,1970.78,4,0.05,537.38,31.63
+ORD-2024-10043,2025-01-22,CUST-672,Small Business,Latin America,Office Supplies,Fasteners,Fasteners Pro Series 7,1405.46,9,0.05,318.9,23.99
+ORD-2024-10048,2025-01-22,CUST-917,Enterprise,Europe,Furniture,Tables,Tables Pro Series 9,255.06,1,0.2,71.59,6.08
+ORD-2024-10883,2025-01-22,CUST-408,Small Business,Asia Pacific,Technology,Accessories,Accessories Pro Series 8,3418.37,11,0.1,706.86,33.45
+ORD-2024-10017,2025-01-23,CUST-319,Corporate,Middle East,Office Supplies,Appliances,Appliances Pro Series 4,2169.89,8,0.05,915.05,31.36
+ORD-2024-10095,2025-01-24,CUST-698,Enterprise,Asia Pacific,Technology,Smartphones,Smartphones Pro Series 8,436.51,1,0.2,153.48,29.4
+ORD-2024-10632,2025-01-24,CUST-660,Corporate,North America,Office Supplies,Fasteners,Fasteners Pro Series 3,1366.75,10,0.25,220.55,34.69
+ORD-2024-10775,2025-01-24,CUST-111,Small Business,Europe,Furniture,Bookcases,Bookcases Pro Series 3,762.98,4,0.25,221.5,22.68
+ORD-2024-10172,2025-01-25,CUST-526,Small Business,North America,Office Supplies,Appliances,Appliances Pro Series 5,2440.0,11,0.2,675.17,33.86
+ORD-2024-10272,2025-01-25,CUST-153,Corporate,Europe,Office Supplies,Paper,Paper Pro Series 7,555.83,2,0.1,121.14,17.43
+ORD-2024-10730,2025-01-25,CUST-765,Consumer,Asia Pacific,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 5,412.86,2,0.15,124.41,25.69
+ORD-2024-10094,2025-01-27,CUST-790,Enterprise,Middle East,Furniture,Chairs,Chairs Pro Series 7,103.59,1,0.0,32.48,31.91
+ORD-2024-10178,2025-01-27,CUST-488,Enterprise,Asia Pacific,Technology,Accessories,Accessories Pro Series 1,4071.25,5,0.0,1409.02,22.7
+ORD-2024-10134,2025-01-28,CUST-684,Enterprise,Latin America,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 9,1327.4,9,0.05,272.03,37.05
+ORD-2024-10619,2025-01-28,CUST-256,Small Business,Middle East,Office Supplies,Paper,Paper Pro Series 2,2494.48,11,0.15,529.28,13.08
+ORD-2024-10808,2025-01-28,CUST-339,Enterprise,Latin America,Office Supplies,Fasteners,Fasteners Pro Series 2,807.59,6,0.15,124.32,39.28
+ORD-2024-10974,2025-01-28,CUST-430,Corporate,Europe,Furniture,Tables,Tables Pro Series 7,662.91,9,0.1,281.29,27.67
+ORD-2024-11115,2025-01-28,CUST-379,Consumer,Latin America,Technology,Laptops,Laptops Pro Series 7,1522.75,11,0.1,473.98,36.61
+ORD-2024-11161,2025-01-28,CUST-820,Small Business,Asia Pacific,Office Supplies,Paper,Paper Pro Series 3,391.26,2,0.15,129.55,24.45
+ORD-2024-10220,2025-01-29,CUST-776,Enterprise,North America,Office Supplies,Storage,Storage Pro Series 4,427.95,12,0.1,172.78,33.47
+ORD-2024-10327,2025-01-29,CUST-443,Consumer,Europe,Furniture,Tables,Tables Pro Series 5,1757.76,7,0.1,594.99,28.42
+ORD-2024-10664,2025-01-29,CUST-503,Small Business,Middle East,Technology,Accessories,Accessories Pro Series 3,86.14,1,0.25,21.72,23.16
+ORD-2024-10720,2025-01-29,CUST-459,Corporate,Middle East,Office Supplies,Storage,Storage Pro Series 1,630.3,3,0.2,270.41,8.59
+ORD-2024-10823,2025-01-29,CUST-272,Consumer,North America,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 3,43.45,1,0.2,11.08,28.74
+ORD-2024-10970,2025-01-29,CUST-635,Small Business,Middle East,Office Supplies,Binders,Binders Pro Series 5,803.28,8,0.1,357.72,6.64
+ORD-2024-11190,2025-01-29,CUST-750,Corporate,Europe,Office Supplies,Fasteners,Fasteners Pro Series 7,368.12,4,0.15,132.91,41.04
+ORD-2024-10154,2025-01-30,CUST-965,Small Business,Asia Pacific,Office Supplies,Paper,Paper Pro Series 9,909.4,9,0.1,176.96,33.47
+ORD-2024-10907,2025-01-30,CUST-618,Enterprise,Asia Pacific,Office Supplies,Paper,Paper Pro Series 1,2518.63,12,0.25,512.87,5.32
+ORD-2024-11090,2025-01-30,CUST-395,Corporate,Asia Pacific,Office Supplies,Fasteners,Fasteners Pro Series 9,3373.07,12,0.0,998.49,13.43
+ORD-2024-10099,2025-02-01,CUST-657,Small Business,North America,Furniture,Bookcases,Bookcases Pro Series 4,565.96,2,0.15,239.12,13.48
+ORD-2024-10767,2025-02-01,CUST-382,Corporate,North America,Technology,Cloud Servers,Cloud Servers Pro Series 2,3550.29,7,0.05,1037.55,41.41
+ORD-2024-11151,2025-02-01,CUST-724,Corporate,Middle East,Office Supplies,Binders,Binders Pro Series 6,202.18,3,0.15,43.32,39.09
+ORD-2024-10233,2025-02-02,CUST-326,Enterprise,Asia Pacific,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 9,391.69,3,0.0,119.53,16.82
+ORD-2024-10402,2025-02-02,CUST-423,Enterprise,Asia Pacific,Technology,Smartphones,Smartphones Pro Series 7,5131.13,11,0.1,992.91,21.94
+ORD-2024-11089,2025-02-02,CUST-274,Consumer,Middle East,Furniture,Tables,Tables Pro Series 9,641.79,10,0.25,205.27,30.84
+ORD-2024-10553,2025-02-03,CUST-598,Consumer,Latin America,Office Supplies,Binders,Binders Pro Series 3,59.76,1,0.25,9.03,14.54
+ORD-2024-10606,2025-02-03,CUST-414,Corporate,Europe,Technology,Laptops,Laptops Pro Series 7,7925.03,12,0.0,3381.45,35.99
+ORD-2024-10920,2025-02-03,CUST-547,Small Business,Middle East,Technology,Laptops,Laptops Pro Series 2,911.52,2,0.2,155.19,9.15
+ORD-2024-10059,2025-02-04,CUST-761,Enterprise,Latin America,Technology,Laptops,Laptops Pro Series 5,1419.38,4,0.05,508.33,28.26
+ORD-2024-10798,2025-02-05,CUST-612,Enterprise,Middle East,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 2,410.62,2,0.1,84.48,15.76
+ORD-2024-10599,2025-02-06,CUST-222,Small Business,Middle East,Office Supplies,Fasteners,Fasteners Pro Series 1,347.77,5,0.0,141.25,23.44
+ORD-2024-10600,2025-02-06,CUST-465,Corporate,North America,Furniture,Bookcases,Bookcases Pro Series 7,3173.49,11,0.1,1381.69,16.67
+ORD-2024-10742,2025-02-06,CUST-578,Small Business,Middle East,Office Supplies,Storage,Storage Pro Series 5,875.61,7,0.0,274.69,36.57
+ORD-2024-10886,2025-02-06,CUST-523,Small Business,Europe,Office Supplies,Binders,Binders Pro Series 7,1114.56,7,0.2,323.08,26.3
+ORD-2024-10201,2025-02-07,CUST-518,Corporate,Asia Pacific,Furniture,Tables,Tables Pro Series 9,727.51,8,0.05,261.74,33.3
+ORD-2024-10227,2025-02-07,CUST-590,Small Business,Europe,Furniture,Bookcases,Bookcases Pro Series 5,2527.67,12,0.15,403.6,36.28
+ORD-2024-10787,2025-02-07,CUST-327,Enterprise,Middle East,Furniture,Tables,Tables Pro Series 8,159.18,11,0.15,68.29,12.7
+ORD-2024-11079,2025-02-07,CUST-359,Small Business,North America,Office Supplies,Paper,Paper Pro Series 8,1927.8,10,0.15,767.01,35.0
+ORD-2024-10582,2025-02-08,CUST-608,Corporate,Europe,Office Supplies,Paper,Paper Pro Series 5,1902.92,7,0.2,324.42,23.96
+ORD-2024-10796,2025-02-08,CUST-760,Corporate,Asia Pacific,Office Supplies,Appliances,Appliances Pro Series 3,391.54,5,0.2,64.4,38.66
+ORD-2024-10721,2025-02-09,CUST-950,Corporate,Middle East,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 4,1657.03,10,0.1,306.25,42.82
+ORD-2024-11063,2025-02-09,CUST-484,Corporate,North America,Technology,Monitors,Monitors Pro Series 2,623.68,3,0.0,273.35,21.97
+ORD-2024-10980,2025-02-10,CUST-628,Corporate,Middle East,Office Supplies,Appliances,Appliances Pro Series 3,944.53,4,0.25,183.54,17.04
+ORD-2024-10456,2025-02-11,CUST-537,Consumer,Europe,Technology,Monitors,Monitors Pro Series 7,2736.09,9,0.05,793.0,29.0
+ORD-2024-10679,2025-02-11,CUST-596,Enterprise,North America,Furniture,Lighting,Lighting Pro Series 4,386.81,4,0.15,168.16,5.31
+ORD-2024-10365,2025-02-12,CUST-763,Small Business,Middle East,Office Supplies,Fasteners,Fasteners Pro Series 4,3650.8,12,0.1,1151.3,44.34
+ORD-2024-10513,2025-02-12,CUST-390,Corporate,Europe,Technology,Accessories,Accessories Pro Series 6,3462.05,9,0.05,1527.81,41.13
+ORD-2024-10578,2025-02-12,CUST-674,Corporate,Europe,Furniture,Tables,Tables Pro Series 9,348.64,2,0.25,58.66,28.2
+ORD-2024-10727,2025-02-12,CUST-720,Corporate,North America,Technology,Cloud Servers,Cloud Servers Pro Series 2,2147.45,5,0.15,856.53,12.75
+ORD-2024-10622,2025-02-13,CUST-603,Enterprise,Europe,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 8,349.46,2,0.15,88.06,32.41
+ORD-2024-10267,2025-02-14,CUST-818,Consumer,Europe,Furniture,Bookcases,Bookcases Pro Series 9,1871.78,9,0.25,696.73,19.87
+ORD-2024-10490,2025-02-14,CUST-844,Corporate,Latin America,Office Supplies,Appliances,Appliances Pro Series 1,769.45,3,0.2,145.12,39.51
+ORD-2024-10655,2025-02-14,CUST-853,Small Business,North America,Technology,Monitors,Monitors Pro Series 1,300.48,1,0.05,92.76,19.17
+ORD-2024-10159,2025-02-15,CUST-454,Small Business,North America,Furniture,Tables,Tables Pro Series 9,256.19,5,0.1,68.06,8.74
+ORD-2024-10852,2025-02-15,CUST-213,Corporate,Asia Pacific,Technology,Smartphones,Smartphones Pro Series 7,4515.97,7,0.0,1815.0,12.96
+ORD-2024-11134,2025-02-15,CUST-870,Corporate,Asia Pacific,Furniture,Bookcases,Bookcases Pro Series 8,1254.47,6,0.25,467.44,16.01
+ORD-2024-11030,2025-02-16,CUST-581,Consumer,Europe,Technology,Cloud Servers,Cloud Servers Pro Series 1,2202.58,12,0.0,903.69,39.68
+ORD-2024-11182,2025-02-16,CUST-573,Small Business,Europe,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 6,525.1,11,0.25,89.06,6.37
+ORD-2024-10217,2025-02-17,CUST-507,Consumer,Asia Pacific,Technology,Monitors,Monitors Pro Series 4,6100.62,10,0.15,1506.18,26.62
+ORD-2024-10530,2025-02-17,CUST-375,Enterprise,Middle East,Office Supplies,Storage,Storage Pro Series 1,154.0,1,0.25,52.27,28.21
+ORD-2024-10617,2025-02-17,CUST-695,Small Business,Latin America,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 7,1416.06,8,0.05,310.97,9.32
+ORD-2024-10738,2025-02-17,CUST-707,Corporate,Middle East,Technology,Monitors,Monitors Pro Series 5,1740.63,6,0.25,459.08,12.44
+ORD-2024-10435,2025-02-18,CUST-761,Enterprise,Latin America,Technology,Accessories,Accessories Pro Series 2,3081.45,7,0.2,679.89,41.4
+ORD-2024-10691,2025-02-18,CUST-524,Small Business,Europe,Technology,Monitors,Monitors Pro Series 7,545.34,4,0.15,177.77,21.37
+ORD-2024-11132,2025-02-19,CUST-623,Enterprise,Latin America,Technology,Laptops,Laptops Pro Series 3,2625.41,5,0.2,587.9,9.47
+ORD-2024-10842,2025-02-20,CUST-933,Corporate,Asia Pacific,Office Supplies,Paper,Paper Pro Series 5,1912.01,7,0.0,496.35,8.07
+ORD-2024-11052,2025-02-20,CUST-397,Corporate,Asia Pacific,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 4,2346.0,9,0.0,1030.31,5.8
+ORD-2024-10061,2025-02-22,CUST-423,Consumer,Middle East,Office Supplies,Binders,Binders Pro Series 4,944.76,4,0.1,219.77,44.06
+ORD-2024-10165,2025-02-22,CUST-294,Corporate,Latin America,Office Supplies,Appliances,Appliances Pro Series 8,908.1,5,0.0,151.14,25.22
+ORD-2024-10421,2025-02-22,CUST-923,Corporate,Middle East,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 4,636.78,3,0.25,257.98,37.23
+ORD-2024-10759,2025-02-23,CUST-314,Enterprise,Europe,Office Supplies,Fasteners,Fasteners Pro Series 9,1747.88,8,0.15,607.92,8.44
+ORD-2024-10806,2025-02-24,CUST-242,Consumer,Middle East,Technology,Monitors,Monitors Pro Series 5,7423.13,12,0.05,2519.94,29.73
+ORD-2024-10139,2025-02-25,CUST-640,Enterprise,North America,Furniture,Tables,Tables Pro Series 5,52.69,2,0.15,13.61,29.91
+ORD-2024-10874,2025-02-25,CUST-477,Corporate,Latin America,Technology,Cloud Servers,Cloud Servers Pro Series 3,1504.97,8,0.05,591.97,24.62
+ORD-2024-10297,2025-02-26,CUST-443,Enterprise,North America,Furniture,Tables,Tables Pro Series 4,407.28,12,0.1,87.11,33.82
+ORD-2024-10334,2025-02-26,CUST-710,Small Business,Latin America,Office Supplies,Binders,Binders Pro Series 6,1028.65,8,0.05,412.01,41.28
+ORD-2024-10729,2025-02-26,CUST-380,Corporate,North America,Office Supplies,Fasteners,Fasteners Pro Series 5,1894.67,11,0.15,851.49,22.08
+ORD-2024-10302,2025-02-27,CUST-371,Small Business,Asia Pacific,Technology,Laptops,Laptops Pro Series 1,3019.12,7,0.15,1219.49,19.43
+ORD-2024-10875,2025-02-27,CUST-763,Small Business,North America,Furniture,Tables,Tables Pro Series 3,1631.03,7,0.05,699.98,7.88
+ORD-2024-10951,2025-02-27,CUST-331,Consumer,Asia Pacific,Furniture,Chairs,Chairs Pro Series 6,2521.45,9,0.05,635.8,34.41
+ORD-2024-11040,2025-02-28,CUST-219,Small Business,North America,Office Supplies,Binders,Binders Pro Series 2,364.52,6,0.1,133.84,30.22
+ORD-2024-10143,2025-03-01,CUST-743,Consumer,Middle East,Office Supplies,Storage,Storage Pro Series 3,119.72,1,0.1,24.66,12.0
+ORD-2024-10209,2025-03-01,CUST-460,Corporate,Europe,Office Supplies,Fasteners,Fasteners Pro Series 8,773.19,3,0.2,118.22,43.29
+ORD-2024-10990,2025-03-01,CUST-337,Consumer,North America,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 6,1031.24,4,0.25,217.92,9.22
+ORD-2024-11000,2025-03-01,CUST-875,Consumer,Europe,Furniture,Chairs,Chairs Pro Series 1,1752.63,6,0.15,474.18,29.5
+ORD-2024-11192,2025-03-01,CUST-708,Consumer,North America,Furniture,Tables,Tables Pro Series 3,2207.94,8,0.05,734.42,11.38
+ORD-2024-10388,2025-03-02,CUST-595,Small Business,North America,Technology,Cloud Servers,Cloud Servers Pro Series 4,496.82,2,0.05,217.19,13.27
+ORD-2024-10486,2025-03-02,CUST-671,Enterprise,Middle East,Office Supplies,Paper,Paper Pro Series 4,730.13,5,0.1,159.09,16.44
+ORD-2024-10577,2025-03-02,CUST-156,Small Business,North America,Technology,Cloud Servers,Cloud Servers Pro Series 6,3926.21,8,0.1,1335.19,30.93
+ORD-2024-10032,2025-03-03,CUST-440,Enterprise,Europe,Furniture,Tables,Tables Pro Series 2,1827.7,7,0.15,700.5,37.66
+ORD-2024-10185,2025-03-03,CUST-909,Small Business,Middle East,Office Supplies,Binders,Binders Pro Series 3,2565.38,10,0.15,517.96,25.61
+ORD-2024-10558,2025-03-03,CUST-511,Small Business,North America,Office Supplies,Fasteners,Fasteners Pro Series 9,349.79,3,0.05,77.21,28.72
+ORD-2024-10761,2025-03-03,CUST-611,Small Business,Asia Pacific,Technology,Cloud Servers,Cloud Servers Pro Series 7,5379.83,11,0.25,1553.26,18.04
+ORD-2024-10171,2025-03-04,CUST-406,Small Business,Middle East,Office Supplies,Fasteners,Fasteners Pro Series 8,2076.51,12,0.15,426.26,19.73
+ORD-2024-10728,2025-03-04,CUST-788,Corporate,North America,Office Supplies,Binders,Binders Pro Series 2,244.74,3,0.2,47.32,40.24
+ORD-2024-10532,2025-03-06,CUST-784,Consumer,Middle East,Office Supplies,Storage,Storage Pro Series 1,1165.42,6,0.0,360.51,25.51
+ORD-2024-10630,2025-03-06,CUST-194,Consumer,Middle East,Furniture,Bookcases,Bookcases Pro Series 2,2408.88,10,0.15,775.34,18.89
+ORD-2024-11176,2025-03-06,CUST-929,Corporate,Asia Pacific,Technology,Smartphones,Smartphones Pro Series 1,1450.18,8,0.15,380.54,41.36
+ORD-2024-10640,2025-03-07,CUST-533,Corporate,Europe,Technology,Smartphones,Smartphones Pro Series 4,1807.11,5,0.1,345.39,7.24
+ORD-2024-11056,2025-03-07,CUST-409,Small Business,Latin America,Technology,Laptops,Laptops Pro Series 5,4777.48,11,0.15,1732.45,8.72
+ORD-2024-11121,2025-03-07,CUST-340,Enterprise,Middle East,Technology,Cloud Servers,Cloud Servers Pro Series 2,696.54,2,0.05,106.13,27.83
+ORD-2024-10480,2025-03-08,CUST-941,Small Business,Europe,Technology,Laptops,Laptops Pro Series 3,170.3,3,0.2,45.12,29.22
+ORD-2024-10825,2025-03-08,CUST-894,Consumer,Latin America,Office Supplies,Appliances,Appliances Pro Series 5,2314.82,11,0.1,1033.61,9.67
+ORD-2024-10845,2025-03-08,CUST-831,Enterprise,Middle East,Office Supplies,Storage,Storage Pro Series 4,2270.34,12,0.2,555.73,6.69
+ORD-2024-10259,2025-03-09,CUST-521,Enterprise,Europe,Technology,Laptops,Laptops Pro Series 3,886.82,2,0.15,305.54,22.18
+ORD-2024-11113,2025-03-09,CUST-838,Consumer,Latin America,Technology,Smartphones,Smartphones Pro Series 5,2169.86,5,0.2,420.36,14.75
+ORD-2024-10268,2025-03-10,CUST-994,Small Business,North America,Technology,Accessories,Accessories Pro Series 7,2110.88,5,0.1,498.81,28.07
+ORD-2024-10921,2025-03-10,CUST-738,Consumer,Latin America,Office Supplies,Fasteners,Fasteners Pro Series 1,1048.3,11,0.15,405.1,36.08
+ORD-2024-10057,2025-03-11,CUST-683,Enterprise,Asia Pacific,Technology,Cloud Servers,Cloud Servers Pro Series 6,1188.11,3,0.1,250.28,18.61
+ORD-2024-10362,2025-03-11,CUST-264,Small Business,Asia Pacific,Technology,Laptops,Laptops Pro Series 5,2611.5,4,0.0,894.17,23.1
+ORD-2024-10258,2025-03-12,CUST-236,Corporate,North America,Office Supplies,Fasteners,Fasteners Pro Series 1,1978.43,10,0.15,681.85,13.52
+ORD-2024-11005,2025-03-12,CUST-927,Consumer,North America,Office Supplies,Binders,Binders Pro Series 1,57.76,2,0.15,22.86,6.75
+ORD-2024-10898,2025-03-14,CUST-416,Corporate,Middle East,Technology,Laptops,Laptops Pro Series 4,472.13,5,0.2,132.46,27.55
+ORD-2024-10977,2025-03-14,CUST-729,Small Business,Europe,Office Supplies,Fasteners,Fasteners Pro Series 6,535.2,3,0.2,99.9,7.14
+ORD-2024-10607,2025-03-15,CUST-143,Corporate,North America,Technology,Monitors,Monitors Pro Series 1,1044.99,8,0.1,456.68,17.07
+ORD-2024-10820,2025-03-15,CUST-500,Consumer,Middle East,Office Supplies,Storage,Storage Pro Series 5,2918.04,12,0.25,563.54,20.75
+ORD-2024-10122,2025-03-16,CUST-177,Corporate,Latin America,Furniture,Lighting,Lighting Pro Series 8,2856.41,11,0.2,734.39,44.46
+ORD-2024-11058,2025-03-18,CUST-831,Consumer,Latin America,Technology,Monitors,Monitors Pro Series 1,3968.44,7,0.15,1345.51,27.53
+ORD-2024-11154,2025-03-18,CUST-513,Consumer,Latin America,Furniture,Tables,Tables Pro Series 8,80.72,5,0.25,31.43,31.48
+ORD-2024-11175,2025-03-18,CUST-162,Corporate,Asia Pacific,Furniture,Lighting,Lighting Pro Series 7,443.02,3,0.05,74.92,43.61
+ORD-2024-10197,2025-03-19,CUST-132,Enterprise,Middle East,Technology,Smartphones,Smartphones Pro Series 4,261.43,2,0.0,82.63,31.88
+ORD-2024-10377,2025-03-19,CUST-548,Enterprise,Latin America,Office Supplies,Paper,Paper Pro Series 8,552.08,3,0.05,124.76,36.87
+ORD-2024-10598,2025-03-19,CUST-604,Consumer,Middle East,Office Supplies,Storage,Storage Pro Series 8,1449.75,10,0.1,379.26,24.04
+ORD-2024-10132,2025-03-20,CUST-234,Enterprise,Europe,Technology,Smartphones,Smartphones Pro Series 3,4081.41,12,0.15,1390.58,33.78
+ORD-2024-10552,2025-03-20,CUST-763,Corporate,Europe,Office Supplies,Paper,Paper Pro Series 7,651.63,11,0.25,216.97,9.27
+ORD-2024-10634,2025-03-20,CUST-964,Enterprise,Latin America,Furniture,Chairs,Chairs Pro Series 4,657.87,7,0.1,168.54,15.26
+ORD-2024-10904,2025-03-20,CUST-416,Consumer,Latin America,Technology,Cloud Servers,Cloud Servers Pro Series 6,2272.15,3,0.05,976.01,28.06
+ORD-2024-10107,2025-03-21,CUST-838,Corporate,Latin America,Furniture,Tables,Tables Pro Series 7,1490.15,6,0.15,484.6,8.8
+ORD-2024-10251,2025-03-21,CUST-512,Small Business,Asia Pacific,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 6,118.71,10,0.25,50.1,43.89
+ORD-2024-10757,2025-03-21,CUST-965,Small Business,Europe,Office Supplies,Fasteners,Fasteners Pro Series 3,2838.67,12,0.1,1270.13,16.98
+ORD-2024-10157,2025-03-22,CUST-943,Consumer,Europe,Furniture,Chairs,Chairs Pro Series 8,1748.42,8,0.1,719.47,38.16
+ORD-2024-10263,2025-03-22,CUST-117,Consumer,North America,Furniture,Tables,Tables Pro Series 1,282.89,1,0.15,84.31,30.14
+ORD-2024-10509,2025-03-22,CUST-200,Corporate,Europe,Office Supplies,Paper,Paper Pro Series 8,1422.86,7,0.2,590.84,17.44
+ORD-2024-10542,2025-03-22,CUST-632,Small Business,Europe,Furniture,Lighting,Lighting Pro Series 1,196.23,11,0.0,87.6,8.91
+ORD-2024-10161,2025-03-23,CUST-371,Corporate,Middle East,Furniture,Lighting,Lighting Pro Series 1,2002.01,8,0.2,726.93,43.27
+ORD-2024-10177,2025-03-23,CUST-821,Corporate,Latin America,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 6,2212.58,9,0.25,814.15,9.87
+ORD-2024-10463,2025-03-23,CUST-456,Enterprise,Latin America,Technology,Smartphones,Smartphones Pro Series 1,6282.59,11,0.15,2725.15,25.98
+ORD-2024-10245,2025-03-24,CUST-607,Consumer,Middle East,Technology,Accessories,Accessories Pro Series 9,2901.81,6,0.0,644.2,22.65
+ORD-2024-11074,2025-03-24,CUST-823,Enterprise,Asia Pacific,Furniture,Lighting,Lighting Pro Series 6,296.62,9,0.2,58.54,43.21
+ORD-2024-10247,2025-03-25,CUST-342,Corporate,Middle East,Office Supplies,Storage,Storage Pro Series 7,631.02,3,0.05,129.95,37.22
+ORD-2024-10740,2025-03-25,CUST-250,Enterprise,Asia Pacific,Office Supplies,Storage,Storage Pro Series 5,1632.2,6,0.2,447.33,32.13
+ORD-2024-10144,2025-03-27,CUST-575,Enterprise,Europe,Technology,Laptops,Laptops Pro Series 8,284.75,1,0.0,60.56,40.43
+ORD-2024-10889,2025-03-27,CUST-242,Small Business,Latin America,Technology,Monitors,Monitors Pro Series 7,830.64,4,0.05,359.87,10.51
+ORD-2024-10854,2025-03-28,CUST-509,Enterprise,Europe,Technology,Laptops,Laptops Pro Series 1,418.64,3,0.2,186.67,32.38
+ORD-2024-11050,2025-03-28,CUST-212,Small Business,Europe,Office Supplies,Fasteners,Fasteners Pro Series 1,225.16,12,0.15,95.23,33.19
+ORD-2024-11168,2025-03-28,CUST-653,Small Business,North America,Furniture,Bookcases,Bookcases Pro Series 4,841.01,11,0.1,337.26,44.64
+ORD-2024-11145,2025-03-29,CUST-426,Consumer,Europe,Furniture,Chairs,Chairs Pro Series 8,348.94,2,0.0,100.25,13.6
+ORD-2024-11141,2025-03-30,CUST-636,Corporate,Europe,Furniture,Chairs,Chairs Pro Series 7,476.3,11,0.1,141.83,15.86
+ORD-2024-10304,2025-03-31,CUST-582,Enterprise,Asia Pacific,Technology,Monitors,Monitors Pro Series 7,884.38,3,0.15,299.96,22.83
+ORD-2024-10405,2025-03-31,CUST-920,Consumer,Europe,Furniture,Chairs,Chairs Pro Series 2,415.22,3,0.2,132.62,7.56
+ORD-2024-10960,2025-03-31,CUST-455,Small Business,Middle East,Furniture,Chairs,Chairs Pro Series 2,413.07,3,0.25,108.79,34.56
+ORD-2024-10400,2025-04-02,CUST-490,Small Business,Middle East,Office Supplies,Fasteners,Fasteners Pro Series 2,356.11,7,0.15,78.43,41.4
+ORD-2024-10260,2025-04-03,CUST-353,Small Business,North America,Technology,Monitors,Monitors Pro Series 5,643.14,12,0.25,120.43,13.22
+ORD-2024-10502,2025-04-03,CUST-415,Small Business,Middle East,Office Supplies,Storage,Storage Pro Series 1,440.56,2,0.1,145.91,27.76
+ORD-2024-10706,2025-04-03,CUST-245,Enterprise,North America,Furniture,Bookcases,Bookcases Pro Series 4,737.99,3,0.15,331.63,26.9
+ORD-2024-10870,2025-04-03,CUST-757,Corporate,Europe,Office Supplies,Paper,Paper Pro Series 1,1156.32,11,0.2,183.09,17.98
+ORD-2024-10899,2025-04-03,CUST-146,Consumer,Asia Pacific,Technology,Accessories,Accessories Pro Series 1,3321.85,6,0.15,996.34,17.58
+ORD-2024-10769,2025-04-04,CUST-500,Corporate,Latin America,Technology,Smartphones,Smartphones Pro Series 7,2146.39,8,0.25,847.75,27.74
+ORD-2024-10710,2025-04-06,CUST-824,Small Business,Middle East,Office Supplies,Paper,Paper Pro Series 9,127.14,2,0.2,36.55,35.3
+ORD-2024-10698,2025-04-07,CUST-706,Small Business,Europe,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 9,468.39,2,0.1,174.28,25.3
+ORD-2024-10810,2025-04-07,CUST-408,Enterprise,Europe,Furniture,Chairs,Chairs Pro Series 8,2049.49,11,0.05,792.14,35.13
+ORD-2024-11114,2025-04-08,CUST-483,Enterprise,Europe,Furniture,Bookcases,Bookcases Pro Series 3,915.12,5,0.0,245.81,41.39
+ORD-2024-11172,2025-04-08,CUST-468,Enterprise,Asia Pacific,Office Supplies,Paper,Paper Pro Series 8,14.82,1,0.15,4.89,39.3
+ORD-2024-10996,2025-04-09,CUST-549,Enterprise,Latin America,Technology,Monitors,Monitors Pro Series 2,1824.96,3,0.1,765.98,24.95
+ORD-2024-10324,2025-04-10,CUST-714,Enterprise,Asia Pacific,Office Supplies,Binders,Binders Pro Series 1,1798.04,11,0.1,669.18,21.74
+ORD-2024-10372,2025-04-10,CUST-556,Enterprise,North America,Furniture,Tables,Tables Pro Series 6,383.27,9,0.0,153.22,43.25
+ORD-2024-11066,2025-04-10,CUST-831,Small Business,Middle East,Office Supplies,Storage,Storage Pro Series 8,616.01,8,0.1,105.88,33.81
+ORD-2024-10088,2025-04-11,CUST-394,Corporate,North America,Furniture,Bookcases,Bookcases Pro Series 5,2782.56,11,0.25,1043.38,38.81
+ORD-2024-10170,2025-04-11,CUST-631,Enterprise,Europe,Office Supplies,Fasteners,Fasteners Pro Series 3,1765.85,6,0.1,708.55,44.62
+ORD-2024-10822,2025-04-11,CUST-300,Consumer,Asia Pacific,Office Supplies,Fasteners,Fasteners Pro Series 2,2906.59,11,0.05,979.62,44.31
+ORD-2024-10202,2025-04-12,CUST-159,Enterprise,Latin America,Office Supplies,Fasteners,Fasteners Pro Series 3,640.78,7,0.05,224.86,8.16
+ORD-2024-10306,2025-04-13,CUST-523,Corporate,Middle East,Technology,Cloud Servers,Cloud Servers Pro Series 9,4318.14,7,0.25,820.15,23.99
+ORD-2024-10436,2025-04-13,CUST-801,Small Business,Asia Pacific,Office Supplies,Fasteners,Fasteners Pro Series 5,545.86,7,0.0,215.77,16.58
+ORD-2024-10284,2025-04-14,CUST-225,Consumer,Latin America,Technology,Smartphones,Smartphones Pro Series 7,4391.99,12,0.0,1472.11,22.07
+ORD-2024-10424,2025-04-14,CUST-452,Consumer,Latin America,Technology,Accessories,Accessories Pro Series 4,3830.37,10,0.25,1104.94,44.17
+ORD-2024-10573,2025-04-14,CUST-813,Consumer,Latin America,Furniture,Tables,Tables Pro Series 2,1804.15,9,0.25,415.79,43.0
+ORD-2024-10581,2025-04-14,CUST-167,Corporate,Latin America,Technology,Laptops,Laptops Pro Series 7,842.09,3,0.0,351.31,16.04
+ORD-2024-10857,2025-04-14,CUST-817,Corporate,Europe,Office Supplies,Binders,Binders Pro Series 4,118.64,2,0.0,43.64,12.69
+ORD-2024-10126,2025-04-15,CUST-957,Small Business,North America,Office Supplies,Binders,Binders Pro Series 1,856.98,4,0.15,250.91,29.39
+ORD-2024-10335,2025-04-15,CUST-119,Corporate,Europe,Office Supplies,Binders,Binders Pro Series 4,214.47,12,0.2,85.64,19.66
+ORD-2024-10696,2025-04-15,CUST-764,Enterprise,Europe,Furniture,Chairs,Chairs Pro Series 1,857.62,9,0.25,200.97,40.2
+ORD-2024-10240,2025-04-16,CUST-822,Small Business,Middle East,Office Supplies,Paper,Paper Pro Series 3,294.21,6,0.1,122.07,19.93
+ORD-2024-10547,2025-04-16,CUST-282,Enterprise,North America,Furniture,Tables,Tables Pro Series 7,693.71,3,0.0,282.23,35.75
+ORD-2024-10357,2025-04-17,CUST-206,Enterprise,Middle East,Office Supplies,Storage,Storage Pro Series 9,869.42,7,0.2,152.35,35.49
+ORD-2024-10522,2025-04-17,CUST-889,Enterprise,Asia Pacific,Furniture,Chairs,Chairs Pro Series 2,923.86,4,0.2,165.39,30.45
+ORD-2024-10801,2025-04-17,CUST-290,Corporate,North America,Office Supplies,Binders,Binders Pro Series 4,1463.22,5,0.15,464.98,41.52
+ORD-2024-10497,2025-04-20,CUST-876,Enterprise,Middle East,Technology,Accessories,Accessories Pro Series 8,398.57,3,0.1,139.99,21.55
+ORD-2024-10646,2025-04-20,CUST-944,Corporate,Asia Pacific,Office Supplies,Paper,Paper Pro Series 6,1213.57,7,0.2,277.5,23.13
+ORD-2024-10690,2025-04-20,CUST-225,Corporate,Latin America,Furniture,Chairs,Chairs Pro Series 4,827.79,8,0.2,329.97,15.64
+ORD-2024-10774,2025-04-20,CUST-961,Corporate,Europe,Technology,Monitors,Monitors Pro Series 2,684.76,3,0.2,155.83,11.74
+ORD-2024-10918,2025-04-20,CUST-227,Enterprise,Latin America,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 6,1491.46,6,0.15,437.07,35.6
+ORD-2024-10983,2025-04-20,CUST-961,Small Business,Middle East,Office Supplies,Appliances,Appliances Pro Series 2,447.95,7,0.0,176.74,37.74
+ORD-2024-10734,2025-04-21,CUST-632,Corporate,North America,Office Supplies,Fasteners,Fasteners Pro Series 8,359.19,2,0.2,148.18,43.98
+ORD-2024-10758,2025-04-21,CUST-901,Enterprise,Latin America,Office Supplies,Paper,Paper Pro Series 8,1951.4,11,0.05,371.47,14.1
+ORD-2024-10887,2025-04-21,CUST-493,Consumer,Middle East,Office Supplies,Appliances,Appliances Pro Series 9,2063.69,10,0.25,792.87,8.49
+ORD-2024-10317,2025-04-22,CUST-617,Enterprise,North America,Office Supplies,Paper,Paper Pro Series 4,911.59,6,0.15,361.65,39.82
+ORD-2024-10370,2025-04-22,CUST-764,Consumer,North America,Office Supplies,Storage,Storage Pro Series 8,1017.62,4,0.2,177.49,14.75
+ORD-2024-10352,2025-04-23,CUST-936,Corporate,Latin America,Furniture,Lighting,Lighting Pro Series 8,2116.36,12,0.25,665.05,8.9
+ORD-2024-10462,2025-04-23,CUST-806,Consumer,Middle East,Office Supplies,Storage,Storage Pro Series 1,2915.1,12,0.15,1243.16,7.24
+ORD-2024-10250,2025-04-25,CUST-879,Enterprise,Latin America,Technology,Monitors,Monitors Pro Series 5,3565.9,11,0.15,1523.87,36.78
+ORD-2024-10639,2025-04-25,CUST-893,Small Business,Latin America,Technology,Smartphones,Smartphones Pro Series 2,1504.46,6,0.2,344.26,37.23
+ORD-2024-10093,2025-04-26,CUST-363,Enterprise,Asia Pacific,Office Supplies,Storage,Storage Pro Series 2,2565.53,8,0.05,574.05,14.02
+ORD-2024-10138,2025-04-26,CUST-812,Corporate,Latin America,Furniture,Lighting,Lighting Pro Series 1,40.6,2,0.05,8.1,26.95
+ORD-2024-10453,2025-04-27,CUST-579,Consumer,Asia Pacific,Office Supplies,Appliances,Appliances Pro Series 6,331.49,12,0.2,122.74,6.63
+ORD-2024-10684,2025-04-28,CUST-789,Small Business,Latin America,Technology,Monitors,Monitors Pro Series 4,3012.79,5,0.0,752.85,10.16
+ORD-2024-10969,2025-04-28,CUST-225,Enterprise,Latin America,Office Supplies,Storage,Storage Pro Series 5,577.61,2,0.15,99.25,10.89
+ORD-2024-11061,2025-04-28,CUST-137,Small Business,Middle East,Office Supplies,Appliances,Appliances Pro Series 1,985.13,5,0.2,208.44,26.82
+ORD-2024-10030,2025-04-29,CUST-696,Corporate,Latin America,Technology,Laptops,Laptops Pro Series 5,4615.11,6,0.0,832.21,13.4
+ORD-2024-10891,2025-04-30,CUST-991,Corporate,North America,Technology,Accessories,Accessories Pro Series 3,492.07,2,0.0,137.41,37.55
+ORD-2024-11042,2025-04-30,CUST-741,Consumer,North America,Technology,Smartphones,Smartphones Pro Series 7,2119.24,4,0.1,654.77,24.38
+ORD-2024-10495,2025-05-01,CUST-405,Small Business,North America,Technology,Laptops,Laptops Pro Series 7,483.48,3,0.1,128.93,32.66
+ORD-2024-10678,2025-05-03,CUST-978,Corporate,North America,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 3,1250.64,8,0.0,500.47,11.1
+ORD-2024-10527,2025-05-04,CUST-468,Enterprise,Europe,Furniture,Tables,Tables Pro Series 3,39.03,1,0.0,15.88,40.4
+ORD-2024-11035,2025-05-04,CUST-536,Small Business,Asia Pacific,Furniture,Bookcases,Bookcases Pro Series 3,65.36,3,0.25,12.11,34.24
+ORD-2024-10290,2025-05-05,CUST-280,Corporate,Middle East,Furniture,Bookcases,Bookcases Pro Series 1,2397.0,12,0.2,673.36,27.52
+ORD-2024-10760,2025-05-05,CUST-539,Enterprise,Europe,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 9,112.42,1,0.2,21.12,17.22
+ORD-2024-10978,2025-05-05,CUST-228,Enterprise,North America,Furniture,Lighting,Lighting Pro Series 8,39.02,1,0.1,7.84,31.0
+ORD-2024-10111,2025-05-06,CUST-458,Small Business,North America,Furniture,Lighting,Lighting Pro Series 4,1669.51,7,0.2,443.97,30.71
+ORD-2024-11025,2025-05-06,CUST-640,Consumer,Middle East,Furniture,Lighting,Lighting Pro Series 9,920.93,8,0.05,183.45,16.72
+ORD-2024-11082,2025-05-06,CUST-424,Corporate,Middle East,Office Supplies,Storage,Storage Pro Series 9,280.57,1,0.15,91.21,31.71
+ORD-2024-10378,2025-05-07,CUST-402,Corporate,Asia Pacific,Office Supplies,Storage,Storage Pro Series 1,2633.8,9,0.05,1087.84,5.2
+ORD-2024-10817,2025-05-07,CUST-947,Consumer,Middle East,Furniture,Bookcases,Bookcases Pro Series 9,507.24,12,0.25,140.92,30.24
+ORD-2024-11198,2025-05-07,CUST-606,Enterprise,Latin America,Technology,Laptops,Laptops Pro Series 5,6868.3,12,0.1,1771.47,18.15
+ORD-2024-10321,2025-05-08,CUST-570,Small Business,Europe,Furniture,Bookcases,Bookcases Pro Series 9,1480.46,10,0.0,662.94,44.98
+ORD-2024-11048,2025-05-08,CUST-518,Consumer,Middle East,Furniture,Bookcases,Bookcases Pro Series 6,869.36,7,0.15,280.32,15.43
+ORD-2024-10280,2025-05-09,CUST-192,Corporate,Asia Pacific,Office Supplies,Fasteners,Fasteners Pro Series 1,1062.13,4,0.1,430.7,33.45
+ORD-2024-10637,2025-05-09,CUST-839,Enterprise,North America,Technology,Laptops,Laptops Pro Series 6,2883.83,10,0.0,518.59,21.28
+ORD-2024-10660,2025-05-09,CUST-773,Enterprise,North America,Technology,Smartphones,Smartphones Pro Series 1,668.14,4,0.15,248.5,33.24
+ORD-2024-10908,2025-05-09,CUST-397,Enterprise,Europe,Office Supplies,Appliances,Appliances Pro Series 2,493.19,4,0.15,122.93,18.96
+ORD-2024-10961,2025-05-09,CUST-804,Corporate,Europe,Furniture,Chairs,Chairs Pro Series 3,321.99,3,0.15,131.19,5.51
+ORD-2024-11067,2025-05-09,CUST-238,Corporate,Middle East,Office Supplies,Appliances,Appliances Pro Series 1,880.43,6,0.05,271.92,44.73
+ORD-2024-10903,2025-05-11,CUST-541,Consumer,Latin America,Technology,Smartphones,Smartphones Pro Series 2,1283.98,3,0.15,540.27,5.6
+ORD-2024-10987,2025-05-11,CUST-615,Corporate,Asia Pacific,Office Supplies,Fasteners,Fasteners Pro Series 7,243.18,9,0.25,98.39,31.24
+ORD-2024-11143,2025-05-12,CUST-333,Enterprise,Europe,Technology,Monitors,Monitors Pro Series 5,1835.87,9,0.25,721.49,38.23
+ORD-2024-10195,2025-05-13,CUST-221,Corporate,Middle East,Furniture,Lighting,Lighting Pro Series 3,4114.47,12,0.0,918.13,44.14
+ORD-2024-11137,2025-05-13,CUST-363,Corporate,North America,Technology,Monitors,Monitors Pro Series 5,1396.95,3,0.1,476.01,25.34
+ORD-2024-10947,2025-05-14,CUST-841,Enterprise,Europe,Technology,Laptops,Laptops Pro Series 4,8335.67,12,0.1,1710.11,26.5
+ORD-2024-10704,2025-05-15,CUST-220,Corporate,Latin America,Furniture,Chairs,Chairs Pro Series 3,1248.54,9,0.0,336.51,21.34
+ORD-2024-10790,2025-05-15,CUST-592,Consumer,Asia Pacific,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 3,1042.31,8,0.2,278.49,22.34
+ORD-2024-10819,2025-05-16,CUST-283,Enterprise,Latin America,Furniture,Tables,Tables Pro Series 1,1120.08,9,0.15,276.25,44.61
+ORD-2024-11139,2025-05-16,CUST-596,Corporate,Middle East,Furniture,Tables,Tables Pro Series 8,138.38,7,0.0,48.06,17.37
+ORD-2024-11197,2025-05-16,CUST-598,Small Business,Europe,Office Supplies,Paper,Paper Pro Series 2,2084.26,12,0.2,397.0,14.65
+ORD-2024-10005,2025-05-17,CUST-489,Small Business,Latin America,Office Supplies,Storage,Storage Pro Series 3,603.07,6,0.25,223.08,42.47
+ORD-2024-10104,2025-05-17,CUST-633,Small Business,Latin America,Office Supplies,Paper,Paper Pro Series 1,2032.15,8,0.15,496.19,24.61
+ORD-2024-10315,2025-05-17,CUST-940,Consumer,Middle East,Technology,Laptops,Laptops Pro Series 5,5191.97,12,0.05,1120.66,25.97
+ORD-2024-10766,2025-05-17,CUST-233,Corporate,Asia Pacific,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 3,1868.9,10,0.1,511.62,25.1
+ORD-2024-10930,2025-05-17,CUST-213,Enterprise,Middle East,Technology,Laptops,Laptops Pro Series 3,1233.08,5,0.05,520.57,24.77
+ORD-2024-10176,2025-05-18,CUST-797,Small Business,Middle East,Furniture,Tables,Tables Pro Series 4,959.31,5,0.05,160.74,44.29
+ORD-2024-10347,2025-05-18,CUST-637,Corporate,Asia Pacific,Office Supplies,Fasteners,Fasteners Pro Series 2,1573.88,7,0.05,480.7,31.55
+ORD-2024-10676,2025-05-18,CUST-862,Enterprise,Asia Pacific,Office Supplies,Fasteners,Fasteners Pro Series 6,2166.52,12,0.25,536.15,37.19
+ORD-2024-10081,2025-05-19,CUST-814,Corporate,Middle East,Furniture,Tables,Tables Pro Series 7,103.35,1,0.15,24.64,37.46
+ORD-2024-10101,2025-05-19,CUST-436,Corporate,Middle East,Technology,Accessories,Accessories Pro Series 3,1374.19,3,0.05,573.07,39.66
+ORD-2024-11138,2025-05-19,CUST-629,Enterprise,Latin America,Office Supplies,Binders,Binders Pro Series 6,591.52,11,0.2,210.41,19.97
+ORD-2024-10087,2025-05-20,CUST-734,Corporate,Latin America,Office Supplies,Binders,Binders Pro Series 4,1555.15,8,0.15,580.7,5.38
+ORD-2024-10198,2025-05-20,CUST-350,Consumer,Latin America,Furniture,Tables,Tables Pro Series 9,1070.88,4,0.0,436.88,44.74
+ORD-2024-10431,2025-05-20,CUST-378,Enterprise,Europe,Office Supplies,Fasteners,Fasteners Pro Series 3,1613.93,10,0.25,363.66,40.09
+ORD-2024-10675,2025-05-20,CUST-208,Enterprise,Middle East,Technology,Laptops,Laptops Pro Series 7,90.97,2,0.25,27.92,32.67
+ORD-2024-10694,2025-05-22,CUST-402,Enterprise,Latin America,Office Supplies,Fasteners,Fasteners Pro Series 5,2849.08,12,0.1,1275.33,16.19
+ORD-2024-10275,2025-05-23,CUST-443,Consumer,Latin America,Office Supplies,Storage,Storage Pro Series 2,731.45,4,0.05,237.03,43.45
+ORD-2024-10333,2025-05-23,CUST-419,Corporate,North America,Furniture,Lighting,Lighting Pro Series 5,110.61,3,0.0,39.88,16.63
+ORD-2024-10894,2025-05-23,CUST-667,Small Business,Middle East,Office Supplies,Storage,Storage Pro Series 4,2060.33,7,0.1,325.66,25.86
+ORD-2024-10768,2025-05-24,CUST-571,Enterprise,Middle East,Technology,Laptops,Laptops Pro Series 5,7057.34,11,0.15,2441.6,38.71
+ORD-2024-10972,2025-05-24,CUST-904,Corporate,North America,Office Supplies,Storage,Storage Pro Series 3,776.68,12,0.2,135.55,16.63
+ORD-2024-10026,2025-05-25,CUST-350,Small Business,Asia Pacific,Technology,Cloud Servers,Cloud Servers Pro Series 9,2628.12,12,0.25,765.62,31.71
+ORD-2024-10058,2025-05-25,CUST-818,Small Business,Middle East,Technology,Monitors,Monitors Pro Series 4,413.24,2,0.15,125.39,35.33
+ORD-2024-10079,2025-05-25,CUST-984,Consumer,Asia Pacific,Furniture,Bookcases,Bookcases Pro Series 9,1304.48,5,0.1,302.88,38.5
+ORD-2024-10346,2025-05-25,CUST-844,Corporate,Latin America,Furniture,Chairs,Chairs Pro Series 7,218.89,8,0.1,55.49,5.49
+ORD-2024-10991,2025-05-25,CUST-845,Enterprise,Latin America,Technology,Laptops,Laptops Pro Series 5,119.9,2,0.25,51.33,35.53
+ORD-2024-10307,2025-05-26,CUST-587,Small Business,North America,Furniture,Chairs,Chairs Pro Series 9,2533.22,10,0.2,625.05,29.81
+ORD-2024-10392,2025-05-26,CUST-550,Corporate,Europe,Technology,Monitors,Monitors Pro Series 5,646.73,4,0.05,220.75,33.69
+ORD-2024-10489,2025-05-26,CUST-192,Small Business,Asia Pacific,Office Supplies,Binders,Binders Pro Series 2,90.52,2,0.15,23.52,8.41
+ORD-2024-10748,2025-05-26,CUST-999,Consumer,North America,Technology,Smartphones,Smartphones Pro Series 4,1428.13,4,0.25,482.31,28.98
+ORD-2024-10286,2025-05-27,CUST-590,Consumer,North America,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 3,458.18,7,0.2,171.93,44.76
+ORD-2024-10942,2025-05-27,CUST-980,Consumer,Middle East,Office Supplies,Appliances,Appliances Pro Series 7,1638.68,6,0.05,640.5,37.11
+ORD-2024-10011,2025-05-28,CUST-868,Small Business,Asia Pacific,Technology,Accessories,Accessories Pro Series 7,929.2,3,0.25,173.99,15.54
+ORD-2024-10042,2025-05-28,CUST-897,Enterprise,Europe,Technology,Monitors,Monitors Pro Series 8,495.92,1,0.0,155.25,37.06
+ORD-2024-10669,2025-05-28,CUST-587,Small Business,Middle East,Office Supplies,Appliances,Appliances Pro Series 2,1605.43,7,0.2,632.69,30.23
+ORD-2024-11101,2025-05-28,CUST-282,Corporate,Asia Pacific,Furniture,Bookcases,Bookcases Pro Series 9,186.61,1,0.15,32.77,30.82
+ORD-2024-10045,2025-06-01,CUST-182,Corporate,Europe,Technology,Cloud Servers,Cloud Servers Pro Series 3,2255.86,12,0.15,739.29,26.7
+ORD-2024-10047,2025-06-01,CUST-955,Enterprise,Middle East,Office Supplies,Fasteners,Fasteners Pro Series 4,601.84,8,0.15,183.14,20.55
+ORD-2024-10361,2025-06-02,CUST-646,Small Business,Latin America,Technology,Monitors,Monitors Pro Series 2,354.7,1,0.0,88.29,13.0
+ORD-2024-10488,2025-06-02,CUST-659,Corporate,Latin America,Furniture,Bookcases,Bookcases Pro Series 8,59.94,1,0.2,10.85,40.83
+ORD-2024-10566,2025-06-03,CUST-838,Enterprise,Middle East,Office Supplies,Storage,Storage Pro Series 7,954.99,4,0.1,363.83,9.41
+ORD-2024-10594,2025-06-03,CUST-242,Consumer,Europe,Technology,Accessories,Accessories Pro Series 8,7553.8,9,0.0,1284.55,28.63
+ORD-2024-10860,2025-06-03,CUST-286,Consumer,North America,Technology,Accessories,Accessories Pro Series 4,1710.59,5,0.2,718.06,12.39
+ORD-2024-10839,2025-06-04,CUST-274,Small Business,Latin America,Technology,Accessories,Accessories Pro Series 9,4021.56,9,0.15,1234.38,10.1
+ORD-2024-10492,2025-06-05,CUST-307,Consumer,Middle East,Furniture,Chairs,Chairs Pro Series 8,1930.0,8,0.2,400.98,29.32
+ORD-2024-10038,2025-06-07,CUST-730,Small Business,Latin America,Office Supplies,Paper,Paper Pro Series 5,341.64,5,0.2,91.56,17.89
+ORD-2024-10399,2025-06-07,CUST-652,Consumer,Latin America,Office Supplies,Appliances,Appliances Pro Series 6,211.4,1,0.15,80.58,37.09
+ORD-2024-11038,2025-06-07,CUST-652,Corporate,North America,Furniture,Chairs,Chairs Pro Series 6,350.13,4,0.2,112.76,22.79
+ORD-2024-10809,2025-06-09,CUST-851,Enterprise,Asia Pacific,Office Supplies,Binders,Binders Pro Series 3,2082.63,9,0.25,621.89,10.11
+ORD-2024-11183,2025-06-09,CUST-494,Consumer,Europe,Technology,Laptops,Laptops Pro Series 3,807.69,11,0.05,324.23,17.9
+ORD-2024-10389,2025-06-10,CUST-469,Enterprise,Latin America,Furniture,Chairs,Chairs Pro Series 1,1019.4,11,0.25,162.56,30.34
+ORD-2024-10556,2025-06-10,CUST-733,Consumer,Europe,Office Supplies,Binders,Binders Pro Series 1,612.74,3,0.1,124.86,8.89
+ORD-2024-10105,2025-06-11,CUST-175,Consumer,Asia Pacific,Office Supplies,Binders,Binders Pro Series 2,241.04,3,0.25,66.14,33.49
+ORD-2024-10536,2025-06-11,CUST-856,Corporate,Latin America,Furniture,Tables,Tables Pro Series 5,1073.03,12,0.05,225.54,39.48
+ORD-2024-10771,2025-06-11,CUST-521,Consumer,Asia Pacific,Technology,Laptops,Laptops Pro Series 9,2155.04,6,0.05,806.35,25.24
+ORD-2024-10924,2025-06-11,CUST-133,Consumer,North America,Technology,Accessories,Accessories Pro Series 9,5723.53,12,0.1,2282.98,27.89
+ORD-2024-10149,2025-06-12,CUST-729,Enterprise,Asia Pacific,Office Supplies,Paper,Paper Pro Series 2,2262.81,11,0.1,669.96,35.0
+ORD-2024-11196,2025-06-12,CUST-449,Small Business,North America,Furniture,Bookcases,Bookcases Pro Series 2,1507.32,11,0.2,602.12,33.39
+ORD-2024-11051,2025-06-13,CUST-885,Consumer,North America,Office Supplies,Binders,Binders Pro Series 6,696.63,9,0.05,138.32,20.82
+ORD-2024-10448,2025-06-14,CUST-667,Corporate,North America,Office Supplies,Binders,Binders Pro Series 8,1158.02,5,0.2,393.57,5.03
+ORD-2024-10735,2025-06-15,CUST-486,Small Business,North America,Technology,Laptops,Laptops Pro Series 8,218.38,1,0.25,69.98,9.07
+ORD-2024-10672,2025-06-16,CUST-625,Consumer,Middle East,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 2,1512.87,8,0.2,311.88,19.22
+ORD-2024-11031,2025-06-16,CUST-532,Small Business,Europe,Furniture,Lighting,Lighting Pro Series 4,1223.49,12,0.1,221.17,40.93
+ORD-2024-10234,2025-06-17,CUST-187,Consumer,Europe,Furniture,Bookcases,Bookcases Pro Series 6,1777.47,8,0.2,542.35,24.05
+ORD-2024-10397,2025-06-18,CUST-710,Consumer,Europe,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 3,32.88,2,0.2,6.32,25.17
+ORD-2024-10726,2025-06-18,CUST-466,Corporate,North America,Office Supplies,Storage,Storage Pro Series 4,1236.02,4,0.1,542.56,24.71
+ORD-2024-10881,2025-06-18,CUST-800,Enterprise,North America,Furniture,Tables,Tables Pro Series 2,176.69,4,0.1,60.57,29.63
+ORD-2024-11065,2025-06-18,CUST-792,Small Business,Middle East,Furniture,Lighting,Lighting Pro Series 6,2211.83,10,0.05,802.76,32.4
+ORD-2024-11128,2025-06-18,CUST-430,Corporate,Asia Pacific,Technology,Laptops,Laptops Pro Series 4,3979.96,10,0.05,974.69,22.75
+ORD-2024-11164,2025-06-19,CUST-724,Corporate,North America,Office Supplies,Appliances,Appliances Pro Series 5,997.09,8,0.25,403.16,18.22
+ORD-2024-10147,2025-06-20,CUST-631,Small Business,North America,Office Supplies,Appliances,Appliances Pro Series 2,1441.87,7,0.05,412.89,17.85
+ORD-2024-10838,2025-06-20,CUST-279,Small Business,Middle East,Furniture,Chairs,Chairs Pro Series 9,1348.12,6,0.1,383.59,29.3
+ORD-2024-11124,2025-06-20,CUST-260,Corporate,Latin America,Furniture,Chairs,Chairs Pro Series 9,1217.62,6,0.25,485.0,41.29
+ORD-2024-11167,2025-06-20,CUST-832,Corporate,Europe,Technology,Smartphones,Smartphones Pro Series 5,313.72,3,0.2,84.52,38.79
+ORD-2024-10155,2025-06-21,CUST-753,Corporate,Asia Pacific,Office Supplies,Binders,Binders Pro Series 2,1065.3,4,0.05,226.79,6.05
+ORD-2024-10183,2025-06-21,CUST-997,Consumer,North America,Furniture,Lighting,Lighting Pro Series 2,496.48,6,0.25,142.49,24.76
+ORD-2024-10458,2025-06-21,CUST-360,Small Business,Latin America,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 1,287.41,12,0.1,77.97,25.7
+ORD-2024-10688,2025-06-21,CUST-548,Enterprise,North America,Technology,Monitors,Monitors Pro Series 2,752.18,9,0.0,300.79,9.72
+ORD-2024-10025,2025-06-22,CUST-174,Consumer,Latin America,Office Supplies,Fasteners,Fasteners Pro Series 2,312.17,2,0.2,115.64,42.33
+ORD-2024-10426,2025-06-22,CUST-531,Enterprise,North America,Technology,Smartphones,Smartphones Pro Series 6,902.36,4,0.25,327.19,15.7
+ORD-2024-10568,2025-06-22,CUST-565,Corporate,Latin America,Furniture,Tables,Tables Pro Series 8,864.45,12,0.1,136.01,13.09
+ORD-2024-10777,2025-06-22,CUST-483,Corporate,Europe,Technology,Laptops,Laptops Pro Series 7,757.29,1,0.1,154.37,32.2
+ORD-2024-10242,2025-06-23,CUST-277,Corporate,Latin America,Furniture,Tables,Tables Pro Series 3,1425.91,6,0.2,618.73,19.36
+ORD-2024-11085,2025-06-23,CUST-190,Consumer,North America,Technology,Laptops,Laptops Pro Series 3,3137.51,6,0.0,690.2,36.55
+ORD-2024-10457,2025-06-25,CUST-422,Small Business,Asia Pacific,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 6,765.14,10,0.2,295.21,35.63
+ORD-2024-10296,2025-06-27,CUST-244,Small Business,North America,Technology,Accessories,Accessories Pro Series 6,1676.85,3,0.0,341.24,31.8
+ORD-2024-10442,2025-06-27,CUST-262,Consumer,Middle East,Office Supplies,Paper,Paper Pro Series 5,1739.67,8,0.05,594.74,7.08
+ORD-2024-10184,2025-06-28,CUST-971,Enterprise,Asia Pacific,Technology,Laptops,Laptops Pro Series 6,1428.51,3,0.25,532.58,12.45
+ORD-2024-11077,2025-06-28,CUST-491,Small Business,Europe,Office Supplies,Paper,Paper Pro Series 4,1033.08,8,0.05,463.15,17.42
+ORD-2024-10550,2025-06-29,CUST-602,Enterprise,Latin America,Furniture,Chairs,Chairs Pro Series 9,48.32,4,0.25,9.89,24.28
+ORD-2024-10805,2025-06-29,CUST-781,Enterprise,Latin America,Office Supplies,Paper,Paper Pro Series 6,1710.6,6,0.0,535.29,32.93
+ORD-2024-11053,2025-06-29,CUST-204,Enterprise,Latin America,Technology,Smartphones,Smartphones Pro Series 5,260.23,5,0.25,56.8,14.89
+ORD-2024-10609,2025-06-30,CUST-693,Small Business,Asia Pacific,Technology,Monitors,Monitors Pro Series 4,4555.69,9,0.0,929.93,35.53
+ORD-2024-11194,2025-07-01,CUST-255,Corporate,Latin America,Technology,Accessories,Accessories Pro Series 6,447.52,1,0.2,159.61,9.1
+ORD-2024-10572,2025-07-02,CUST-687,Consumer,Latin America,Technology,Laptops,Laptops Pro Series 8,7978.62,12,0.0,2571.44,20.77
+ORD-2024-10785,2025-07-02,CUST-856,Small Business,Europe,Furniture,Bookcases,Bookcases Pro Series 1,2143.88,9,0.15,547.95,16.54
+ORD-2024-10871,2025-07-02,CUST-662,Small Business,Europe,Furniture,Lighting,Lighting Pro Series 5,1552.78,6,0.25,318.67,37.96
+ORD-2024-10936,2025-07-02,CUST-297,Small Business,Europe,Technology,Accessories,Accessories Pro Series 7,827.07,2,0.2,294.87,36.76
+ORD-2024-11075,2025-07-02,CUST-953,Small Business,Europe,Furniture,Lighting,Lighting Pro Series 8,1784.58,8,0.1,436.13,27.32
+ORD-2024-10539,2025-07-03,CUST-645,Corporate,Latin America,Office Supplies,Appliances,Appliances Pro Series 8,270.41,5,0.15,120.72,42.09
+ORD-2024-11157,2025-07-03,CUST-899,Enterprise,Latin America,Technology,Accessories,Accessories Pro Series 7,98.36,1,0.25,34.15,26.52
+ORD-2024-10226,2025-07-04,CUST-440,Enterprise,Asia Pacific,Furniture,Bookcases,Bookcases Pro Series 7,3567.27,11,0.05,1283.75,29.13
+ORD-2024-10470,2025-07-04,CUST-251,Small Business,North America,Furniture,Chairs,Chairs Pro Series 5,1244.51,8,0.1,482.0,26.52
+ORD-2024-10861,2025-07-04,CUST-472,Small Business,Asia Pacific,Technology,Laptops,Laptops Pro Series 1,5135.28,11,0.05,1800.62,34.65
+ORD-2024-10072,2025-07-05,CUST-883,Small Business,Middle East,Technology,Smartphones,Smartphones Pro Series 8,4626.78,9,0.1,1830.14,28.41
+ORD-2024-10939,2025-07-05,CUST-643,Small Business,Latin America,Technology,Laptops,Laptops Pro Series 3,2243.0,6,0.05,768.62,7.91
+ORD-2024-10040,2025-07-06,CUST-340,Small Business,Europe,Technology,Smartphones,Smartphones Pro Series 1,208.99,1,0.15,55.72,35.74
+ORD-2024-10229,2025-07-06,CUST-572,Corporate,Latin America,Furniture,Chairs,Chairs Pro Series 7,1503.7,11,0.25,540.05,15.11
+ORD-2024-10912,2025-07-06,CUST-800,Enterprise,Asia Pacific,Furniture,Tables,Tables Pro Series 2,97.41,3,0.15,41.45,39.95
+ORD-2024-10187,2025-07-07,CUST-409,Consumer,Asia Pacific,Office Supplies,Storage,Storage Pro Series 4,202.9,1,0.15,72.63,21.22
+ORD-2024-10219,2025-07-07,CUST-506,Small Business,North America,Office Supplies,Storage,Storage Pro Series 8,585.13,8,0.2,98.1,22.27
+ORD-2024-10937,2025-07-07,CUST-599,Enterprise,Latin America,Furniture,Lighting,Lighting Pro Series 5,1073.64,6,0.2,359.76,12.99
+ORD-2024-11045,2025-07-07,CUST-998,Small Business,Europe,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 8,1449.26,11,0.1,415.9,16.82
+ORD-2024-10665,2025-07-08,CUST-708,Consumer,Asia Pacific,Technology,Monitors,Monitors Pro Series 8,3635.71,6,0.25,646.93,36.88
+ORD-2024-10051,2025-07-09,CUST-141,Consumer,Europe,Technology,Laptops,Laptops Pro Series 3,452.93,4,0.25,188.28,42.91
+ORD-2024-10711,2025-07-09,CUST-634,Corporate,Latin America,Office Supplies,Paper,Paper Pro Series 2,3434.09,11,0.05,553.87,16.0
+ORD-2024-10995,2025-07-09,CUST-845,Enterprise,Europe,Technology,Monitors,Monitors Pro Series 8,2388.13,9,0.2,430.04,39.14
+ORD-2024-10503,2025-07-10,CUST-952,Corporate,Europe,Furniture,Bookcases,Bookcases Pro Series 8,1692.48,8,0.25,692.69,11.22
+ORD-2024-10579,2025-07-10,CUST-314,Corporate,Asia Pacific,Furniture,Bookcases,Bookcases Pro Series 9,1723.49,11,0.0,742.81,18.81
+ORD-2024-10994,2025-07-10,CUST-198,Corporate,North America,Technology,Laptops,Laptops Pro Series 6,3532.45,7,0.0,1228.54,32.29
+ORD-2024-10531,2025-07-11,CUST-181,Corporate,Middle East,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 9,304.52,2,0.2,128.95,23.9
+ORD-2024-10890,2025-07-11,CUST-820,Corporate,Latin America,Office Supplies,Paper,Paper Pro Series 7,198.71,6,0.0,49.91,7.95
+ORD-2024-11142,2025-07-11,CUST-966,Consumer,North America,Furniture,Lighting,Lighting Pro Series 9,290.92,4,0.25,114.97,42.45
+ORD-2024-10344,2025-07-12,CUST-378,Enterprise,Latin America,Furniture,Tables,Tables Pro Series 2,744.65,3,0.0,115.81,38.77
+ORD-2024-10064,2025-07-13,CUST-358,Enterprise,North America,Technology,Cloud Servers,Cloud Servers Pro Series 8,767.43,2,0.25,333.0,10.97
+ORD-2024-10181,2025-07-13,CUST-261,Enterprise,Latin America,Furniture,Tables,Tables Pro Series 5,663.68,6,0.0,117.88,8.58
+ORD-2024-10311,2025-07-13,CUST-202,Consumer,Middle East,Technology,Accessories,Accessories Pro Series 9,4062.5,6,0.1,1361.29,24.42
+ORD-2024-10166,2025-07-14,CUST-320,Small Business,North America,Technology,Accessories,Accessories Pro Series 8,5669.04,10,0.25,1407.3,16.43
+ORD-2024-10322,2025-07-14,CUST-959,Small Business,Middle East,Office Supplies,Fasteners,Fasteners Pro Series 5,1038.18,5,0.15,447.3,44.53
+ORD-2024-10829,2025-07-14,CUST-220,Corporate,Middle East,Office Supplies,Binders,Binders Pro Series 1,1335.07,9,0.1,551.5,10.15
+ORD-2024-10950,2025-07-14,CUST-523,Enterprise,North America,Office Supplies,Fasteners,Fasteners Pro Series 4,1488.4,10,0.15,233.82,17.88
+ORD-2024-11057,2025-07-14,CUST-674,Small Business,Latin America,Furniture,Lighting,Lighting Pro Series 9,486.56,4,0.15,112.75,43.06
+ORD-2024-10281,2025-07-15,CUST-505,Consumer,Asia Pacific,Furniture,Tables,Tables Pro Series 1,1687.23,7,0.2,380.6,14.99
+ORD-2024-10133,2025-07-16,CUST-725,Small Business,Latin America,Technology,Monitors,Monitors Pro Series 4,3495.53,5,0.15,625.03,12.76
+ORD-2024-10445,2025-07-16,CUST-877,Consumer,North America,Furniture,Tables,Tables Pro Series 9,108.59,2,0.05,38.55,27.33
+ORD-2024-10824,2025-07-16,CUST-742,Enterprise,Europe,Technology,Laptops,Laptops Pro Series 4,2314.73,7,0.25,627.65,11.9
+ORD-2024-10867,2025-07-17,CUST-269,Enterprise,Middle East,Furniture,Lighting,Lighting Pro Series 7,1452.48,7,0.05,573.41,11.4
+ORD-2024-11191,2025-07-17,CUST-587,Enterprise,Asia Pacific,Technology,Accessories,Accessories Pro Series 1,401.7,2,0.2,100.25,13.35
+ORD-2024-10276,2025-07-18,CUST-245,Small Business,North America,Technology,Smartphones,Smartphones Pro Series 9,3847.27,7,0.1,1202.13,34.92
+ORD-2024-10063,2025-07-19,CUST-666,Small Business,Europe,Office Supplies,Appliances,Appliances Pro Series 2,176.21,1,0.15,53.99,18.63
+ORD-2024-10360,2025-07-19,CUST-282,Small Business,North America,Furniture,Lighting,Lighting Pro Series 8,1546.23,10,0.25,366.4,31.97
+ORD-2024-10954,2025-07-19,CUST-988,Corporate,Latin America,Technology,Laptops,Laptops Pro Series 5,1142.55,7,0.1,188.01,28.09
+ORD-2024-10212,2025-07-20,CUST-117,Enterprise,Europe,Technology,Laptops,Laptops Pro Series 9,582.66,3,0.2,170.17,37.61
+ORD-2024-10563,2025-07-20,CUST-733,Small Business,Middle East,Office Supplies,Binders,Binders Pro Series 8,2335.16,11,0.1,1013.64,9.51
+ORD-2024-10593,2025-07-20,CUST-995,Consumer,Europe,Office Supplies,Appliances,Appliances Pro Series 7,670.15,8,0.25,106.48,21.95
+ORD-2024-10749,2025-07-20,CUST-350,Consumer,Middle East,Office Supplies,Binders,Binders Pro Series 9,1257.8,5,0.1,472.74,30.18
+ORD-2024-10831,2025-07-20,CUST-773,Consumer,Europe,Furniture,Chairs,Chairs Pro Series 9,1002.23,5,0.15,408.95,24.62
+ORD-2024-10933,2025-07-20,CUST-455,Enterprise,Middle East,Office Supplies,Fasteners,Fasteners Pro Series 1,512.42,3,0.1,88.15,12.71
+ORD-2024-10194,2025-07-21,CUST-761,Enterprise,Asia Pacific,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 7,219.89,7,0.25,41.26,10.32
+ORD-2024-10624,2025-07-21,CUST-428,Consumer,North America,Office Supplies,Paper,Paper Pro Series 3,593.43,6,0.25,163.08,35.61
+ORD-2024-10895,2025-07-21,CUST-228,Corporate,Latin America,Office Supplies,Paper,Paper Pro Series 4,401.82,7,0.25,63.17,29.2
+ORD-2024-11088,2025-07-21,CUST-365,Enterprise,Asia Pacific,Technology,Cloud Servers,Cloud Servers Pro Series 6,2556.68,10,0.25,749.33,38.18
+ORD-2024-10693,2025-07-23,CUST-268,Enterprise,North America,Furniture,Chairs,Chairs Pro Series 3,257.75,10,0.25,40.21,36.96
+ORD-2024-10417,2025-07-24,CUST-623,Small Business,Latin America,Technology,Monitors,Monitors Pro Series 3,400.0,1,0.15,122.6,26.63
+ORD-2024-11179,2025-07-24,CUST-976,Enterprise,Europe,Office Supplies,Paper,Paper Pro Series 5,1240.4,8,0.1,510.47,31.25
+ORD-2024-10249,2025-07-25,CUST-795,Consumer,Europe,Furniture,Chairs,Chairs Pro Series 5,600.95,11,0.05,225.41,33.46
+ORD-2024-10614,2025-07-25,CUST-538,Corporate,North America,Furniture,Bookcases,Bookcases Pro Series 3,297.14,1,0.15,73.8,20.85
+ORD-2024-10189,2025-07-27,CUST-482,Enterprise,Middle East,Furniture,Lighting,Lighting Pro Series 4,777.33,4,0.2,146.18,8.27
+ORD-2024-10864,2025-07-27,CUST-306,Corporate,North America,Technology,Smartphones,Smartphones Pro Series 7,4458.83,9,0.2,702.1,40.8
+ORD-2024-10214,2025-07-29,CUST-765,Consumer,North America,Furniture,Ergonomic Desks,Ergonomic Desks Pro Series 7,1177.62,9,0.25,526.59,11.86
+ORD-2024-10459,2025-07-30,CUST-409,Consumer,Asia Pacific,Technology,Smartphones,Smartphones Pro Series 6,500.41,1,0.25,101.73,41.76
+ORD-2024-10703,2025-07-31,CUST-805,Enterprise,Latin America,Technology,Smartphones,Smartphones Pro Series 9,1116.42,3,0.15,459.05,33.18
+ORD-2024-10835,2025-07-31,CUST-813,Corporate,Asia Pacific,Office Supplies,Fasteners,Fasteners Pro Series 3,1828.42,7,0.1,278.4,22.35
+ORD-2024-10274,2025-08-01,CUST-894,Corporate,Middle East,Technology,Smartphones,Smartphones Pro Series 1,387.12,7,0.2,133.97,38.58
+ORD-2024-10309,2025-08-01,CUST-742,Corporate,Middle East,Furniture,Bookcases,Bookcases Pro Series 2,246.52,2,0.15,70.11,39.26
+ORD-2024-10205,2025-08-02,CUST-590,Corporate,Middle East,Office Supplies,Binders,Binders Pro Series 7,719.81,4,0.1,241.71,26.35

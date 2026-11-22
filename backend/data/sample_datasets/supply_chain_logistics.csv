@@ -1,0 +1,1001 @@
+shipment_date,shipment_id,origin,destination,carrier,shipping_mode,transit_time_days,cargo_value,fuel_cost,is_on_time,delay_risk_score,co2_emissions_kg
+2024-01-01,SHP-20080,Hamburg,Sydney,UPS Global,Air Freight,8,113960.93,1731.24,1,0.26,2889.6
+2024-01-01,SHP-20311,Hamburg,London,FedEx Logistics,Ground Express,24,145424.28,691.25,1,0.04,3231.7
+2024-01-02,SHP-20022,Los Angeles,Tokyo,UPS Global,Ground Express,15,132838.43,2274.6,0,0.8,3901.0
+2024-01-04,SHP-20430,Shanghai,London,UPS Global,Rail Intermodal,4,43809.79,345.45,1,0.25,1392.3
+2024-01-04,SHP-20522,Hamburg,Tokyo,Kuehne+Nagel,Ocean Cargo,3,14636.19,713.76,1,0.03,1187.8
+2024-01-04,SHP-20735,Rotterdam,London,Kuehne+Nagel,Ocean Cargo,13,121711.42,1062.56,0,0.8,4476.0
+2024-01-05,SHP-20426,Dubai,London,Maersk Ocean,Rail Intermodal,13,79562.53,475.08,0,0.61,5152.4
+2024-01-05,SHP-20845,Hamburg,New York,DHL Freight,Ocean Cargo,18,70741.52,2564.95,0,0.94,6510.7
+2024-01-06,SHP-20063,Singapore,New York,FedEx Logistics,Rail Intermodal,17,47056.69,1843.29,1,0.27,4447.3
+2024-01-06,SHP-20274,Dubai,Tokyo,DHL Freight,Rail Intermodal,24,17394.95,553.13,1,0.05,9076.9
+2024-01-06,SHP-20461,Los Angeles,Tokyo,Kuehne+Nagel,Ocean Cargo,27,70387.68,172.01,1,0.36,6526.7
+2024-01-06,SHP-20991,Dubai,New York,Maersk Ocean,Ocean Cargo,16,61273.22,1880.78,1,0.23,3562.7
+2024-01-07,SHP-20280,Rotterdam,Tokyo,FedEx Logistics,Rail Intermodal,28,68947.18,1883.56,1,0.31,12128.1
+2024-01-07,SHP-20821,Singapore,Sydney,FedEx Logistics,Air Freight,23,118740.37,2636.01,1,0.04,9375.3
+2024-01-08,SHP-20369,Dubai,Chicago,Kuehne+Nagel,Ocean Cargo,23,95842.44,2813.09,0,0.54,7471.2
+2024-01-09,SHP-20434,Dubai,New York,DHL Freight,Ground Express,25,165126.57,2680.78,1,0.15,9543.5
+2024-01-09,SHP-20967,Rotterdam,New York,Maersk Ocean,Ground Express,18,26830.44,2648.11,1,0.27,4476.9
+2024-01-11,SHP-20186,Rotterdam,Sydney,FedEx Logistics,Rail Intermodal,24,92818.41,771.87,0,0.91,9670.6
+2024-01-11,SHP-20753,Hamburg,Chicago,DHL Freight,Ocean Cargo,26,142412.48,1841.86,1,0.24,6370.3
+2024-01-11,SHP-20815,Shanghai,London,Maersk Ocean,Air Freight,19,34479.34,2411.41,1,0.28,2599.1
+2024-01-13,SHP-20785,Dubai,London,UPS Global,Air Freight,12,58387.67,3005.15,1,0.16,2613.2
+2024-01-13,SHP-20924,Shanghai,Frankfurt,DHL Freight,Ocean Cargo,9,51839.88,2498.86,0,0.51,3938.0
+2024-01-14,SHP-20177,Los Angeles,Chicago,UPS Global,Ocean Cargo,8,13515.17,1929.2,1,0.21,3251.7
+2024-01-14,SHP-20529,Dubai,New York,FedEx Logistics,Rail Intermodal,15,66188.76,288.75,1,0.02,2316.6
+2024-01-14,SHP-20984,Hamburg,London,FedEx Logistics,Ground Express,5,10162.08,2890.65,1,0.1,1746.3
+2024-01-15,SHP-20496,Rotterdam,London,Maersk Ocean,Rail Intermodal,21,12853.57,594.75,1,0.1,4584.6
+2024-01-15,SHP-20605,Los Angeles,Sydney,FedEx Logistics,Rail Intermodal,7,69823.58,2559.07,1,0.29,563.5
+2024-01-15,SHP-20619,Los Angeles,London,UPS Global,Ground Express,6,134236.62,163.1,0,0.65,2046.1
+2024-01-16,SHP-20120,Dubai,Frankfurt,Maersk Ocean,Air Freight,7,138421.67,983.47,1,0.15,1029.8
+2024-01-16,SHP-20697,Dubai,Frankfurt,DHL Freight,Rail Intermodal,13,171463.47,1950.53,1,0.08,1429.9
+2024-01-17,SHP-20368,Dubai,Frankfurt,FedEx Logistics,Rail Intermodal,17,76974.75,494.46,1,0.04,5479.8
+2024-01-17,SHP-20854,Rotterdam,Sydney,Maersk Ocean,Ocean Cargo,25,88352.91,935.77,1,0.27,10535.3
+2024-01-18,SHP-20001,Singapore,London,Kuehne+Nagel,Air Freight,19,118729.78,756.45,0,0.69,4677.9
+2024-01-18,SHP-20728,Singapore,New York,Kuehne+Nagel,Air Freight,4,75288.9,1181.83,1,0.18,902.0
+2024-01-19,SHP-20300,Los Angeles,Sydney,Kuehne+Nagel,Ocean Cargo,5,145681.93,1559.23,1,0.07,514.1
+2024-01-19,SHP-20535,Los Angeles,New York,UPS Global,Ocean Cargo,13,171377.18,1528.31,1,0.22,1881.8
+2024-01-20,SHP-20772,Rotterdam,Frankfurt,DHL Freight,Ocean Cargo,3,82335.72,2953.3,1,0.25,719.3
+2024-01-21,SHP-20328,Hamburg,Chicago,Kuehne+Nagel,Ocean Cargo,5,83581.95,3045.23,1,0.39,1895.7
+2024-01-22,SHP-20592,Singapore,Frankfurt,UPS Global,Air Freight,22,57709.96,2670.77,1,0.02,3678.1
+2024-01-22,SHP-20729,Dubai,London,Kuehne+Nagel,Air Freight,22,144837.38,3139.14,0,0.94,5173.1
+2024-01-22,SHP-20966,Dubai,London,UPS Global,Ocean Cargo,21,65914.97,1301.55,1,0.39,6162.0
+2024-01-23,SHP-20904,Singapore,London,UPS Global,Air Freight,21,156261.27,758.91,1,0.17,4061.1
+2024-01-24,SHP-20076,Los Angeles,Frankfurt,Maersk Ocean,Ground Express,2,173334.44,428.55,0,0.76,175.4
+2024-01-24,SHP-20299,Rotterdam,London,DHL Freight,Ocean Cargo,13,13566.36,1358.55,1,0.12,5805.2
+2024-01-24,SHP-20394,Rotterdam,Sydney,DHL Freight,Rail Intermodal,10,54495.07,1797.72,0,0.87,2187.3
+2024-01-25,SHP-20413,Singapore,Chicago,Maersk Ocean,Rail Intermodal,17,159271.6,2949.6,1,0.39,3398.4
+2024-01-25,SHP-20442,Los Angeles,Tokyo,Kuehne+Nagel,Ground Express,17,159172.77,2889.27,0,0.89,4447.2
+2024-01-26,SHP-20424,Hamburg,Sydney,FedEx Logistics,Rail Intermodal,27,66340.62,2494.45,0,0.54,3497.5
+2024-01-26,SHP-20777,Singapore,Tokyo,Kuehne+Nagel,Rail Intermodal,18,137015.39,3077.21,1,0.24,5044.0
+2024-01-27,SHP-20586,Dubai,Frankfurt,FedEx Logistics,Air Freight,7,163315.91,2079.62,1,0.19,1002.1
+2024-01-27,SHP-20946,Rotterdam,New York,Maersk Ocean,Air Freight,13,172779.33,2442.62,0,0.59,4656.4
+2024-01-28,SHP-20156,Dubai,Tokyo,Maersk Ocean,Air Freight,27,160660.14,1272.46,1,0.36,6022.6
+2024-01-28,SHP-20318,Los Angeles,Frankfurt,UPS Global,Ocean Cargo,15,71274.7,1653.9,0,0.67,5799.9
+2024-01-30,SHP-20303,Hamburg,Sydney,UPS Global,Rail Intermodal,2,79666.2,1317.32,1,0.1,298.5
+2024-01-31,SHP-20767,Rotterdam,Sydney,UPS Global,Ground Express,5,86652.68,2224.53,1,0.22,480.4
+2024-02-01,SHP-20068,Rotterdam,Frankfurt,FedEx Logistics,Rail Intermodal,5,105461.24,2811.8,1,0.2,1030.3
+2024-02-01,SHP-20259,Rotterdam,New York,UPS Global,Ocean Cargo,8,173670.09,2636.41,0,0.79,1851.0
+2024-02-02,SHP-20385,Rotterdam,London,Maersk Ocean,Ground Express,6,125854.1,2710.11,1,0.1,1681.4
+2024-02-02,SHP-20419,Rotterdam,London,Kuehne+Nagel,Rail Intermodal,21,116583.97,3106.19,1,0.38,3362.9
+2024-02-02,SHP-20467,Los Angeles,New York,Kuehne+Nagel,Rail Intermodal,7,152269.38,736.19,1,0.33,875.9
+2024-02-02,SHP-20937,Singapore,New York,FedEx Logistics,Rail Intermodal,25,173859.81,230.36,1,0.04,2980.6
+2024-02-04,SHP-20843,Singapore,London,Maersk Ocean,Rail Intermodal,16,114273.75,2061.85,1,0.05,1787.4
+2024-02-05,SHP-20214,Hamburg,Frankfurt,FedEx Logistics,Rail Intermodal,19,175150.79,1661.64,1,0.32,3760.7
+2024-02-05,SHP-20551,Singapore,London,Kuehne+Nagel,Air Freight,26,31112.88,597.51,0,0.63,8001.8
+2024-02-06,SHP-20103,Los Angeles,Frankfurt,Maersk Ocean,Rail Intermodal,5,170595.77,576.32,1,0.4,614.8
+2024-02-06,SHP-20201,Shanghai,Sydney,Maersk Ocean,Ocean Cargo,14,166543.55,2242.52,1,0.28,4428.5
+2024-02-08,SHP-20478,Singapore,London,DHL Freight,Ocean Cargo,5,22281.88,1630.38,0,0.79,1118.9
+2024-02-08,SHP-20639,Dubai,New York,DHL Freight,Air Freight,21,162705.6,776.47,1,0.27,1907.3
+2024-02-09,SHP-20059,Dubai,Tokyo,DHL Freight,Rail Intermodal,28,80866.6,1645.12,1,0.26,10825.4
+2024-02-10,SHP-20014,Hamburg,London,FedEx Logistics,Rail Intermodal,19,97342.91,653.64,0,0.69,3008.9
+2024-02-10,SHP-20245,Los Angeles,Frankfurt,UPS Global,Ocean Cargo,22,49219.29,1073.64,1,0.29,8183.1
+2024-02-10,SHP-20804,Los Angeles,Tokyo,FedEx Logistics,Ocean Cargo,11,17246.4,2161.69,1,0.16,925.0
+2024-02-11,SHP-20700,Hamburg,Sydney,DHL Freight,Rail Intermodal,10,173883.63,692.93,1,0.05,3953.7
+2024-02-12,SHP-20113,Shanghai,Tokyo,Kuehne+Nagel,Ocean Cargo,4,114255.56,534.88,0,0.75,801.3
+2024-02-12,SHP-20246,Hamburg,Sydney,Kuehne+Nagel,Rail Intermodal,19,166068.63,1695.17,1,0.23,7078.8
+2024-02-13,SHP-20231,Rotterdam,Chicago,Kuehne+Nagel,Air Freight,7,60034.82,2982.74,1,0.24,2508.3
+2024-02-13,SHP-20297,Singapore,London,Kuehne+Nagel,Air Freight,6,83674.18,472.26,1,0.17,1669.8
+2024-02-15,SHP-20944,Hamburg,Tokyo,DHL Freight,Ocean Cargo,11,23631.3,646.42,1,0.25,3959.0
+2024-02-16,SHP-20229,Dubai,New York,DHL Freight,Rail Intermodal,14,88300.89,1300.37,1,0.29,1548.3
+2024-02-16,SHP-20510,Los Angeles,London,Kuehne+Nagel,Rail Intermodal,24,37195.88,2131.18,1,0.21,3141.1
+2024-02-17,SHP-20072,Singapore,London,Kuehne+Nagel,Air Freight,7,83838.15,158.16,0,0.71,644.5
+2024-02-17,SHP-20737,Shanghai,Sydney,FedEx Logistics,Rail Intermodal,8,69626.49,1510.8,0,0.68,2294.5
+2024-02-17,SHP-20794,Hamburg,Chicago,Kuehne+Nagel,Air Freight,27,44854.78,993.1,1,0.05,2542.4
+2024-02-17,SHP-20870,Los Angeles,Frankfurt,Kuehne+Nagel,Ocean Cargo,2,177786.13,1939.89,1,0.12,711.6
+2024-02-18,SHP-20732,Hamburg,Tokyo,UPS Global,Ocean Cargo,18,54687.38,3175.37,1,0.21,3519.6
+2024-02-18,SHP-20961,Shanghai,Tokyo,UPS Global,Air Freight,11,83998.66,2815.02,1,0.22,3605.5
+2024-02-19,SHP-20658,Dubai,New York,Maersk Ocean,Air Freight,12,99222.94,667.83,1,0.2,4793.4
+2024-02-19,SHP-20875,Shanghai,Chicago,Maersk Ocean,Ground Express,19,175993.04,673.39,1,0.11,1844.5
+2024-02-20,SHP-20277,Shanghai,London,DHL Freight,Rail Intermodal,13,60038.14,3087.91,1,0.11,4140.6
+2024-02-21,SHP-20953,Singapore,Frankfurt,UPS Global,Ground Express,17,138550.61,3134.38,1,0.27,2243.4
+2024-02-22,SHP-20411,Rotterdam,Chicago,DHL Freight,Ocean Cargo,27,124728.29,3144.65,0,0.56,3750.6
+2024-02-22,SHP-20888,Shanghai,New York,FedEx Logistics,Air Freight,7,19802.4,1904.72,1,0.23,1836.5
+2024-02-24,SHP-20977,Shanghai,Sydney,DHL Freight,Ocean Cargo,2,100142.69,2035.2,1,0.24,178.7
+2024-02-27,SHP-20091,Dubai,Frankfurt,DHL Freight,Rail Intermodal,7,163099.21,2266.7,1,0.14,705.3
+2024-02-27,SHP-20641,Hamburg,New York,Kuehne+Nagel,Ocean Cargo,24,54324.94,734.22,0,0.5,8361.1
+2024-02-29,SHP-20058,Rotterdam,Frankfurt,Kuehne+Nagel,Air Freight,27,141961.19,3150.73,1,0.22,8768.6
+2024-02-29,SHP-20237,Shanghai,London,UPS Global,Rail Intermodal,19,76407.73,1841.96,1,0.05,5416.2
+2024-02-29,SHP-20275,Rotterdam,Tokyo,FedEx Logistics,Rail Intermodal,26,158037.03,2630.77,1,0.05,7498.9
+2024-02-29,SHP-20773,Shanghai,Chicago,DHL Freight,Ground Express,14,113027.85,1375.13,1,0.11,4225.8
+2024-03-01,SHP-20153,Hamburg,Frankfurt,Maersk Ocean,Ocean Cargo,3,64245.77,1224.51,1,0.34,1000.0
+2024-03-01,SHP-20320,Rotterdam,London,UPS Global,Ocean Cargo,25,169820.98,378.76,1,0.15,11113.8
+2024-03-01,SHP-20572,Los Angeles,Tokyo,FedEx Logistics,Ground Express,10,9147.58,738.89,1,0.04,2998.3
+2024-03-01,SHP-20970,Dubai,New York,Kuehne+Nagel,Rail Intermodal,5,136552.18,1664.04,0,0.54,1221.6
+2024-03-02,SHP-20582,Dubai,Tokyo,UPS Global,Air Freight,22,38156.29,1485.85,1,0.09,7618.7
+2024-03-02,SHP-20724,Dubai,New York,FedEx Logistics,Ground Express,7,128928.59,2371.47,0,0.72,2814.6
+2024-03-03,SHP-20035,Shanghai,Sydney,FedEx Logistics,Ocean Cargo,28,66190.22,2951.28,1,0.1,9077.9
+2024-03-03,SHP-20358,Shanghai,New York,DHL Freight,Rail Intermodal,16,100774.42,1309.77,1,0.29,2496.5
+2024-03-03,SHP-20958,Los Angeles,Sydney,FedEx Logistics,Rail Intermodal,12,64924.12,346.64,0,0.72,4078.2
+2024-03-04,SHP-20612,Rotterdam,New York,FedEx Logistics,Rail Intermodal,6,96120.34,2818.73,1,0.13,2632.5
+2024-03-04,SHP-20936,Rotterdam,Tokyo,FedEx Logistics,Ground Express,16,154329.64,589.63,1,0.11,6180.7
+2024-03-05,SHP-20498,Los Angeles,Sydney,DHL Freight,Ground Express,8,42078.18,2407.04,0,0.74,1405.6
+2024-03-05,SHP-20574,Singapore,Tokyo,Maersk Ocean,Rail Intermodal,23,116786.59,3005.36,1,0.31,7730.8
+2024-03-05,SHP-20734,Shanghai,Tokyo,Maersk Ocean,Ground Express,5,118918.42,295.59,1,0.19,1459.0
+2024-03-05,SHP-20898,Rotterdam,New York,FedEx Logistics,Rail Intermodal,15,162674.62,2418.97,1,0.27,6463.5
+2024-03-06,SHP-20211,Dubai,Sydney,Kuehne+Nagel,Air Freight,9,22656.92,778.55,1,0.19,2957.8
+2024-03-07,SHP-20029,Shanghai,Frankfurt,Kuehne+Nagel,Ocean Cargo,10,41860.19,1009.36,1,0.1,3146.7
+2024-03-07,SHP-20518,Los Angeles,Frankfurt,Maersk Ocean,Air Freight,18,132202.92,2307.2,0,0.78,2504.9
+2024-03-08,SHP-20038,Hamburg,London,Maersk Ocean,Air Freight,24,95986.06,1479.98,0,0.81,10269.5
+2024-03-08,SHP-20853,Dubai,Chicago,FedEx Logistics,Ocean Cargo,8,170236.73,669.82,1,0.06,3580.3
+2024-03-09,SHP-20209,Hamburg,Sydney,Kuehne+Nagel,Ocean Cargo,25,151093.78,3135.11,1,0.39,6282.8
+2024-03-09,SHP-20399,Shanghai,Frankfurt,Kuehne+Nagel,Air Freight,26,12965.45,2425.15,1,0.16,6917.3
+2024-03-09,SHP-20593,Hamburg,New York,Kuehne+Nagel,Ground Express,26,93819.63,3159.69,1,0.31,8422.7
+2024-03-09,SHP-20929,Shanghai,New York,Kuehne+Nagel,Ocean Cargo,7,63597.71,1457.32,1,0.28,949.1
+2024-03-10,SHP-20066,Hamburg,Frankfurt,FedEx Logistics,Ocean Cargo,8,53387.43,2402.74,0,0.94,2192.9
+2024-03-10,SHP-20471,Singapore,New York,DHL Freight,Rail Intermodal,24,69994.77,1968.45,1,0.11,6359.3
+2024-03-10,SHP-20653,Los Angeles,Tokyo,UPS Global,Rail Intermodal,16,35952.11,259.74,1,0.36,2251.7
+2024-03-11,SHP-20046,Singapore,Sydney,Kuehne+Nagel,Ground Express,26,112214.16,2868.85,0,0.69,10803.9
+2024-03-11,SHP-20107,Los Angeles,New York,FedEx Logistics,Air Freight,3,47624.56,2549.72,1,0.32,467.8
+2024-03-12,SHP-20175,Los Angeles,London,FedEx Logistics,Air Freight,3,72226.22,1035.15,0,0.69,1308.6
+2024-03-12,SHP-20757,Singapore,Frankfurt,Kuehne+Nagel,Ground Express,15,93343.54,793.09,1,0.36,6447.0
+2024-03-12,SHP-20954,Hamburg,Sydney,DHL Freight,Ground Express,11,154975.17,1372.86,1,0.19,2965.8
+2024-03-12,SHP-20994,Singapore,Chicago,Maersk Ocean,Rail Intermodal,9,54881.46,1908.06,0,0.94,3755.8
+2024-03-13,SHP-20145,Shanghai,London,Maersk Ocean,Rail Intermodal,18,81557.7,599.41,1,0.33,7331.6
+2024-03-13,SHP-20844,Shanghai,Tokyo,DHL Freight,Ocean Cargo,17,138093.38,1629.84,1,0.04,6088.8
+2024-03-14,SHP-20329,Los Angeles,New York,UPS Global,Ocean Cargo,28,150968.92,2063.04,1,0.14,9772.8
+2024-03-14,SHP-20564,Shanghai,Tokyo,Maersk Ocean,Ocean Cargo,21,155125.22,1006.96,1,0.3,6371.7
+2024-03-14,SHP-20599,Dubai,Chicago,DHL Freight,Ground Express,6,86468.5,488.88,1,0.09,1242.7
+2024-03-14,SHP-20739,Dubai,Sydney,FedEx Logistics,Air Freight,24,87837.22,798.56,1,0.38,5199.7
+2024-03-16,SHP-20686,Singapore,Chicago,FedEx Logistics,Ground Express,25,78207.92,2215.43,1,0.32,2266.2
+2024-03-17,SHP-20099,Hamburg,Tokyo,Kuehne+Nagel,Ground Express,28,164958.57,651.86,1,0.39,5297.7
+2024-03-17,SHP-20509,Shanghai,Chicago,Kuehne+Nagel,Ground Express,21,45409.49,1879.48,1,0.11,1882.7
+2024-03-17,SHP-20690,Hamburg,New York,Kuehne+Nagel,Ocean Cargo,10,91246.97,668.09,1,0.35,1288.1
+2024-03-18,SHP-20356,Los Angeles,Tokyo,FedEx Logistics,Ocean Cargo,27,44973.2,1380.34,1,0.1,2378.9
+2024-03-18,SHP-20917,Shanghai,Frankfurt,FedEx Logistics,Ocean Cargo,19,118512.96,504.36,0,0.94,3801.7
+2024-03-19,SHP-20557,Singapore,Frankfurt,UPS Global,Rail Intermodal,27,167804.43,2270.94,0,0.58,7249.1
+2024-03-19,SHP-20680,Los Angeles,London,Maersk Ocean,Ground Express,20,32618.93,400.81,0,0.82,7280.3
+2024-03-19,SHP-20711,Singapore,New York,DHL Freight,Ocean Cargo,2,118509.06,788.15,1,0.19,623.3
+2024-03-20,SHP-20464,Shanghai,Frankfurt,UPS Global,Rail Intermodal,10,91099.3,2286.44,1,0.03,983.6
+2024-03-20,SHP-20796,Dubai,Frankfurt,Kuehne+Nagel,Ground Express,2,54322.92,2498.73,1,0.32,458.8
+2024-03-21,SHP-20848,Hamburg,New York,Kuehne+Nagel,Ground Express,24,48494.09,2441.89,1,0.25,7770.8
+2024-03-22,SHP-20020,Singapore,Tokyo,UPS Global,Ocean Cargo,4,155736.09,1501.55,0,0.54,1285.2
+2024-03-23,SHP-20637,Singapore,Tokyo,FedEx Logistics,Ocean Cargo,6,79340.89,3142.38,1,0.05,2199.8
+2024-03-24,SHP-20121,Dubai,Sydney,DHL Freight,Ocean Cargo,25,10364.99,2081.17,0,0.6,5883.5
+2024-03-24,SHP-20181,Hamburg,Chicago,UPS Global,Air Freight,3,129878.57,268.69,1,0.22,405.3
+2024-03-24,SHP-20545,Hamburg,Tokyo,Maersk Ocean,Rail Intermodal,7,121406.61,2283.82,1,0.19,638.4
+2024-03-25,SHP-20508,Shanghai,Tokyo,UPS Global,Rail Intermodal,11,168409.49,1501.16,1,0.08,1644.9
+2024-03-25,SHP-20598,Hamburg,Sydney,FedEx Logistics,Rail Intermodal,13,130968.71,566.03,1,0.39,2012.6
+2024-03-25,SHP-20640,Dubai,Tokyo,Kuehne+Nagel,Ground Express,13,92611.02,639.7,0,0.61,3782.8
+2024-03-25,SHP-20778,Los Angeles,Tokyo,Kuehne+Nagel,Ground Express,11,6414.32,1274.93,0,0.8,1468.5
+2024-03-30,SHP-20083,Dubai,Tokyo,Kuehne+Nagel,Ground Express,15,176542.81,2695.91,1,0.19,2002.8
+2024-03-30,SHP-20105,Los Angeles,Frankfurt,DHL Freight,Rail Intermodal,21,171516.27,1394.75,1,0.28,3368.2
+2024-03-30,SHP-20725,Rotterdam,Tokyo,FedEx Logistics,Air Freight,8,77756.22,1489.28,1,0.11,3035.1
+2024-03-31,SHP-20401,Singapore,London,UPS Global,Ground Express,22,123525.58,589.43,1,0.38,1850.8
+2024-03-31,SHP-20832,Los Angeles,New York,UPS Global,Rail Intermodal,4,166268.19,2464.52,0,0.74,1138.2
+2024-04-01,SHP-20024,Hamburg,New York,FedEx Logistics,Air Freight,21,155818.36,357.28,1,0.07,8597.5
+2024-04-01,SHP-20028,Hamburg,Frankfurt,Maersk Ocean,Air Freight,23,57391.28,2642.17,1,0.38,2982.8
+2024-04-01,SHP-20371,Los Angeles,Sydney,FedEx Logistics,Air Freight,26,47156.07,1649.53,1,0.04,4222.4
+2024-04-04,SHP-20340,Hamburg,London,FedEx Logistics,Ocean Cargo,23,119027.78,780.53,0,0.51,8480.4
+2024-04-04,SHP-20701,Los Angeles,Tokyo,FedEx Logistics,Air Freight,11,80662.72,1647.08,1,0.36,3336.3
+2024-04-06,SHP-20286,Singapore,Frankfurt,Maersk Ocean,Air Freight,26,63626.93,2894.69,1,0.12,2694.4
+2024-04-07,SHP-20841,Los Angeles,New York,DHL Freight,Air Freight,26,96868.35,2273.77,1,0.3,3721.5
+2024-04-08,SHP-20365,Rotterdam,Sydney,Kuehne+Nagel,Ground Express,25,147618.75,433.5,1,0.06,5702.3
+2024-04-09,SHP-20786,Hamburg,Chicago,UPS Global,Air Freight,5,166727.21,590.52,1,0.09,1099.7
+2024-04-11,SHP-20765,Hamburg,London,DHL Freight,Ocean Cargo,10,154708.82,2997.37,0,0.83,1815.0
+2024-04-11,SHP-20833,Los Angeles,Sydney,Maersk Ocean,Rail Intermodal,11,111054.44,1294.2,1,0.15,3789.5
+2024-04-12,SHP-20339,Los Angeles,Chicago,Kuehne+Nagel,Ground Express,13,161536.09,648.72,1,0.13,2899.4
+2024-04-13,SHP-20543,Hamburg,Chicago,UPS Global,Ground Express,11,39675.75,1163.61,0,0.54,4635.7
+2024-04-14,SHP-20990,Rotterdam,Sydney,FedEx Logistics,Ground Express,9,119967.06,371.55,1,0.08,1767.1
+2024-04-16,SHP-20446,Los Angeles,London,UPS Global,Ground Express,13,53935.17,2755.69,1,0.24,5750.3
+2024-04-16,SHP-20810,Hamburg,New York,UPS Global,Air Freight,9,32638.14,2850.9,0,0.63,3771.3
+2024-04-17,SHP-20235,Hamburg,Frankfurt,UPS Global,Air Freight,26,144659.66,2036.78,1,0.05,3563.6
+2024-04-17,SHP-20618,Hamburg,Frankfurt,DHL Freight,Ground Express,13,83475.09,601.23,1,0.22,1624.4
+2024-04-18,SHP-20151,Dubai,New York,Kuehne+Nagel,Ground Express,4,100214.34,3057.88,0,0.75,897.9
+2024-04-19,SHP-20279,Los Angeles,Tokyo,DHL Freight,Ocean Cargo,17,47189.31,1326.95,0,0.53,6950.1
+2024-04-20,SHP-20023,Singapore,New York,Kuehne+Nagel,Air Freight,25,13774.91,1106.49,1,0.21,9887.7
+2024-04-20,SHP-20084,Hamburg,Chicago,FedEx Logistics,Air Freight,10,154522.17,2506.66,1,0.38,2678.6
+2024-04-21,SHP-20717,Rotterdam,Sydney,FedEx Logistics,Ocean Cargo,20,64351.77,2922.66,0,0.88,6892.5
+2024-04-21,SHP-20762,Shanghai,London,DHL Freight,Ground Express,23,67618.68,2960.27,1,0.33,7160.8
+2024-04-22,SHP-20511,Shanghai,Sydney,DHL Freight,Ground Express,15,122484.34,828.79,1,0.31,1567.1
+2024-04-23,SHP-20571,Rotterdam,Frankfurt,FedEx Logistics,Ground Express,19,6483.33,182.26,1,0.02,2206.8
+2024-04-23,SHP-20834,Singapore,New York,DHL Freight,Ground Express,17,77768.53,1383.89,1,0.39,3707.1
+2024-04-24,SHP-20494,Los Angeles,Frankfurt,Kuehne+Nagel,Ocean Cargo,19,133741.86,2028.79,1,0.11,3391.8
+2024-04-25,SHP-20155,Shanghai,Tokyo,Maersk Ocean,Rail Intermodal,28,49329.91,1806.24,1,0.13,11171.8
+2024-04-26,SHP-20164,Singapore,New York,UPS Global,Ocean Cargo,24,20363.38,1507.59,1,0.27,8220.7
+2024-04-26,SHP-20432,Dubai,Chicago,Maersk Ocean,Ocean Cargo,3,94345.87,2541.08,1,0.25,988.2
+2024-04-26,SHP-20795,Singapore,Frankfurt,Maersk Ocean,Ground Express,11,139484.5,2422.89,1,0.09,3338.4
+2024-04-26,SHP-20831,Los Angeles,New York,Maersk Ocean,Rail Intermodal,14,82240.81,661.69,0,0.77,3365.2
+2024-04-27,SHP-20911,Dubai,London,DHL Freight,Ocean Cargo,8,129530.55,1425.55,0,0.94,3288.9
+2024-04-28,SHP-20081,Hamburg,London,Maersk Ocean,Rail Intermodal,24,10052.15,1628.37,0,0.86,8222.9
+2024-04-29,SHP-20806,Singapore,Tokyo,UPS Global,Rail Intermodal,7,169351.99,1991.31,0,0.59,2416.4
+2024-04-30,SHP-20324,Dubai,Tokyo,DHL Freight,Rail Intermodal,5,74556.79,1090.48,1,0.36,890.3
+2024-04-30,SHP-20981,Shanghai,Sydney,DHL Freight,Rail Intermodal,4,114494.48,1633.88,1,0.28,875.4
+2024-05-01,SHP-20526,Singapore,Chicago,DHL Freight,Air Freight,20,115071.25,2375.67,1,0.2,6696.0
+2024-05-01,SHP-20595,Rotterdam,Tokyo,Kuehne+Nagel,Rail Intermodal,3,14179.9,468.48,0,0.58,1111.9
+2024-05-02,SHP-20907,Los Angeles,Tokyo,Kuehne+Nagel,Air Freight,15,170957.43,713.76,1,0.15,1819.0
+2024-05-02,SHP-20942,Hamburg,New York,FedEx Logistics,Rail Intermodal,7,175797.79,2658.64,0,0.88,2674.9
+2024-05-04,SHP-20485,Hamburg,Frankfurt,Maersk Ocean,Ground Express,16,74490.85,1514.87,1,0.39,4806.9
+2024-05-05,SHP-20466,Los Angeles,Tokyo,UPS Global,Ground Express,16,10554.0,2275.65,1,0.34,6913.7
+2024-05-05,SHP-20878,Rotterdam,Tokyo,FedEx Logistics,Rail Intermodal,4,50618.03,1827.04,1,0.17,443.2
+2024-05-06,SHP-20604,Rotterdam,Tokyo,FedEx Logistics,Air Freight,2,58346.41,1613.34,1,0.35,713.0
+2024-05-07,SHP-20935,Shanghai,London,Maersk Ocean,Air Freight,8,8002.06,3181.41,0,0.71,1035.4
+2024-05-08,SHP-20602,Hamburg,London,Kuehne+Nagel,Air Freight,15,12010.27,3139.56,1,0.3,3998.4
+2024-05-08,SHP-20859,Los Angeles,New York,Kuehne+Nagel,Rail Intermodal,12,170005.73,591.34,1,0.21,2983.7
+2024-05-09,SHP-20828,Los Angeles,Chicago,Maersk Ocean,Ocean Cargo,16,16307.95,2070.84,1,0.05,2419.4
+2024-05-09,SHP-20957,Los Angeles,Frankfurt,DHL Freight,Ground Express,16,98645.26,1578.89,1,0.06,2347.2
+2024-05-10,SHP-20193,Singapore,New York,DHL Freight,Rail Intermodal,12,22595.36,2337.94,1,0.02,3403.6
+2024-05-10,SHP-20862,Dubai,New York,FedEx Logistics,Rail Intermodal,25,177268.17,1345.01,1,0.4,7068.5
+2024-05-11,SHP-20435,Singapore,Sydney,UPS Global,Air Freight,10,93591.67,683.86,0,0.53,1888.7
+2024-05-12,SHP-20007,Shanghai,Tokyo,UPS Global,Ground Express,4,170009.2,793.5,1,0.1,1058.9
+2024-05-12,SHP-20597,Singapore,Frankfurt,UPS Global,Ocean Cargo,14,17867.7,2868.66,0,0.72,5732.7
+2024-05-14,SHP-20614,Hamburg,Frankfurt,Maersk Ocean,Rail Intermodal,20,118058.96,1195.52,1,0.2,6527.3
+2024-05-15,SHP-20213,Dubai,Chicago,Maersk Ocean,Ground Express,9,30070.58,1070.38,0,0.6,1720.7
+2024-05-15,SHP-20648,Los Angeles,Frankfurt,UPS Global,Ground Express,26,106835.76,2326.16,1,0.31,9785.5
+2024-05-16,SHP-20104,Hamburg,London,UPS Global,Rail Intermodal,13,135049.52,2194.98,0,0.69,4610.3
+2024-05-16,SHP-20362,Shanghai,Frankfurt,DHL Freight,Air Freight,28,91468.21,1901.17,1,0.32,3017.5
+2024-05-16,SHP-20677,Singapore,London,UPS Global,Ground Express,27,76100.54,2488.56,1,0.12,2960.1
+2024-05-17,SHP-20779,Hamburg,New York,UPS Global,Ground Express,8,117097.09,3128.36,1,0.32,1651.0
+2024-05-18,SHP-20667,Singapore,London,DHL Freight,Ocean Cargo,27,86227.95,2673.05,0,0.95,6376.0
+2024-05-19,SHP-20345,Shanghai,Chicago,UPS Global,Ground Express,23,9454.67,576.79,1,0.4,4047.7
+2024-05-20,SHP-20837,Shanghai,Tokyo,DHL Freight,Ocean Cargo,10,170246.41,1996.58,1,0.12,3028.0
+2024-05-21,SHP-20825,Shanghai,New York,FedEx Logistics,Ground Express,17,31542.35,1054.67,1,0.26,2857.4
+2024-05-22,SHP-20025,Hamburg,New York,Kuehne+Nagel,Air Freight,15,103914.71,2154.99,1,0.38,2333.6
+2024-05-22,SHP-20189,Hamburg,Tokyo,FedEx Logistics,Ground Express,26,41273.61,1031.46,1,0.14,5435.5
+2024-05-23,SHP-20016,Shanghai,Tokyo,DHL Freight,Ocean Cargo,20,17423.79,821.66,1,0.11,8300.1
+2024-05-23,SHP-20278,Hamburg,Chicago,Kuehne+Nagel,Ground Express,26,9694.27,3020.9,1,0.1,7918.6
+2024-05-23,SHP-20788,Dubai,Tokyo,FedEx Logistics,Rail Intermodal,8,142316.41,2368.26,0,0.53,2145.5
+2024-05-23,SHP-20881,Rotterdam,New York,Kuehne+Nagel,Air Freight,23,16542.89,1822.52,1,0.16,4678.2
+2024-05-24,SHP-20033,Shanghai,Tokyo,Kuehne+Nagel,Rail Intermodal,21,167008.67,2435.91,1,0.35,9265.1
+2024-05-24,SHP-20370,Rotterdam,Frankfurt,UPS Global,Ocean Cargo,28,161110.83,2670.64,0,0.52,8905.6
+2024-05-24,SHP-20462,Dubai,Frankfurt,UPS Global,Rail Intermodal,9,78891.89,952.09,1,0.22,3383.9
+2024-05-26,SHP-20398,Shanghai,Chicago,FedEx Logistics,Ground Express,15,115288.02,1333.5,1,0.14,3361.7
+2024-05-27,SHP-20879,Los Angeles,Frankfurt,FedEx Logistics,Ocean Cargo,4,52144.95,2070.18,1,0.29,1154.2
+2024-05-28,SHP-20488,Rotterdam,New York,Kuehne+Nagel,Rail Intermodal,20,133496.54,2949.54,1,0.32,2879.5
+2024-05-29,SHP-20749,Shanghai,New York,Kuehne+Nagel,Ocean Cargo,11,49722.04,589.3,1,0.08,4755.3
+2024-05-30,SHP-20348,Hamburg,London,Maersk Ocean,Air Freight,9,135236.74,1233.61,1,0.18,3673.2
+2024-05-30,SHP-20460,Rotterdam,New York,DHL Freight,Ocean Cargo,13,98642.31,1024.62,1,0.38,3334.7
+2024-05-30,SHP-20962,Shanghai,New York,UPS Global,Ground Express,26,39755.93,1055.56,1,0.2,7231.6
+2024-05-31,SHP-20200,Singapore,Sydney,Maersk Ocean,Ground Express,11,105253.54,1926.51,1,0.27,3699.6
+2024-05-31,SHP-20410,Hamburg,Sydney,FedEx Logistics,Ground Express,14,140125.35,831.09,1,0.07,3715.8
+2024-06-02,SHP-20030,Los Angeles,Tokyo,DHL Freight,Air Freight,22,53419.04,1441.91,1,0.15,2824.9
+2024-06-02,SHP-20893,Shanghai,Frankfurt,Kuehne+Nagel,Rail Intermodal,8,167594.08,2965.32,0,0.87,744.9
+2024-06-02,SHP-20973,Los Angeles,Frankfurt,FedEx Logistics,Air Freight,15,9593.19,249.66,1,0.34,4080.2
+2024-06-03,SHP-20308,Dubai,New York,FedEx Logistics,Rail Intermodal,13,178519.84,3002.38,1,0.09,3890.0
+2024-06-04,SHP-20326,Shanghai,London,DHL Freight,Air Freight,23,99753.58,1198.56,0,0.6,2359.0
+2024-06-04,SHP-20334,Rotterdam,New York,Maersk Ocean,Ground Express,11,91033.36,1005.06,1,0.39,1807.8
+2024-06-04,SHP-20886,Dubai,Frankfurt,Maersk Ocean,Ocean Cargo,23,128687.68,2006.54,1,0.19,4852.6
+2024-06-04,SHP-20916,Shanghai,London,FedEx Logistics,Air Freight,19,11840.87,876.56,1,0.38,3472.6
+2024-06-05,SHP-20897,Los Angeles,Frankfurt,UPS Global,Ocean Cargo,6,80943.03,1228.9,1,0.36,2054.5
+2024-06-06,SHP-20192,Hamburg,Frankfurt,Maersk Ocean,Ocean Cargo,5,107695.34,2027.81,1,0.04,2074.6
+2024-06-07,SHP-20381,Rotterdam,Tokyo,UPS Global,Ocean Cargo,6,127502.5,1408.87,0,0.63,2037.3
+2024-06-07,SHP-20570,Rotterdam,Tokyo,DHL Freight,Ground Express,22,85694.0,1931.74,1,0.3,6552.2
+2024-06-07,SHP-20882,Singapore,Tokyo,DHL Freight,Air Freight,14,43889.48,3137.43,1,0.32,1759.7
+2024-06-08,SHP-20132,Shanghai,Tokyo,Kuehne+Nagel,Air Freight,11,11581.27,1558.31,1,0.34,1192.3
+2024-06-08,SHP-20333,Singapore,Chicago,Kuehne+Nagel,Rail Intermodal,3,158817.59,1357.17,1,0.04,767.5
+2024-06-08,SHP-20913,Singapore,Tokyo,DHL Freight,Air Freight,27,38283.41,3116.05,1,0.21,7479.4
+2024-06-09,SHP-20109,Singapore,London,Kuehne+Nagel,Ground Express,27,120685.09,682.22,1,0.07,5738.8
+2024-06-09,SHP-20504,Shanghai,Frankfurt,Maersk Ocean,Rail Intermodal,28,170223.92,3170.6,1,0.11,5780.9
+2024-06-09,SHP-20540,Rotterdam,Sydney,DHL Freight,Ground Express,6,25030.57,630.36,0,0.75,707.3
+2024-06-09,SHP-20594,Singapore,New York,FedEx Logistics,Rail Intermodal,17,122274.96,687.79,1,0.04,3650.8
+2024-06-10,SHP-20002,Shanghai,London,UPS Global,Ground Express,10,172512.29,624.21,1,0.06,2205.7
+2024-06-10,SHP-20054,Los Angeles,Tokyo,DHL Freight,Rail Intermodal,2,14114.98,2434.52,1,0.11,210.8
+2024-06-10,SHP-20390,Rotterdam,London,FedEx Logistics,Ground Express,2,129195.63,1158.22,1,0.04,847.2
+2024-06-11,SHP-20304,Singapore,New York,Kuehne+Nagel,Ocean Cargo,22,77098.64,1050.07,0,0.72,2474.1
+2024-06-11,SHP-20906,Rotterdam,Frankfurt,UPS Global,Ocean Cargo,12,36806.53,2880.07,1,0.04,4266.7
+2024-06-12,SHP-20291,Rotterdam,Tokyo,DHL Freight,Rail Intermodal,2,56029.14,1275.2,1,0.3,339.5
+2024-06-12,SHP-20530,Shanghai,Tokyo,Maersk Ocean,Ground Express,26,125021.26,168.7,1,0.17,7553.0
+2024-06-13,SHP-20067,Shanghai,London,Maersk Ocean,Ocean Cargo,13,7475.96,697.3,0,0.56,1258.9
+2024-06-13,SHP-20656,Shanghai,New York,Kuehne+Nagel,Air Freight,6,66053.44,2702.65,0,0.51,2458.8
+2024-06-13,SHP-20784,Singapore,Tokyo,FedEx Logistics,Ground Express,19,39297.82,900.19,1,0.34,7921.9
+2024-06-13,SHP-20995,Los Angeles,New York,Kuehne+Nagel,Air Freight,12,17154.47,2116.57,1,0.34,2803.0
+2024-06-14,SHP-20624,Rotterdam,Tokyo,UPS Global,Air Freight,8,82738.56,2369.95,1,0.33,1494.4
+2024-06-15,SHP-20227,Hamburg,Frankfurt,UPS Global,Ocean Cargo,5,96767.45,2950.05,1,0.09,1373.9
+2024-06-15,SHP-20387,Dubai,New York,UPS Global,Rail Intermodal,15,175768.98,3067.94,1,0.39,1498.6
+2024-06-15,SHP-20629,Singapore,Sydney,FedEx Logistics,Air Freight,5,91283.79,2482.39,1,0.25,1069.3
+2024-06-16,SHP-20073,Rotterdam,Frankfurt,UPS Global,Air Freight,23,51297.06,861.94,0,0.8,9785.5
+2024-06-16,SHP-20079,Los Angeles,Chicago,DHL Freight,Rail Intermodal,4,61572.91,1109.28,1,0.35,1540.9
+2024-06-16,SHP-20149,Rotterdam,New York,DHL Freight,Ocean Cargo,15,113991.85,2098.8,1,0.06,6223.6
+2024-06-16,SHP-20569,Los Angeles,Sydney,Maersk Ocean,Air Freight,5,116549.23,2949.02,1,0.25,1606.3
+2024-06-17,SHP-20400,Dubai,Tokyo,Kuehne+Nagel,Air Freight,11,81593.33,2484.09,1,0.33,1005.4
+2024-06-20,SHP-20096,Dubai,Sydney,Maersk Ocean,Air Freight,20,141204.53,2788.46,1,0.37,7114.3
+2024-06-21,SHP-20071,Hamburg,Sydney,Maersk Ocean,Air Freight,21,22365.88,3078.33,1,0.26,3736.3
+2024-06-22,SHP-20801,Hamburg,New York,Kuehne+Nagel,Air Freight,6,171711.57,618.76,1,0.24,2254.1
+2024-06-23,SHP-20335,Dubai,Sydney,Maersk Ocean,Ground Express,25,117972.09,1421.16,1,0.19,10449.3
+2024-06-23,SHP-20568,Dubai,Chicago,FedEx Logistics,Rail Intermodal,23,88053.18,2302.1,1,0.22,5539.6
+2024-06-23,SHP-20996,Rotterdam,Tokyo,UPS Global,Air Freight,19,91418.26,2512.57,1,0.17,6416.1
+2024-06-25,SHP-20241,Los Angeles,Tokyo,Kuehne+Nagel,Rail Intermodal,27,82039.01,2779.7,1,0.33,10746.5
+2024-06-25,SHP-20515,Rotterdam,Sydney,FedEx Logistics,Rail Intermodal,11,14545.67,2020.06,0,0.91,2766.8
+2024-06-26,SHP-20355,Shanghai,New York,Maersk Ocean,Ground Express,16,109364.74,2369.89,1,0.18,5345.7
+2024-06-26,SHP-20408,Hamburg,New York,FedEx Logistics,Air Freight,28,149627.64,1005.88,0,0.59,9839.5
+2024-06-27,SHP-20550,Los Angeles,New York,Kuehne+Nagel,Air Freight,23,139985.09,2632.9,1,0.14,7328.9
+2024-06-27,SHP-20621,Los Angeles,Chicago,FedEx Logistics,Rail Intermodal,13,14630.89,432.07,1,0.24,2108.5
+2024-06-28,SHP-20040,Los Angeles,Tokyo,UPS Global,Ground Express,19,78578.11,538.23,1,0.28,7866.7
+2024-06-28,SHP-20945,Hamburg,London,DHL Freight,Ocean Cargo,10,104771.49,409.37,1,0.23,3723.8
+2024-06-29,SHP-20057,Hamburg,New York,Maersk Ocean,Rail Intermodal,14,39707.71,3021.49,0,0.81,4369.1
+2024-06-29,SHP-20082,Shanghai,Chicago,UPS Global,Air Freight,9,164762.73,3176.38,1,0.38,2876.9
+2024-06-29,SHP-20636,Rotterdam,London,UPS Global,Ground Express,7,10032.92,2315.18,1,0.1,2779.2
+2024-06-30,SHP-20982,Los Angeles,London,FedEx Logistics,Ground Express,2,120441.62,2906.1,0,0.88,246.7
+2024-07-02,SHP-20438,Rotterdam,Chicago,Kuehne+Nagel,Air Freight,24,48445.08,2688.14,1,0.17,8569.2
+2024-07-03,SHP-20691,Hamburg,Sydney,FedEx Logistics,Ground Express,5,176240.41,1105.47,1,0.35,1944.4
+2024-07-03,SHP-20988,Shanghai,Chicago,UPS Global,Rail Intermodal,8,70443.09,1879.78,1,0.19,3272.8
+2024-07-04,SHP-20631,Dubai,London,Maersk Ocean,Ocean Cargo,3,78414.95,981.64,1,0.04,563.7
+2024-07-06,SHP-20313,Singapore,Frankfurt,UPS Global,Rail Intermodal,22,128757.01,1117.71,0,0.81,9320.8
+2024-07-06,SHP-20688,Dubai,Sydney,FedEx Logistics,Rail Intermodal,24,109509.29,1441.04,1,0.06,2441.7
+2024-07-07,SHP-20699,Dubai,Frankfurt,Kuehne+Nagel,Ocean Cargo,8,145272.64,2783.0,1,0.14,804.4
+2024-07-07,SHP-20751,Los Angeles,New York,DHL Freight,Ocean Cargo,9,107555.09,2444.01,1,0.21,2399.7
+2024-07-08,SHP-20682,Rotterdam,London,DHL Freight,Rail Intermodal,13,158368.25,704.76,0,0.6,5600.4
+2024-07-08,SHP-20805,Los Angeles,Sydney,FedEx Logistics,Air Freight,6,88693.95,1786.18,1,0.17,2486.0
+2024-07-10,SHP-20405,Singapore,Frankfurt,FedEx Logistics,Air Freight,11,162520.75,2039.52,1,0.2,2216.4
+2024-07-12,SHP-20689,Singapore,Sydney,Maersk Ocean,Air Freight,2,113440.13,923.65,1,0.39,656.7
+2024-07-14,SHP-20270,Hamburg,London,Kuehne+Nagel,Rail Intermodal,27,124446.59,1198.41,1,0.04,8415.5
+2024-07-14,SHP-20344,Rotterdam,Frankfurt,Maersk Ocean,Ground Express,10,171632.86,2151.16,1,0.09,2714.0
+2024-07-14,SHP-20743,Los Angeles,Sydney,Kuehne+Nagel,Ocean Cargo,26,116380.55,572.49,1,0.27,3513.2
+2024-07-14,SHP-20863,Dubai,Sydney,Maersk Ocean,Rail Intermodal,14,132182.06,369.06,1,0.28,2130.6
+2024-07-15,SHP-20089,Dubai,Sydney,DHL Freight,Ground Express,23,71501.64,2770.99,1,0.26,9392.1
+2024-07-15,SHP-20129,Rotterdam,London,DHL Freight,Air Freight,18,163536.48,1705.35,1,0.15,7821.8
+2024-07-15,SHP-20542,Los Angeles,New York,FedEx Logistics,Air Freight,17,13829.8,2905.04,1,0.04,4042.5
+2024-07-15,SHP-20584,Rotterdam,Frankfurt,DHL Freight,Rail Intermodal,5,119423.74,795.62,0,0.71,1654.4
+2024-07-16,SHP-20122,Rotterdam,Tokyo,Maersk Ocean,Air Freight,3,137026.28,624.52,1,0.28,542.0
+2024-07-16,SHP-20581,Los Angeles,Tokyo,FedEx Logistics,Ocean Cargo,19,72228.64,269.96,1,0.13,4262.4
+2024-07-16,SHP-20657,Shanghai,Sydney,Maersk Ocean,Ground Express,15,120717.0,1221.37,1,0.11,2932.2
+2024-07-16,SHP-20722,Rotterdam,New York,Kuehne+Nagel,Ground Express,6,157896.74,2752.89,0,0.8,2048.2
+2024-07-16,SHP-20726,Hamburg,London,DHL Freight,Ground Express,13,77626.51,2331.36,1,0.08,4664.4
+2024-07-16,SHP-20733,Dubai,London,DHL Freight,Air Freight,27,50270.78,1796.79,1,0.3,12019.7
+2024-07-17,SHP-20439,Hamburg,London,UPS Global,Ground Express,13,105399.71,816.63,1,0.38,4325.7
+2024-07-17,SHP-20983,Rotterdam,Sydney,Kuehne+Nagel,Air Freight,7,49537.68,1741.33,1,0.09,636.5
+2024-07-19,SHP-20610,Los Angeles,Chicago,Kuehne+Nagel,Air Freight,17,123703.95,2314.97,0,0.9,4202.9
+2024-07-22,SHP-20451,Dubai,Chicago,FedEx Logistics,Ocean Cargo,26,61890.8,1018.06,0,0.72,9165.4
+2024-07-26,SHP-20092,Los Angeles,London,FedEx Logistics,Rail Intermodal,20,36509.96,2229.49,1,0.05,8044.2
+2024-07-26,SHP-20816,Singapore,Frankfurt,DHL Freight,Ocean Cargo,16,151387.7,2275.06,0,0.79,5521.1
+2024-07-27,SHP-20003,Rotterdam,Chicago,Maersk Ocean,Air Freight,25,26844.58,1551.25,1,0.05,4711.9
+2024-07-27,SHP-20247,Hamburg,Chicago,DHL Freight,Air Freight,26,121321.43,907.1,1,0.27,2506.1
+2024-07-27,SHP-20306,Hamburg,Sydney,Maersk Ocean,Ground Express,14,9561.02,974.83,0,0.6,5760.1
+2024-07-27,SHP-20364,Dubai,Tokyo,UPS Global,Air Freight,5,160801.1,2746.3,1,0.34,1627.2
+2024-07-27,SHP-20386,Los Angeles,New York,Kuehne+Nagel,Ocean Cargo,25,73055.17,2123.71,0,0.85,9389.1
+2024-07-27,SHP-20433,Dubai,New York,FedEx Logistics,Air Freight,10,66797.34,2528.0,1,0.17,1541.1
+2024-07-27,SHP-20501,Shanghai,New York,Maersk Ocean,Rail Intermodal,9,93994.56,3138.37,1,0.36,2333.9
+2024-07-27,SHP-20702,Shanghai,Tokyo,Kuehne+Nagel,Ocean Cargo,17,72915.67,1508.6,1,0.23,4021.1
+2024-07-28,SHP-20204,Hamburg,New York,DHL Freight,Ocean Cargo,20,33794.0,1786.81,0,0.7,6634.2
+2024-07-29,SHP-20160,Dubai,Frankfurt,FedEx Logistics,Air Freight,6,123665.55,2738.44,1,0.03,629.3
+2024-07-31,SHP-20101,Los Angeles,New York,Maersk Ocean,Air Freight,16,136077.03,1274.19,1,0.24,6148.7
+2024-07-31,SHP-20262,Shanghai,Frankfurt,UPS Global,Ocean Cargo,15,150262.38,462.37,1,0.13,6746.2
+2024-08-01,SHP-20292,Los Angeles,London,Kuehne+Nagel,Ocean Cargo,6,76756.32,169.45,1,0.23,1891.8
+2024-08-01,SHP-20525,Los Angeles,New York,UPS Global,Air Freight,11,26354.07,1585.99,1,0.15,2564.0
+2024-08-01,SHP-20611,Dubai,Frankfurt,DHL Freight,Ocean Cargo,16,73369.44,416.29,1,0.13,6943.2
+2024-08-03,SHP-20349,Hamburg,Tokyo,UPS Global,Air Freight,17,116019.43,313.71,0,0.92,1807.9
+2024-08-03,SHP-20616,Rotterdam,New York,FedEx Logistics,Ground Express,11,34113.54,1540.58,1,0.29,2041.0
+2024-08-04,SHP-20290,Hamburg,Frankfurt,DHL Freight,Ocean Cargo,9,176747.43,2603.23,1,0.05,2268.8
+2024-08-05,SHP-20536,Shanghai,London,DHL Freight,Rail Intermodal,18,89466.06,226.05,0,0.57,3705.2
+2024-08-05,SHP-20741,Rotterdam,Sydney,DHL Freight,Ocean Cargo,6,78807.47,2540.57,1,0.36,958.6
+2024-08-05,SHP-20787,Hamburg,Sydney,FedEx Logistics,Air Freight,26,38092.88,2028.89,0,0.63,3509.2
+2024-08-05,SHP-20818,Singapore,London,DHL Freight,Air Freight,15,7547.99,235.23,1,0.28,1550.6
+2024-08-05,SHP-20842,Dubai,London,FedEx Logistics,Rail Intermodal,7,24291.69,1682.97,0,0.87,1040.8
+2024-08-08,SHP-20005,Los Angeles,Frankfurt,Maersk Ocean,Ocean Cargo,13,122280.66,1233.58,1,0.25,1863.2
+2024-08-08,SHP-20220,Hamburg,Frankfurt,Maersk Ocean,Ground Express,10,159492.09,1246.92,1,0.06,4430.9
+2024-08-08,SHP-20643,Singapore,Chicago,FedEx Logistics,Rail Intermodal,5,59999.05,2472.3,1,0.06,651.4
+2024-08-08,SHP-20960,Rotterdam,Sydney,UPS Global,Ocean Cargo,3,9014.98,795.05,1,0.12,945.6
+2024-08-10,SHP-20049,Singapore,Frankfurt,FedEx Logistics,Air Freight,15,99956.95,1393.18,1,0.04,5822.5
+2024-08-10,SHP-20233,Dubai,London,DHL Freight,Ground Express,3,45625.2,447.94,1,0.15,1093.6
+2024-08-10,SHP-20289,Singapore,London,DHL Freight,Rail Intermodal,9,77844.9,1131.5,1,0.12,979.4
+2024-08-10,SHP-20305,Los Angeles,London,Kuehne+Nagel,Ocean Cargo,22,100139.92,3181.97,1,0.4,8124.8
+2024-08-11,SHP-20482,Singapore,Chicago,FedEx Logistics,Ocean Cargo,19,77657.31,2435.04,1,0.31,5573.2
+2024-08-12,SHP-20163,Hamburg,New York,Maersk Ocean,Ground Express,24,179363.89,1511.13,1,0.28,10787.8
+2024-08-12,SHP-20327,Hamburg,Sydney,Kuehne+Nagel,Rail Intermodal,20,88345.9,2839.04,1,0.17,7919.2
+2024-08-12,SHP-20477,Hamburg,Frankfurt,UPS Global,Ocean Cargo,21,76715.79,1013.54,1,0.06,5745.3
+2024-08-13,SHP-20050,Hamburg,Frankfurt,DHL Freight,Rail Intermodal,17,66557.79,167.98,1,0.34,7357.1
+2024-08-13,SHP-20256,Los Angeles,Chicago,DHL Freight,Ground Express,13,113038.47,2728.83,1,0.37,3878.7
+2024-08-14,SHP-20672,Dubai,Frankfurt,FedEx Logistics,Rail Intermodal,8,35651.99,590.05,1,0.19,1392.7
+2024-08-15,SHP-20138,Hamburg,Frankfurt,DHL Freight,Ground Express,19,143540.84,1298.87,1,0.27,7347.6
+2024-08-15,SHP-20505,Singapore,New York,UPS Global,Ocean Cargo,15,31731.1,883.1,1,0.37,3027.5
+2024-08-18,SHP-20167,Dubai,Frankfurt,UPS Global,Rail Intermodal,26,105607.59,1398.77,1,0.39,8259.3
+2024-08-18,SHP-20343,Shanghai,New York,Kuehne+Nagel,Ground Express,19,111583.77,2124.39,1,0.28,4906.6
+2024-08-18,SHP-20456,Shanghai,New York,Maersk Ocean,Ocean Cargo,4,159957.48,2147.24,1,0.11,1411.6
+2024-08-19,SHP-20036,Rotterdam,New York,Maersk Ocean,Ground Express,22,123915.67,1703.69,0,0.65,1984.7
+2024-08-20,SHP-20179,Hamburg,Chicago,FedEx Logistics,Ground Express,19,72611.04,1030.24,1,0.31,3486.4
+2024-08-21,SHP-20353,Los Angeles,Sydney,DHL Freight,Air Freight,19,70292.75,758.21,1,0.36,6840.6
+2024-08-21,SHP-20885,Hamburg,London,Maersk Ocean,Air Freight,23,32210.97,1716.37,1,0.07,6669.9
+2024-08-22,SHP-20453,Shanghai,New York,FedEx Logistics,Ground Express,9,119277.29,1106.12,1,0.25,2036.9
+2024-08-22,SHP-20731,Dubai,London,Kuehne+Nagel,Rail Intermodal,24,147070.44,1203.01,1,0.31,9743.1
+2024-08-23,SHP-20797,Hamburg,Frankfurt,DHL Freight,Rail Intermodal,22,138203.09,1713.57,1,0.35,3612.5
+2024-08-24,SHP-20336,Los Angeles,Chicago,Maersk Ocean,Air Freight,18,16482.97,2564.05,0,0.68,6638.2
+2024-08-25,SHP-20322,Hamburg,Frankfurt,Kuehne+Nagel,Ground Express,23,46570.95,1008.65,1,0.17,6517.6
+2024-08-26,SHP-20266,Shanghai,Tokyo,FedEx Logistics,Ocean Cargo,9,61366.92,596.04,1,0.31,2971.9
+2024-08-26,SHP-20822,Hamburg,Sydney,DHL Freight,Ocean Cargo,10,109976.75,3075.06,1,0.28,4397.8
+2024-08-26,SHP-20968,Rotterdam,Chicago,UPS Global,Ground Express,5,85294.12,2975.36,1,0.09,1500.5
+2024-08-27,SHP-20706,Los Angeles,Frankfurt,Kuehne+Nagel,Ground Express,13,19309.67,927.32,0,0.51,4601.9
+2024-08-29,SHP-20215,Singapore,Tokyo,UPS Global,Ocean Cargo,26,47169.43,1790.68,1,0.13,8886.9
+2024-08-29,SHP-20720,Los Angeles,Tokyo,FedEx Logistics,Ocean Cargo,19,8172.85,293.5,1,0.16,2635.0
+2024-08-29,SHP-20939,Singapore,Sydney,FedEx Logistics,Ground Express,17,64033.97,1405.14,1,0.13,2340.5
+2024-08-30,SHP-20346,Los Angeles,Frankfurt,DHL Freight,Ocean Cargo,12,43913.56,2365.98,0,0.79,3072.3
+2024-08-31,SHP-20051,Dubai,Frankfurt,Kuehne+Nagel,Ocean Cargo,17,81271.3,819.24,1,0.17,5567.2
+2024-09-01,SHP-20010,Shanghai,Sydney,UPS Global,Rail Intermodal,18,101814.53,916.81,1,0.28,2202.9
+2024-09-01,SHP-20240,Los Angeles,New York,Maersk Ocean,Ground Express,9,91765.43,2348.74,0,0.59,1076.2
+2024-09-01,SHP-20727,Singapore,London,UPS Global,Rail Intermodal,15,171572.09,2889.1,0,0.86,3207.8
+2024-09-02,SHP-20427,Rotterdam,Chicago,Maersk Ocean,Rail Intermodal,26,101618.37,771.27,0,0.72,5641.4
+2024-09-03,SHP-20065,Dubai,Chicago,Maersk Ocean,Ground Express,24,58659.02,1533.92,1,0.07,3630.1
+2024-09-03,SHP-20074,Hamburg,London,FedEx Logistics,Ground Express,28,15436.66,583.82,1,0.25,10779.1
+2024-09-03,SHP-20603,Los Angeles,Sydney,DHL Freight,Rail Intermodal,17,102735.22,883.56,1,0.28,3917.6
+2024-09-04,SHP-20923,Los Angeles,Frankfurt,UPS Global,Air Freight,25,132183.81,1756.67,1,0.25,5495.3
+2024-09-04,SHP-20932,Dubai,Tokyo,FedEx Logistics,Air Freight,12,36827.66,3184.05,1,0.15,3154.3
+2024-09-05,SHP-20902,Hamburg,London,Kuehne+Nagel,Ocean Cargo,9,25128.5,1007.47,1,0.4,1543.7
+2024-09-06,SHP-20254,Shanghai,Frankfurt,FedEx Logistics,Ocean Cargo,10,146527.71,2444.59,1,0.24,3758.2
+2024-09-06,SHP-20495,Dubai,Chicago,DHL Freight,Air Freight,23,68921.84,1411.43,1,0.14,6893.9
+2024-09-06,SHP-20654,Rotterdam,Frankfurt,UPS Global,Rail Intermodal,26,123129.3,483.62,0,0.81,7584.7
+2024-09-07,SHP-20577,Hamburg,Frankfurt,DHL Freight,Rail Intermodal,24,11100.66,939.94,1,0.24,4145.3
+2024-09-07,SHP-20793,Rotterdam,Sydney,Maersk Ocean,Ground Express,14,82295.49,225.39,1,0.27,2980.1
+2024-09-09,SHP-20555,Singapore,Frankfurt,FedEx Logistics,Rail Intermodal,6,72304.14,724.09,1,0.34,822.5
+2024-09-09,SHP-20986,Los Angeles,London,Maersk Ocean,Ocean Cargo,8,160280.11,2245.53,1,0.39,944.6
+2024-09-10,SHP-20142,Los Angeles,Tokyo,FedEx Logistics,Rail Intermodal,21,135993.89,1019.03,1,0.11,3538.3
+2024-09-12,SHP-20088,Hamburg,Sydney,DHL Freight,Ocean Cargo,15,174742.44,2806.35,1,0.2,6579.1
+2024-09-13,SHP-20042,Dubai,London,Kuehne+Nagel,Rail Intermodal,27,144304.33,2898.6,1,0.27,4995.0
+2024-09-13,SHP-20745,Rotterdam,Frankfurt,DHL Freight,Ocean Cargo,24,115269.11,225.65,1,0.23,3019.2
+2024-09-14,SHP-20106,Singapore,Tokyo,DHL Freight,Ground Express,19,117844.69,2900.17,1,0.17,2854.4
+2024-09-14,SHP-20457,Singapore,London,Kuehne+Nagel,Ocean Cargo,2,67447.22,257.22,1,0.35,505.7
+2024-09-15,SHP-20047,Singapore,Frankfurt,UPS Global,Rail Intermodal,10,151976.01,2442.92,1,0.31,2728.8
+2024-09-15,SHP-20578,Los Angeles,London,DHL Freight,Air Freight,23,31531.31,1340.98,1,0.36,6730.2
+2024-09-15,SHP-20713,Los Angeles,Sydney,DHL Freight,Rail Intermodal,20,56595.5,890.02,1,0.04,1658.3
+2024-09-16,SHP-20111,Rotterdam,Chicago,Kuehne+Nagel,Air Freight,16,170447.74,1686.71,1,0.3,6659.8
+2024-09-16,SHP-20552,Singapore,Frankfurt,Maersk Ocean,Ground Express,20,123922.81,2572.76,1,0.29,8371.9
+2024-09-16,SHP-20874,Rotterdam,New York,DHL Freight,Ocean Cargo,20,33211.8,779.0,0,0.62,7172.7
+2024-09-17,SHP-20168,Dubai,Chicago,Maersk Ocean,Ocean Cargo,28,116963.94,2529.8,1,0.31,3576.8
+2024-09-17,SHP-20263,Rotterdam,New York,UPS Global,Air Freight,26,41728.68,2626.26,0,0.81,10363.3
+2024-09-17,SHP-20708,Rotterdam,Tokyo,FedEx Logistics,Ocean Cargo,7,176882.58,388.57,1,0.35,835.4
+2024-09-17,SHP-20891,Singapore,Frankfurt,Kuehne+Nagel,Ocean Cargo,7,151896.56,379.12,0,0.66,691.8
+2024-09-17,SHP-20912,Dubai,New York,UPS Global,Air Freight,17,167983.16,1427.96,0,0.86,2410.0
+2024-09-18,SHP-20115,Singapore,Sydney,Maersk Ocean,Rail Intermodal,14,21640.02,1418.77,1,0.14,2440.3
+2024-09-18,SHP-20517,Singapore,Sydney,Kuehne+Nagel,Ocean Cargo,16,61713.09,425.05,1,0.29,2011.4
+2024-09-18,SHP-20803,Rotterdam,New York,FedEx Logistics,Air Freight,23,10610.35,1836.37,0,0.72,3428.7
+2024-09-19,SHP-20352,Singapore,London,Kuehne+Nagel,Ocean Cargo,17,141456.68,2544.89,1,0.25,5344.6
+2024-09-19,SHP-20664,Hamburg,London,DHL Freight,Ocean Cargo,20,120641.09,1672.57,1,0.12,6320.7
+2024-09-19,SHP-20791,Singapore,Sydney,FedEx Logistics,Ground Express,15,104989.82,2860.56,1,0.12,1670.4
+2024-09-20,SHP-20781,Shanghai,Sydney,FedEx Logistics,Air Freight,22,45297.95,830.23,0,0.6,5673.3
+2024-09-20,SHP-20997,Dubai,New York,Maersk Ocean,Air Freight,2,149454.89,833.24,1,0.06,398.9
+2024-09-21,SHP-20086,Rotterdam,London,FedEx Logistics,Rail Intermodal,9,76885.64,2760.84,1,0.3,3068.4
+2024-09-21,SHP-20366,Los Angeles,Frankfurt,UPS Global,Rail Intermodal,22,34186.28,2852.68,1,0.28,2237.4
+2024-09-22,SHP-20295,Dubai,New York,Kuehne+Nagel,Air Freight,18,148493.51,557.22,1,0.24,1854.8
+2024-09-22,SHP-20865,Singapore,Chicago,FedEx Logistics,Rail Intermodal,24,162013.17,1621.45,1,0.1,8565.6
+2024-09-23,SHP-20188,Hamburg,Tokyo,Kuehne+Nagel,Ground Express,23,131161.8,2504.57,1,0.25,3476.2
+2024-09-23,SHP-20807,Singapore,New York,FedEx Logistics,Rail Intermodal,4,110848.5,2664.98,1,0.22,1667.2
+2024-09-24,SHP-20253,Los Angeles,Frankfurt,FedEx Logistics,Ocean Cargo,22,74226.92,2154.79,0,0.9,5419.5
+2024-09-24,SHP-20813,Rotterdam,Frankfurt,UPS Global,Ocean Cargo,14,48856.0,265.21,1,0.14,4998.1
+2024-09-25,SHP-20206,Rotterdam,Frankfurt,DHL Freight,Rail Intermodal,10,135515.78,2640.18,0,0.53,2367.7
+2024-09-25,SHP-20707,Singapore,Sydney,DHL Freight,Air Freight,15,57088.32,2824.1,0,0.83,5403.3
+2024-09-25,SHP-20894,Hamburg,Sydney,DHL Freight,Ground Express,2,62496.57,2027.37,1,0.06,418.8
+2024-09-26,SHP-20094,Rotterdam,Frankfurt,Kuehne+Nagel,Ocean Cargo,4,65473.98,1497.28,0,0.63,1743.8
+2024-09-27,SHP-20694,Shanghai,Sydney,DHL Freight,Rail Intermodal,13,103149.54,3165.9,1,0.21,5108.5
+2024-09-28,SHP-20718,Rotterdam,Frankfurt,UPS Global,Rail Intermodal,28,119187.53,3020.65,1,0.32,10525.5
+2024-09-28,SHP-20887,Rotterdam,Tokyo,UPS Global,Ocean Cargo,11,20214.9,2088.69,1,0.17,2152.8
+2024-09-28,SHP-20943,Rotterdam,Frankfurt,UPS Global,Rail Intermodal,7,70008.67,316.75,1,0.09,840.8
+2024-09-29,SHP-20152,Dubai,Sydney,Maersk Ocean,Ground Express,25,142991.0,199.54,1,0.11,8078.2
+2024-09-29,SHP-20221,Rotterdam,London,Maersk Ocean,Ground Express,15,156214.85,289.43,1,0.03,4270.9
+2024-09-29,SHP-20562,Dubai,Tokyo,UPS Global,Ground Express,27,34313.93,1048.58,0,0.84,9422.4
+2024-10-01,SHP-20018,Los Angeles,London,DHL Freight,Air Freight,23,79126.26,1464.71,1,0.35,2301.0
+2024-10-01,SHP-20448,Shanghai,London,UPS Global,Rail Intermodal,6,153643.24,3186.46,0,0.74,1180.9
+2024-10-01,SHP-20469,Dubai,Tokyo,Maersk Ocean,Ocean Cargo,22,135326.8,2371.12,0,0.73,3822.0
+2024-10-01,SHP-20620,Rotterdam,Chicago,FedEx Logistics,Rail Intermodal,12,133037.09,2251.9,1,0.07,3406.3
+2024-10-02,SHP-20044,Shanghai,Sydney,UPS Global,Ocean Cargo,24,91516.0,2273.88,1,0.08,8026.1
+2024-10-02,SHP-20546,Rotterdam,Sydney,UPS Global,Ocean Cargo,11,110777.04,2492.22,1,0.21,2531.1
+2024-10-02,SHP-20849,Los Angeles,Frankfurt,FedEx Logistics,Air Freight,22,147208.33,3070.52,1,0.26,8869.8
+2024-10-03,SHP-20425,Singapore,New York,Maersk Ocean,Rail Intermodal,10,129101.05,726.51,1,0.24,1236.0
+2024-10-03,SHP-20655,Singapore,Chicago,DHL Freight,Rail Intermodal,10,174902.38,1658.81,0,0.8,3635.9
+2024-10-03,SHP-20959,Rotterdam,Sydney,DHL Freight,Ocean Cargo,17,42357.27,593.82,0,0.51,5140.8
+2024-10-04,SHP-20609,Hamburg,Frankfurt,FedEx Logistics,Ocean Cargo,12,51787.62,1225.77,1,0.13,1241.4
+2024-10-04,SHP-20861,Singapore,Sydney,Maersk Ocean,Rail Intermodal,3,63300.3,3142.49,1,0.34,1277.2
+2024-10-04,SHP-20926,Singapore,New York,Kuehne+Nagel,Ground Express,22,8711.38,1808.02,1,0.06,4175.5
+2024-10-05,SHP-20630,Los Angeles,Tokyo,UPS Global,Air Freight,13,105671.15,1713.2,1,0.08,1321.4
+2024-10-05,SHP-20770,Shanghai,Chicago,Maersk Ocean,Ground Express,9,46712.86,478.91,1,0.34,3456.0
+2024-10-06,SHP-20933,Los Angeles,Chicago,Maersk Ocean,Ocean Cargo,27,166280.86,3029.29,1,0.18,7126.1
+2024-10-07,SHP-20173,Dubai,Sydney,Maersk Ocean,Rail Intermodal,4,32664.08,2250.27,1,0.2,622.0
+2024-10-07,SHP-20499,Dubai,London,DHL Freight,Rail Intermodal,20,97189.84,2913.42,1,0.08,3701.7
+2024-10-07,SHP-20537,Hamburg,Tokyo,Maersk Ocean,Ocean Cargo,26,148874.24,2808.99,0,0.8,3356.7
+2024-10-08,SHP-20596,Shanghai,New York,FedEx Logistics,Rail Intermodal,20,78336.6,1918.27,1,0.11,2415.0
+2024-10-08,SHP-20814,Shanghai,New York,Kuehne+Nagel,Ocean Cargo,24,29544.76,3047.56,1,0.34,3434.8
+2024-10-09,SHP-20449,Rotterdam,Chicago,Kuehne+Nagel,Air Freight,14,33584.83,451.87,1,0.33,3588.5
+2024-10-10,SHP-20013,Shanghai,Tokyo,Maersk Ocean,Ocean Cargo,3,104287.47,884.66,1,0.05,779.4
+2024-10-10,SHP-20090,Hamburg,New York,Kuehne+Nagel,Air Freight,9,166162.59,2075.04,1,0.3,2165.1
+2024-10-10,SHP-20267,Hamburg,Frankfurt,Maersk Ocean,Rail Intermodal,14,115884.86,1528.57,1,0.17,5004.0
+2024-10-10,SHP-20760,Los Angeles,Chicago,DHL Freight,Air Freight,19,150614.68,244.39,1,0.28,4001.6
+2024-10-10,SHP-20835,Dubai,Chicago,DHL Freight,Rail Intermodal,3,26783.56,3177.04,0,0.57,1086.9
+2024-10-11,SHP-20243,Hamburg,London,Maersk Ocean,Rail Intermodal,10,73763.65,2640.31,1,0.37,1539.3
+2024-10-11,SHP-20323,Shanghai,Tokyo,DHL Freight,Rail Intermodal,4,120853.54,1048.38,0,0.72,463.5
+2024-10-11,SHP-20479,Hamburg,Frankfurt,Kuehne+Nagel,Ground Express,3,111041.88,1267.38,1,0.02,1262.3
+2024-10-11,SHP-20503,Dubai,London,DHL Freight,Ground Express,23,114415.42,1223.33,1,0.4,10167.8
+2024-10-11,SHP-20623,Hamburg,Chicago,Kuehne+Nagel,Air Freight,23,30890.54,1251.25,1,0.16,5012.8
+2024-10-12,SHP-20260,Dubai,Sydney,UPS Global,Ocean Cargo,4,144279.16,1874.46,1,0.13,726.8
+2024-10-13,SHP-20062,Rotterdam,London,UPS Global,Ocean Cargo,13,64559.3,2583.39,0,0.82,2368.9
+2024-10-13,SHP-20131,Hamburg,Chicago,UPS Global,Ground Express,22,81958.49,1114.22,1,0.19,4225.0
+2024-10-13,SHP-20166,Rotterdam,Chicago,Kuehne+Nagel,Ground Express,16,101538.21,2601.17,0,0.9,1669.2
+2024-10-14,SHP-20196,Dubai,Tokyo,DHL Freight,Air Freight,11,23777.62,1882.28,1,0.13,4905.6
+2024-10-14,SHP-20528,Dubai,Frankfurt,UPS Global,Rail Intermodal,27,111646.01,698.72,1,0.39,2175.8
+2024-10-14,SHP-20892,Singapore,Tokyo,DHL Freight,Ground Express,23,99345.93,911.78,1,0.13,5951.4
+2024-10-15,SHP-20373,Dubai,New York,DHL Freight,Rail Intermodal,15,101092.29,259.29,1,0.32,6545.6
+2024-10-15,SHP-20650,Dubai,London,DHL Freight,Air Freight,25,16940.02,311.2,1,0.39,5539.4
+2024-10-16,SHP-20379,Hamburg,Frankfurt,DHL Freight,Rail Intermodal,28,166764.9,1934.62,1,0.28,4039.0
+2024-10-16,SHP-20521,Shanghai,Chicago,UPS Global,Ocean Cargo,8,88249.6,1946.03,1,0.19,2419.6
+2024-10-17,SHP-20126,Dubai,Tokyo,DHL Freight,Rail Intermodal,25,8279.77,279.02,1,0.35,7325.8
+2024-10-17,SHP-20282,Los Angeles,Sydney,UPS Global,Air Freight,22,112808.23,1786.52,1,0.05,2403.2
+2024-10-18,SHP-20169,Shanghai,New York,Kuehne+Nagel,Ocean Cargo,11,61465.63,652.2,1,0.15,4709.5
+2024-10-18,SHP-20444,Los Angeles,Frankfurt,FedEx Logistics,Rail Intermodal,5,85512.35,2279.65,1,0.02,789.9
+2024-10-18,SHP-20559,Los Angeles,Chicago,Kuehne+Nagel,Ground Express,3,104426.18,3133.61,1,0.06,774.5
+2024-10-19,SHP-20357,Shanghai,Tokyo,DHL Freight,Rail Intermodal,22,98578.35,930.16,1,0.25,2150.4
+2024-10-20,SHP-20476,Dubai,London,DHL Freight,Ground Express,26,61121.47,2041.6,1,0.27,7264.8
+2024-10-20,SHP-20679,Rotterdam,Sydney,Kuehne+Nagel,Ground Express,16,138345.7,2270.39,1,0.26,5962.8
+2024-10-21,SHP-20012,Shanghai,Frankfurt,Maersk Ocean,Ocean Cargo,6,33271.08,1290.44,0,0.91,1809.7
+2024-10-22,SHP-20183,Los Angeles,Frankfurt,Kuehne+Nagel,Ground Express,17,69462.62,2638.03,1,0.39,5031.5
+2024-10-23,SHP-20360,Hamburg,New York,Maersk Ocean,Air Freight,27,39763.17,474.1,1,0.32,10466.7
+2024-10-23,SHP-20927,Los Angeles,London,DHL Freight,Ocean Cargo,2,72442.03,841.36,1,0.27,327.2
+2024-10-24,SHP-20715,Dubai,Chicago,UPS Global,Ocean Cargo,24,8328.44,335.15,0,0.64,2484.0
+2024-10-24,SHP-20914,Shanghai,London,UPS Global,Rail Intermodal,19,75148.57,2527.09,1,0.1,1545.3
+2024-10-25,SHP-20579,Los Angeles,Sydney,UPS Global,Rail Intermodal,25,142441.8,2531.86,0,0.6,5555.9
+2024-10-27,SHP-20486,Rotterdam,New York,Maersk Ocean,Ocean Cargo,8,8797.74,2759.95,1,0.37,2153.4
+2024-10-28,SHP-20392,Hamburg,London,UPS Global,Rail Intermodal,4,159594.43,1215.68,1,0.15,754.5
+2024-10-28,SHP-20736,Singapore,New York,Maersk Ocean,Ocean Cargo,28,84504.18,2524.58,1,0.29,10822.6
+2024-10-28,SHP-20771,Singapore,New York,Kuehne+Nagel,Rail Intermodal,26,83129.83,441.8,1,0.05,2663.8
+2024-10-30,SHP-20422,Hamburg,Frankfurt,UPS Global,Ocean Cargo,21,88277.11,443.71,0,0.77,8500.1
+2024-10-31,SHP-20337,Hamburg,New York,FedEx Logistics,Ocean Cargo,28,15084.82,762.22,1,0.19,11750.8
+2024-10-31,SHP-20626,Rotterdam,New York,Kuehne+Nagel,Rail Intermodal,4,116791.05,170.19,1,0.18,1142.6
+2024-11-01,SHP-20883,Rotterdam,Chicago,UPS Global,Air Freight,18,105127.66,1214.15,1,0.23,5485.7
+2024-11-03,SHP-20354,Shanghai,Frankfurt,DHL Freight,Ocean Cargo,9,65261.21,2265.25,1,0.06,2396.1
+2024-11-03,SHP-20615,Hamburg,Sydney,UPS Global,Ground Express,20,143135.95,552.46,1,0.32,3278.2
+2024-11-04,SHP-20423,Shanghai,New York,UPS Global,Ocean Cargo,21,5210.04,1794.82,1,0.22,4557.8
+2024-11-05,SHP-20534,Singapore,Chicago,Kuehne+Nagel,Rail Intermodal,7,156303.9,1965.34,1,0.29,1374.6
+2024-11-05,SHP-20709,Shanghai,Sydney,DHL Freight,Air Freight,7,85528.53,2150.19,1,0.35,3061.4
+2024-11-05,SHP-20934,Hamburg,Chicago,FedEx Logistics,Rail Intermodal,4,78822.13,1921.94,0,0.85,1520.7
+2024-11-06,SHP-20465,Singapore,New York,Maersk Ocean,Ground Express,6,132243.74,2331.35,1,0.05,512.7
+2024-11-06,SHP-20533,Singapore,Chicago,Maersk Ocean,Ground Express,4,54080.51,3107.32,1,0.15,875.4
+2024-11-06,SHP-20676,Singapore,Sydney,UPS Global,Air Freight,14,165637.17,2978.9,1,0.05,5381.6
+2024-11-07,SHP-20255,Rotterdam,Tokyo,FedEx Logistics,Rail Intermodal,5,155961.4,950.18,0,0.93,979.8
+2024-11-07,SHP-20261,Singapore,Sydney,Kuehne+Nagel,Rail Intermodal,19,105224.96,1707.96,1,0.31,7307.7
+2024-11-07,SHP-20514,Dubai,New York,Kuehne+Nagel,Rail Intermodal,18,173453.65,2483.74,1,0.13,4090.9
+2024-11-07,SHP-20872,Los Angeles,Frankfurt,DHL Freight,Rail Intermodal,19,142108.05,2643.26,0,0.72,5167.9
+2024-11-08,SHP-20015,Dubai,Frankfurt,FedEx Logistics,Ground Express,14,118728.66,3185.21,1,0.36,3458.7
+2024-11-08,SHP-20396,Shanghai,Frankfurt,DHL Freight,Ocean Cargo,23,42305.65,2070.02,1,0.34,3589.5
+2024-11-09,SHP-20021,Shanghai,New York,FedEx Logistics,Ocean Cargo,15,42405.78,1631.21,1,0.36,2113.7
+2024-11-10,SHP-20506,Singapore,Frankfurt,FedEx Logistics,Ocean Cargo,6,128398.87,1092.45,0,0.91,1434.7
+2024-11-10,SHP-20541,Hamburg,Tokyo,Maersk Ocean,Ocean Cargo,24,105464.51,2602.21,1,0.05,7365.8
+2024-11-10,SHP-20613,Singapore,Sydney,Maersk Ocean,Rail Intermodal,16,8759.4,2400.01,1,0.04,6441.0
+2024-11-10,SHP-20969,Los Angeles,Tokyo,UPS Global,Ground Express,24,166898.73,2042.15,1,0.4,9076.7
+2024-11-11,SHP-20197,Los Angeles,London,Kuehne+Nagel,Rail Intermodal,10,24713.18,738.07,1,0.3,3198.7
+2024-11-13,SHP-20548,Los Angeles,Sydney,DHL Freight,Ground Express,8,108419.78,2632.44,1,0.24,1652.9
+2024-11-14,SHP-20165,Rotterdam,Tokyo,FedEx Logistics,Ocean Cargo,27,44242.28,1252.55,1,0.32,4525.0
+2024-11-15,SHP-20519,Shanghai,London,Maersk Ocean,Ocean Cargo,7,36301.68,2799.9,1,0.18,1361.7
+2024-11-15,SHP-20920,Los Angeles,London,Maersk Ocean,Ground Express,8,146353.27,1924.07,1,0.08,1325.9
+2024-11-16,SHP-20558,Los Angeles,Sydney,Maersk Ocean,Ocean Cargo,7,6300.25,1445.55,1,0.34,1173.2
+2024-11-17,SHP-20428,Rotterdam,Tokyo,Kuehne+Nagel,Ground Express,26,133761.93,2301.76,1,0.3,6376.2
+2024-11-17,SHP-20755,Shanghai,New York,UPS Global,Ground Express,22,5095.01,3114.85,1,0.12,3802.2
+2024-11-17,SHP-20783,Singapore,Tokyo,UPS Global,Ocean Cargo,22,138968.23,1936.34,1,0.39,3380.9
+2024-11-19,SHP-20249,Dubai,Chicago,FedEx Logistics,Rail Intermodal,13,140159.89,1342.96,0,0.81,1765.1
+2024-11-20,SHP-20554,Rotterdam,New York,Maersk Ocean,Air Freight,9,108278.68,1466.73,1,0.29,2072.1
+2024-11-20,SHP-20628,Los Angeles,London,DHL Freight,Air Freight,6,172304.65,951.16,1,0.07,1958.3
+2024-11-20,SHP-20746,Singapore,Chicago,Kuehne+Nagel,Air Freight,20,136347.75,1741.35,0,0.9,2490.1
+2024-11-22,SHP-20027,Shanghai,New York,Kuehne+Nagel,Ocean Cargo,18,168320.39,958.86,1,0.35,3901.1
+2024-11-22,SHP-20563,Shanghai,Frankfurt,UPS Global,Ocean Cargo,20,178313.85,307.44,0,0.51,5187.2
+2024-11-23,SHP-20459,Hamburg,Frankfurt,Kuehne+Nagel,Ground Express,13,44747.48,1619.04,1,0.19,2799.4
+2024-11-24,SHP-20412,Hamburg,Frankfurt,FedEx Logistics,Rail Intermodal,13,138257.67,273.28,1,0.04,2817.0
+2024-11-25,SHP-20659,Los Angeles,Tokyo,DHL Freight,Rail Intermodal,20,60390.01,217.82,0,0.68,5836.8
+2024-11-26,SHP-20487,Hamburg,London,DHL Freight,Air Freight,16,29221.43,1234.75,1,0.36,2759.2
+2024-11-27,SHP-20239,Singapore,Frankfurt,UPS Global,Ocean Cargo,6,51971.19,970.2,1,0.04,1445.0
+2024-11-27,SHP-20493,Shanghai,Chicago,UPS Global,Ground Express,4,81035.94,1365.51,1,0.31,1031.8
+2024-11-27,SHP-20915,Hamburg,Frankfurt,DHL Freight,Rail Intermodal,18,96887.81,2308.65,1,0.34,3413.8
+2024-11-28,SHP-20127,Dubai,Frankfurt,UPS Global,Ground Express,5,174084.95,1385.35,1,0.32,1543.5
+2024-11-28,SHP-20162,Hamburg,Tokyo,UPS Global,Ground Express,22,173091.01,1000.0,1,0.3,5822.2
+2024-11-29,SHP-20258,Los Angeles,London,UPS Global,Ocean Cargo,19,55546.09,658.94,1,0.14,4690.5
+2024-11-30,SHP-20588,Singapore,Tokyo,FedEx Logistics,Air Freight,20,16063.83,679.02,1,0.07,4672.1
+2024-12-01,SHP-20964,Singapore,Tokyo,Maersk Ocean,Air Freight,6,168418.39,2884.33,1,0.35,732.2
+2024-12-02,SHP-20445,Rotterdam,Tokyo,Kuehne+Nagel,Ground Express,7,46499.35,1823.12,1,0.38,1448.6
+2024-12-03,SHP-20032,Singapore,Sydney,FedEx Logistics,Air Freight,11,168290.4,1262.19,1,0.36,1735.0
+2024-12-03,SHP-20938,Los Angeles,Chicago,FedEx Logistics,Air Freight,6,18823.83,1263.99,1,0.02,2325.0
+2024-12-03,SHP-20971,Shanghai,Frankfurt,Maersk Ocean,Rail Intermodal,8,84560.23,829.78,1,0.06,3174.8
+2024-12-04,SHP-20009,Rotterdam,London,FedEx Logistics,Rail Intermodal,4,155693.01,2455.14,1,0.26,1492.3
+2024-12-04,SHP-20185,Singapore,Chicago,Kuehne+Nagel,Rail Intermodal,6,47384.4,2656.07,0,0.93,724.0
+2024-12-04,SHP-20222,Dubai,Sydney,Maersk Ocean,Ocean Cargo,8,71471.96,1156.09,1,0.21,2577.6
+2024-12-05,SHP-20873,Dubai,Frankfurt,DHL Freight,Ocean Cargo,23,36616.23,2887.69,0,0.81,1885.3
+2024-12-06,SHP-20117,Hamburg,Chicago,Maersk Ocean,Air Freight,15,121434.59,1228.47,1,0.35,5201.9
+2024-12-06,SHP-20948,Los Angeles,Sydney,Kuehne+Nagel,Air Freight,11,124415.45,641.73,1,0.36,1259.7
+2024-12-07,SHP-20673,Los Angeles,Chicago,Maersk Ocean,Air Freight,12,88099.47,1814.52,1,0.39,4864.7
+2024-12-08,SHP-20587,Shanghai,New York,UPS Global,Ocean Cargo,4,79587.01,2603.58,1,0.14,1764.3
+2024-12-08,SHP-20858,Singapore,Sydney,UPS Global,Ground Express,26,123877.88,1263.32,1,0.22,7867.6
+2024-12-09,SHP-20061,Rotterdam,London,DHL Freight,Ground Express,16,86323.98,893.78,0,0.8,3271.5
+2024-12-09,SHP-20583,Los Angeles,Sydney,DHL Freight,Ground Express,17,150993.8,1778.52,1,0.39,1463.3
+2024-12-12,SHP-20150,Shanghai,Frankfurt,Kuehne+Nagel,Ocean Cargo,24,80116.81,587.91,0,0.66,6987.5
+2024-12-12,SHP-20238,Rotterdam,Sydney,DHL Freight,Ground Express,15,19822.42,1332.79,0,0.91,6628.9
+2024-12-12,SHP-20265,Singapore,Tokyo,Maersk Ocean,Ground Express,20,155152.95,965.4,1,0.07,7150.7
+2024-12-12,SHP-20391,Dubai,Chicago,Maersk Ocean,Rail Intermodal,27,67664.98,1896.66,1,0.22,11720.3
+2024-12-12,SHP-20502,Shanghai,London,FedEx Logistics,Rail Intermodal,19,8760.48,2975.37,1,0.37,3663.6
+2024-12-14,SHP-20684,Singapore,New York,Maersk Ocean,Ocean Cargo,20,130752.1,507.92,1,0.31,8469.3
+2024-12-14,SHP-20860,Singapore,Frankfurt,DHL Freight,Ground Express,11,125505.0,1682.25,1,0.4,3755.5
+2024-12-15,SHP-20417,Shanghai,Frankfurt,FedEx Logistics,Rail Intermodal,27,24834.27,1157.19,1,0.2,8062.0
+2024-12-15,SHP-20710,Los Angeles,Tokyo,Kuehne+Nagel,Ground Express,24,125801.34,2205.1,1,0.33,2698.2
+2024-12-15,SHP-20992,Hamburg,London,DHL Freight,Ground Express,24,159588.02,2004.11,1,0.24,7658.9
+2024-12-16,SHP-20416,Hamburg,London,UPS Global,Ocean Cargo,9,117608.48,385.12,1,0.08,1244.0
+2024-12-17,SHP-20174,Rotterdam,Frankfurt,Maersk Ocean,Ground Express,14,69844.53,548.84,0,0.55,2372.2
+2024-12-17,SHP-20420,Los Angeles,Sydney,FedEx Logistics,Ocean Cargo,28,29974.62,1402.84,0,0.87,4124.3
+2024-12-17,SHP-20748,Los Angeles,Chicago,DHL Freight,Rail Intermodal,2,36588.9,1186.87,1,0.35,394.9
+2024-12-17,SHP-20877,Hamburg,London,DHL Freight,Air Freight,9,29791.78,262.04,1,0.38,2725.1
+2024-12-17,SHP-20951,Singapore,Chicago,UPS Global,Air Freight,27,139105.53,195.57,1,0.23,11839.8
+2024-12-19,SHP-20264,Los Angeles,London,Kuehne+Nagel,Ocean Cargo,27,41214.98,780.19,1,0.24,7477.5
+2024-12-19,SHP-20276,Singapore,Sydney,Maersk Ocean,Ocean Cargo,22,165981.47,2432.22,0,0.81,8760.1
+2024-12-21,SHP-20463,Dubai,Frankfurt,Maersk Ocean,Ground Express,22,146541.51,2415.93,1,0.09,2317.3
+2024-12-22,SHP-20041,Rotterdam,Sydney,Kuehne+Nagel,Air Freight,11,80230.43,1025.09,0,0.77,2191.6
+2024-12-22,SHP-20148,Shanghai,New York,Maersk Ocean,Ocean Cargo,28,169539.54,606.03,0,0.74,3391.9
+2024-12-23,SHP-20481,Hamburg,New York,DHL Freight,Ground Express,4,173102.68,3031.04,1,0.06,661.9
+2024-12-23,SHP-20890,Dubai,New York,UPS Global,Ground Express,9,120705.47,3182.38,0,0.81,861.0
+2024-12-24,SHP-20441,Singapore,New York,DHL Freight,Air Freight,23,91216.35,3065.13,1,0.31,6447.9
+2024-12-25,SHP-20093,Singapore,Sydney,Kuehne+Nagel,Ocean Cargo,9,49446.03,1556.51,1,0.27,3713.4
+2024-12-25,SHP-20608,Rotterdam,Tokyo,FedEx Logistics,Air Freight,19,40824.7,2313.48,1,0.11,2318.3
+2024-12-28,SHP-20820,Hamburg,Sydney,UPS Global,Air Freight,9,67400.86,802.03,1,0.03,2897.8
+2024-12-28,SHP-20955,Rotterdam,Tokyo,DHL Freight,Rail Intermodal,18,158546.51,1522.78,1,0.26,5728.2
+2024-12-29,SHP-20048,Rotterdam,Sydney,DHL Freight,Ground Express,9,60949.17,978.73,0,0.54,1222.3
+2024-12-29,SHP-20409,Dubai,New York,DHL Freight,Air Freight,28,75898.53,1924.77,0,0.6,2619.8
+2024-12-29,SHP-20532,Hamburg,Tokyo,UPS Global,Rail Intermodal,25,96187.81,320.87,0,0.83,4918.4
+2024-12-29,SHP-20606,Los Angeles,Frankfurt,Maersk Ocean,Air Freight,11,52213.14,1449.0,0,0.74,4113.5
+2024-12-30,SHP-20004,Rotterdam,Chicago,FedEx Logistics,Air Freight,3,140286.96,2166.85,1,0.35,1201.8
+2024-12-31,SHP-20450,Los Angeles,Frankfurt,Maersk Ocean,Ground Express,13,102561.01,1248.94,1,0.15,3020.6
+2024-12-31,SHP-20714,Dubai,Sydney,UPS Global,Rail Intermodal,25,132938.75,1914.92,1,0.03,5697.0
+2025-01-01,SHP-20491,Shanghai,Tokyo,Kuehne+Nagel,Air Freight,12,31176.5,1796.79,0,0.81,1640.2
+2025-01-02,SHP-20829,Singapore,London,FedEx Logistics,Air Freight,7,150463.65,1957.52,1,0.11,762.4
+2025-01-02,SHP-20855,Los Angeles,New York,Maersk Ocean,Ocean Cargo,20,110118.9,2487.33,1,0.16,6909.1
+2025-01-02,SHP-20905,Singapore,London,Maersk Ocean,Rail Intermodal,17,79737.74,337.12,1,0.14,3053.6
+2025-01-03,SHP-20078,Los Angeles,New York,UPS Global,Ground Express,15,122273.36,1166.59,1,0.15,5049.9
+2025-01-03,SHP-20758,Dubai,Sydney,Maersk Ocean,Ocean Cargo,23,64785.22,3148.22,1,0.38,4635.2
+2025-01-04,SHP-20374,Hamburg,Chicago,FedEx Logistics,Rail Intermodal,12,14498.16,1258.19,1,0.34,2434.0
+2025-01-04,SHP-20567,Singapore,Chicago,Maersk Ocean,Air Freight,22,148417.93,956.41,1,0.08,5005.8
+2025-01-05,SHP-20000,Shanghai,Frankfurt,Maersk Ocean,Ocean Cargo,9,22936.66,575.59,0,0.54,2125.0
+2025-01-05,SHP-20470,Singapore,Tokyo,DHL Freight,Ocean Cargo,5,80978.29,869.7,1,0.08,910.8
+2025-01-05,SHP-20632,Shanghai,Chicago,FedEx Logistics,Ocean Cargo,26,136709.99,438.25,0,0.65,5121.9
+2025-01-07,SHP-20053,Singapore,Sydney,FedEx Logistics,Air Freight,10,42040.55,1306.27,1,0.15,4054.7
+2025-01-07,SHP-20325,Los Angeles,London,Maersk Ocean,Rail Intermodal,13,12807.96,719.08,1,0.2,2128.2
+2025-01-08,SHP-20372,Los Angeles,London,DHL Freight,Rail Intermodal,16,83417.25,2593.85,1,0.19,1982.7
+2025-01-09,SHP-20098,Rotterdam,Sydney,DHL Freight,Ground Express,25,164184.87,550.81,1,0.3,3624.7
+2025-01-09,SHP-20130,Singapore,London,DHL Freight,Ocean Cargo,10,110419.82,751.68,1,0.09,3659.5
+2025-01-09,SHP-20135,Shanghai,London,UPS Global,Rail Intermodal,18,32780.59,1744.38,1,0.37,4020.2
+2025-01-09,SHP-20208,Los Angeles,Tokyo,UPS Global,Rail Intermodal,14,124477.81,1295.72,0,0.56,5576.3
+2025-01-09,SHP-20516,Shanghai,Frankfurt,Kuehne+Nagel,Air Freight,7,169122.43,2525.13,0,0.56,1631.1
+2025-01-10,SHP-20418,Los Angeles,New York,FedEx Logistics,Air Freight,6,33197.6,1899.13,0,0.52,1750.4
+2025-01-10,SHP-20704,Dubai,London,UPS Global,Air Freight,11,18857.05,1578.07,1,0.13,4885.6
+2025-01-10,SHP-20827,Rotterdam,New York,FedEx Logistics,Ground Express,12,99379.56,888.86,1,0.32,4051.5
+2025-01-10,SHP-20880,Hamburg,Chicago,FedEx Logistics,Rail Intermodal,28,178678.57,618.15,1,0.16,12227.2
+2025-01-11,SHP-20681,Singapore,Chicago,UPS Global,Ground Express,16,133655.12,1609.01,1,0.09,4790.7
+2025-01-12,SHP-20909,Singapore,Chicago,UPS Global,Air Freight,5,134952.8,547.98,1,0.04,2191.4
+2025-01-13,SHP-20134,Rotterdam,Chicago,UPS Global,Ocean Cargo,3,146919.19,1524.1,1,0.39,333.6
+2025-01-13,SHP-20869,Los Angeles,Frankfurt,DHL Freight,Rail Intermodal,28,53162.81,2133.45,1,0.16,3483.2
+2025-01-14,SHP-20019,Dubai,New York,DHL Freight,Rail Intermodal,25,155792.69,1184.87,1,0.09,6960.6
+2025-01-14,SHP-20178,Los Angeles,Tokyo,Kuehne+Nagel,Air Freight,5,159429.75,1464.33,1,0.31,1077.0
+2025-01-15,SHP-20137,Hamburg,London,Maersk Ocean,Air Freight,20,165430.63,2174.02,1,0.39,6768.8
+2025-01-15,SHP-20480,Shanghai,Sydney,DHL Freight,Ground Express,19,160825.36,2417.61,1,0.32,1929.8
+2025-01-17,SHP-20112,Rotterdam,Sydney,DHL Freight,Air Freight,17,79597.88,2734.26,1,0.21,7082.0
+2025-01-17,SHP-20406,Dubai,Chicago,FedEx Logistics,Ground Express,27,79953.79,1114.82,1,0.14,10008.7
+2025-01-17,SHP-20421,Rotterdam,London,Maersk Ocean,Rail Intermodal,21,45217.41,1951.32,1,0.07,1808.7
+2025-01-17,SHP-20774,Shanghai,Sydney,UPS Global,Rail Intermodal,27,113536.87,1455.72,1,0.15,11526.5
+2025-01-18,SHP-20123,Los Angeles,Chicago,UPS Global,Rail Intermodal,10,94660.6,807.49,1,0.18,1848.0
+2025-01-19,SHP-20296,Singapore,London,Maersk Ocean,Ground Express,12,73766.72,2974.43,1,0.14,2167.5
+2025-01-19,SHP-20652,Los Angeles,Chicago,Maersk Ocean,Ground Express,27,100658.51,2772.0,1,0.4,10952.5
+2025-01-19,SHP-20696,Singapore,Chicago,DHL Freight,Ocean Cargo,15,48077.55,2957.26,1,0.28,6124.9
+2025-01-20,SHP-20043,Hamburg,Tokyo,DHL Freight,Ocean Cargo,23,146148.51,1096.78,1,0.03,3923.6
+2025-01-20,SHP-20269,Rotterdam,New York,Kuehne+Nagel,Rail Intermodal,8,149348.34,3102.79,1,0.12,3091.9
+2025-01-20,SHP-20847,Los Angeles,Chicago,DHL Freight,Ground Express,12,5539.82,2609.12,1,0.3,4902.6
+2025-01-21,SHP-20523,Hamburg,Tokyo,Maersk Ocean,Air Freight,3,178903.66,482.11,1,0.28,918.3
+2025-01-22,SHP-20575,Rotterdam,Tokyo,FedEx Logistics,Air Freight,10,71989.83,2520.17,1,0.4,1755.5
+2025-01-22,SHP-20780,Dubai,Frankfurt,UPS Global,Ground Express,20,63740.58,1876.6,1,0.18,2800.9
+2025-01-22,SHP-20908,Dubai,Chicago,FedEx Logistics,Ground Express,13,68242.37,2410.94,0,0.74,2827.4
+2025-01-22,SHP-20930,Rotterdam,Chicago,Maersk Ocean,Ground Express,5,92368.89,976.83,1,0.37,1899.8
+2025-01-24,SHP-20257,Rotterdam,New York,FedEx Logistics,Ground Express,5,126351.39,708.29,0,0.67,1503.4
+2025-01-25,SHP-20492,Los Angeles,Sydney,Kuehne+Nagel,Air Freight,9,142614.45,1467.4,1,0.07,994.9
+2025-01-26,SHP-20483,Dubai,Frankfurt,UPS Global,Air Freight,7,101243.96,2567.01,0,0.65,969.7
+2025-01-28,SHP-20124,Los Angeles,Chicago,Maersk Ocean,Air Freight,9,109881.87,1355.55,1,0.1,3867.9
+2025-01-28,SHP-20651,Singapore,Tokyo,Kuehne+Nagel,Air Freight,26,136531.71,383.38,1,0.32,4022.6
+2025-01-28,SHP-20750,Shanghai,Chicago,Maersk Ocean,Ocean Cargo,2,57154.26,2325.57,1,0.14,465.5
+2025-01-29,SHP-20756,Rotterdam,Frankfurt,FedEx Logistics,Ground Express,3,98465.63,642.32,1,0.13,678.8
+2025-01-30,SHP-20993,Los Angeles,Tokyo,Maersk Ocean,Ocean Cargo,8,91438.5,301.46,1,0.4,1886.9
+2025-01-31,SHP-20705,Rotterdam,London,Kuehne+Nagel,Rail Intermodal,11,101424.01,1884.03,1,0.22,2958.4
+2025-02-01,SHP-20223,Rotterdam,Sydney,UPS Global,Rail Intermodal,7,66630.83,2384.96,1,0.29,1824.7
+2025-02-01,SHP-20359,Shanghai,Tokyo,UPS Global,Air Freight,23,113989.61,1736.94,1,0.18,9487.3
+2025-02-01,SHP-20447,Shanghai,Frankfurt,Maersk Ocean,Ocean Cargo,19,71654.59,1468.27,1,0.32,6712.0
+2025-02-01,SHP-20472,Rotterdam,Frankfurt,DHL Freight,Air Freight,13,127732.42,2115.95,1,0.07,2159.2
+2025-02-02,SHP-20645,Los Angeles,London,Kuehne+Nagel,Rail Intermodal,11,79893.29,3154.14,1,0.36,4145.9
+2025-02-02,SHP-20998,Los Angeles,London,FedEx Logistics,Air Freight,8,147149.35,2358.53,0,0.95,3405.0
+2025-02-03,SHP-20580,Los Angeles,New York,Kuehne+Nagel,Ground Express,12,75107.59,2229.6,1,0.16,4748.8
+2025-02-03,SHP-20635,Hamburg,Chicago,Kuehne+Nagel,Air Freight,15,18370.06,1554.5,1,0.37,3861.3
+2025-02-04,SHP-20095,Los Angeles,Tokyo,FedEx Logistics,Rail Intermodal,17,71738.75,475.29,1,0.24,7604.0
+2025-02-04,SHP-20159,Rotterdam,Sydney,DHL Freight,Ground Express,21,53047.19,3194.36,1,0.05,6633.5
+2025-02-04,SHP-20560,Singapore,Frankfurt,Kuehne+Nagel,Ground Express,16,96587.44,1726.7,0,0.54,4076.9
+2025-02-05,SHP-20524,Hamburg,Chicago,Kuehne+Nagel,Ocean Cargo,16,68033.01,2435.47,1,0.06,3051.8
+2025-02-06,SHP-20268,Rotterdam,Sydney,UPS Global,Ground Express,20,140473.68,157.54,1,0.3,4992.5
+2025-02-06,SHP-20293,Shanghai,Tokyo,DHL Freight,Rail Intermodal,25,23191.08,2368.01,0,0.94,5883.3
+2025-02-06,SHP-20549,Singapore,Frankfurt,DHL Freight,Rail Intermodal,5,86008.98,1956.1,0,0.54,1223.7
+2025-02-06,SHP-20823,Rotterdam,London,Maersk Ocean,Rail Intermodal,4,111493.33,1172.07,0,0.7,1076.3
+2025-02-07,SHP-20589,Hamburg,London,UPS Global,Ocean Cargo,20,22494.37,274.13,0,0.67,2767.4
+2025-02-07,SHP-20647,Shanghai,Frankfurt,FedEx Logistics,Air Freight,13,64260.54,3124.38,0,0.88,2984.6
+2025-02-08,SHP-20811,Dubai,London,UPS Global,Rail Intermodal,26,179180.37,1836.11,1,0.31,6932.3
+2025-02-09,SHP-20429,Singapore,New York,FedEx Logistics,Rail Intermodal,27,101350.84,1182.24,1,0.08,11796.1
+2025-02-10,SHP-20207,Hamburg,New York,DHL Freight,Rail Intermodal,3,36496.73,1025.63,1,0.31,1325.9
+2025-02-10,SHP-20331,Hamburg,Chicago,UPS Global,Air Freight,15,104153.94,606.41,0,0.84,6415.1
+2025-02-11,SHP-20315,Hamburg,Sydney,Kuehne+Nagel,Air Freight,7,166181.69,1987.29,0,0.6,2024.8
+2025-02-12,SHP-20312,Singapore,New York,Kuehne+Nagel,Ground Express,4,169836.56,1289.45,1,0.24,818.1
+2025-02-12,SHP-20338,Rotterdam,Tokyo,UPS Global,Rail Intermodal,22,124205.51,2965.37,1,0.16,6595.5
+2025-02-12,SHP-20414,Hamburg,Frankfurt,Maersk Ocean,Ground Express,20,35423.72,1810.27,1,0.16,6434.7
+2025-02-13,SHP-20474,Hamburg,Tokyo,Kuehne+Nagel,Rail Intermodal,8,100133.6,1878.44,1,0.3,1455.0
+2025-02-14,SHP-20060,Los Angeles,London,Kuehne+Nagel,Ground Express,21,99180.26,2615.01,1,0.2,8096.0
+2025-02-15,SHP-20384,Dubai,Frankfurt,Kuehne+Nagel,Ground Express,15,96477.75,2615.33,1,0.16,1494.5
+2025-02-15,SHP-20627,Singapore,London,FedEx Logistics,Rail Intermodal,11,12390.76,1839.29,1,0.34,2116.9
+2025-02-15,SHP-20976,Singapore,Chicago,DHL Freight,Rail Intermodal,28,165416.44,2474.62,0,0.57,5580.1
+2025-02-16,SHP-20236,Dubai,London,UPS Global,Ground Express,13,5909.16,474.98,1,0.19,4702.1
+2025-02-16,SHP-20252,Shanghai,Tokyo,DHL Freight,Ocean Cargo,25,35529.32,893.93,1,0.15,5943.9
+2025-02-16,SHP-20383,Singapore,Chicago,Kuehne+Nagel,Ground Express,24,66641.62,501.99,1,0.24,10290.9
+2025-02-16,SHP-20931,Shanghai,New York,FedEx Logistics,Ocean Cargo,12,83171.69,600.73,1,0.33,1462.4
+2025-02-17,SHP-20232,Los Angeles,New York,Maersk Ocean,Ocean Cargo,20,151063.85,883.44,1,0.28,5600.2
+2025-02-17,SHP-20287,Hamburg,Frankfurt,DHL Freight,Rail Intermodal,16,14701.84,1707.88,0,0.58,2211.3
+2025-02-17,SHP-20407,Dubai,Sydney,Maersk Ocean,Ground Express,6,63023.52,2222.72,1,0.2,1276.4
+2025-02-18,SHP-20547,Shanghai,Tokyo,Kuehne+Nagel,Air Freight,27,85670.6,1071.46,0,0.69,8362.5
+2025-02-19,SHP-20026,Singapore,Tokyo,UPS Global,Ocean Cargo,23,85014.3,2118.78,1,0.02,7126.1
+2025-02-19,SHP-20205,Los Angeles,New York,Kuehne+Nagel,Rail Intermodal,27,28090.26,319.69,1,0.19,2736.8
+2025-02-19,SHP-20378,Shanghai,Sydney,DHL Freight,Air Freight,26,85042.88,2869.85,0,0.93,3375.2
+2025-02-19,SHP-20852,Shanghai,London,UPS Global,Air Freight,11,179353.33,2688.68,1,0.08,2696.4
+2025-02-20,SHP-20198,Shanghai,Frankfurt,Maersk Ocean,Ground Express,20,38803.23,2206.92,0,0.89,8238.1
+2025-02-20,SHP-20949,Singapore,Frankfurt,FedEx Logistics,Ocean Cargo,18,132526.11,1724.72,0,0.92,3713.8
+2025-02-21,SHP-20210,Los Angeles,Chicago,UPS Global,Ocean Cargo,9,32146.24,1554.91,1,0.38,3134.3
+2025-02-21,SHP-20513,Los Angeles,Chicago,Kuehne+Nagel,Air Freight,18,84957.57,483.41,1,0.35,3076.5
+2025-02-22,SHP-20377,Shanghai,Tokyo,Kuehne+Nagel,Ocean Cargo,8,154134.02,518.27,1,0.19,2953.0
+2025-02-22,SHP-20768,Shanghai,Tokyo,UPS Global,Rail Intermodal,12,39056.42,165.74,1,0.35,4546.1
+2025-02-23,SHP-20363,Rotterdam,Frankfurt,FedEx Logistics,Rail Intermodal,11,13764.03,955.58,1,0.35,4348.7
+2025-02-23,SHP-20798,Singapore,Sydney,FedEx Logistics,Rail Intermodal,25,64615.43,2633.91,1,0.14,3737.6
+2025-02-23,SHP-20895,Los Angeles,Tokyo,DHL Freight,Air Freight,15,19830.16,1650.74,0,0.9,3479.5
+2025-02-24,SHP-20538,Los Angeles,Sydney,Kuehne+Nagel,Air Freight,2,12705.24,1098.49,0,0.89,406.6
+2025-02-24,SHP-20826,Los Angeles,Frankfurt,Maersk Ocean,Ocean Cargo,10,142719.9,1118.49,1,0.22,4417.0
+2025-02-24,SHP-20830,Rotterdam,London,FedEx Logistics,Ocean Cargo,15,48569.65,688.13,1,0.24,6570.9
+2025-02-24,SHP-20947,Singapore,Frankfurt,DHL Freight,Ground Express,15,93126.22,2884.36,0,0.86,2033.5
+2025-02-25,SHP-20273,Singapore,Sydney,DHL Freight,Air Freight,2,18639.28,800.93,0,0.6,663.2
+2025-02-25,SHP-20921,Rotterdam,London,UPS Global,Air Freight,17,37379.9,703.62,1,0.09,4445.4
+2025-02-26,SHP-20006,Singapore,Sydney,UPS Global,Ground Express,22,43432.66,2248.89,1,0.34,8076.6
+2025-02-26,SHP-20317,Rotterdam,Sydney,DHL Freight,Ground Express,8,16864.09,911.1,1,0.32,2772.4
+2025-02-26,SHP-20744,Shanghai,Chicago,Kuehne+Nagel,Rail Intermodal,14,74194.5,860.11,0,0.52,4592.9
+2025-02-27,SHP-20922,Dubai,Tokyo,DHL Freight,Ground Express,7,148062.36,2850.02,0,0.58,931.7
+2025-03-01,SHP-20978,Los Angeles,Frankfurt,Maersk Ocean,Ocean Cargo,9,43807.16,2140.19,1,0.22,1536.7
+2025-03-02,SHP-20187,Shanghai,Frankfurt,FedEx Logistics,Ocean Cargo,19,120889.69,1141.4,0,0.67,8245.5
+2025-03-02,SHP-20856,Los Angeles,Frankfurt,Kuehne+Nagel,Rail Intermodal,27,50341.44,861.77,1,0.05,3050.5
+2025-03-02,SHP-20866,Shanghai,Tokyo,Kuehne+Nagel,Air Freight,23,155225.38,2545.77,1,0.38,5474.7
+2025-03-03,SHP-20039,Singapore,Tokyo,UPS Global,Air Freight,23,114052.2,2958.35,1,0.29,4395.7
+2025-03-04,SHP-20139,Dubai,Chicago,DHL Freight,Rail Intermodal,18,68454.59,1253.58,1,0.38,3715.9
+2025-03-05,SHP-20285,Shanghai,New York,FedEx Logistics,Air Freight,7,65673.4,1664.06,0,0.85,2426.8
+2025-03-05,SHP-20857,Singapore,Frankfurt,DHL Freight,Ground Express,6,171962.01,2752.66,0,0.83,1170.0
+2025-03-05,SHP-20956,Singapore,Frankfurt,Kuehne+Nagel,Air Freight,6,55865.61,2751.83,1,0.24,2375.5
+2025-03-05,SHP-20974,Rotterdam,Tokyo,FedEx Logistics,Rail Intermodal,9,73488.42,1845.01,0,0.79,3479.1
+2025-03-06,SHP-20561,Dubai,New York,Kuehne+Nagel,Ground Express,21,65120.58,310.96,1,0.2,5663.4
+2025-03-06,SHP-20662,Shanghai,Frankfurt,Kuehne+Nagel,Air Freight,20,16772.21,1177.36,0,0.71,3152.1
+2025-03-06,SHP-20824,Hamburg,Chicago,DHL Freight,Ocean Cargo,2,161936.4,2029.86,1,0.11,477.1
+2025-03-07,SHP-20388,Singapore,Chicago,UPS Global,Ocean Cargo,22,118335.67,2299.12,0,0.75,6671.6
+2025-03-09,SHP-20692,Los Angeles,Tokyo,Maersk Ocean,Ground Express,18,161217.57,1104.68,1,0.3,4711.9
+2025-03-11,SHP-20789,Dubai,Chicago,Maersk Ocean,Rail Intermodal,18,61319.05,1566.02,1,0.22,4658.8
+2025-03-11,SHP-20792,Rotterdam,Sydney,Kuehne+Nagel,Ground Express,9,86419.29,1931.08,0,0.65,2222.3
+2025-03-12,SHP-20840,Dubai,New York,DHL Freight,Ground Express,28,136027.76,585.28,1,0.29,2306.5
+2025-03-14,SHP-20703,Rotterdam,Chicago,FedEx Logistics,Rail Intermodal,22,12076.67,1449.35,1,0.39,7266.2
+2025-03-15,SHP-20497,Shanghai,New York,DHL Freight,Ocean Cargo,21,157031.66,2976.53,1,0.03,7070.8
+2025-03-15,SHP-20638,Shanghai,London,DHL Freight,Air Freight,27,108805.83,2162.36,1,0.07,4687.6
+2025-03-18,SHP-20644,Dubai,Tokyo,Kuehne+Nagel,Air Freight,4,25251.46,1150.75,1,0.19,1409.5
+2025-03-19,SHP-20077,Rotterdam,Chicago,DHL Freight,Ocean Cargo,17,82390.15,1732.84,1,0.09,5041.7
+2025-03-19,SHP-20544,Hamburg,London,DHL Freight,Rail Intermodal,5,124783.65,1539.53,1,0.2,2152.8
+2025-03-20,SHP-20140,Singapore,London,FedEx Logistics,Ocean Cargo,4,142921.03,1052.17,0,0.85,1556.0
+2025-03-21,SHP-20125,Rotterdam,Tokyo,Maersk Ocean,Air Freight,2,80364.63,1667.03,1,0.16,680.7
+2025-03-21,SHP-20195,Dubai,Chicago,FedEx Logistics,Air Freight,7,151580.86,1424.55,1,0.4,1588.2
+2025-03-21,SHP-20341,Shanghai,Sydney,FedEx Logistics,Ocean Cargo,21,44159.76,2592.64,0,0.86,4053.4
+2025-03-21,SHP-20375,Hamburg,Sydney,Maersk Ocean,Rail Intermodal,5,120309.29,447.18,1,0.15,1935.3
+2025-03-21,SHP-20468,Singapore,Sydney,UPS Global,Ocean Cargo,25,39856.48,3183.33,1,0.22,11084.6
+2025-03-21,SHP-20520,Los Angeles,Tokyo,FedEx Logistics,Air Freight,6,5618.26,3079.32,1,0.02,1584.7
+2025-03-21,SHP-20782,Rotterdam,Frankfurt,UPS Global,Ocean Cargo,14,178228.66,711.95,1,0.02,2973.9
+2025-03-21,SHP-20901,Singapore,New York,Maersk Ocean,Rail Intermodal,21,81007.49,2399.17,1,0.13,2321.9
+2025-03-22,SHP-20281,Shanghai,Chicago,DHL Freight,Air Freight,10,166451.38,808.02,1,0.21,3125.7
+2025-03-22,SHP-20799,Dubai,Sydney,FedEx Logistics,Rail Intermodal,16,10268.21,2751.48,1,0.24,2039.8
+2025-03-23,SHP-20172,Rotterdam,Frankfurt,FedEx Logistics,Rail Intermodal,21,92156.66,2098.92,0,0.63,9113.2
+2025-03-24,SHP-20288,Hamburg,Frankfurt,DHL Freight,Ocean Cargo,25,12706.63,1701.92,1,0.11,6363.8
+2025-03-24,SHP-20591,Dubai,London,FedEx Logistics,Ocean Cargo,22,83823.35,976.4,1,0.38,6729.8
+2025-03-25,SHP-20136,Dubai,Chicago,DHL Freight,Ground Express,4,102643.56,1155.56,1,0.13,1391.1
+2025-03-26,SHP-20389,Singapore,Tokyo,UPS Global,Ocean Cargo,23,173433.17,377.13,0,0.55,2185.8
+2025-03-27,SHP-20161,Rotterdam,Tokyo,UPS Global,Air Freight,21,83736.45,617.99,1,0.16,7609.2
+2025-03-27,SHP-20307,Shanghai,Sydney,Kuehne+Nagel,Ground Express,26,45733.37,1931.17,1,0.06,8399.0
+2025-03-27,SHP-20634,Los Angeles,Tokyo,FedEx Logistics,Air Freight,8,43694.86,621.39,1,0.32,2293.6
+2025-03-27,SHP-20738,Rotterdam,Chicago,UPS Global,Rail Intermodal,16,170868.51,2251.5,1,0.33,2134.5
+2025-03-28,SHP-20301,Singapore,London,FedEx Logistics,Rail Intermodal,13,169075.61,2243.17,1,0.24,2284.9
+2025-03-28,SHP-20678,Los Angeles,Sydney,UPS Global,Ground Express,24,165745.58,1438.22,1,0.33,8122.5
+2025-03-28,SHP-20812,Los Angeles,Sydney,FedEx Logistics,Ground Express,8,85879.31,1693.5,1,0.26,2639.8
+2025-03-28,SHP-20979,Los Angeles,Tokyo,DHL Freight,Ground Express,4,114801.65,3001.68,0,0.89,484.2
+2025-03-29,SHP-20952,Shanghai,Sydney,DHL Freight,Rail Intermodal,12,56731.43,667.64,1,0.13,2573.2
+2025-03-30,SHP-20251,Hamburg,Sydney,Maersk Ocean,Rail Intermodal,5,126933.57,1486.41,1,0.05,482.7
+2025-03-30,SHP-20775,Los Angeles,Chicago,Maersk Ocean,Ocean Cargo,5,109155.64,463.2,1,0.25,1955.4
+2025-03-30,SHP-20963,Dubai,Sydney,Maersk Ocean,Rail Intermodal,28,142037.67,180.29,0,0.59,9727.4
+2025-03-31,SHP-20950,Rotterdam,Tokyo,Maersk Ocean,Rail Intermodal,3,140480.63,2866.57,1,0.11,1346.7
+2025-04-01,SHP-20314,Singapore,Frankfurt,Kuehne+Nagel,Ocean Cargo,14,125487.23,1085.81,1,0.09,1129.3
+2025-04-01,SHP-20607,Shanghai,Chicago,Maersk Ocean,Air Freight,18,123064.27,3033.23,1,0.06,3874.8
+2025-04-02,SHP-20110,Hamburg,Tokyo,DHL Freight,Ocean Cargo,10,134800.66,309.82,0,0.55,1035.2
+2025-04-02,SHP-20319,Hamburg,Frankfurt,FedEx Logistics,Ocean Cargo,16,153008.43,374.81,1,0.03,2825.9
+2025-04-02,SHP-20500,Hamburg,Tokyo,DHL Freight,Rail Intermodal,22,16654.61,3032.79,1,0.27,9190.8
+2025-04-03,SHP-20712,Singapore,New York,Maersk Ocean,Rail Intermodal,6,8817.94,1595.67,1,0.36,2120.1
+2025-04-04,SHP-20064,Shanghai,Tokyo,FedEx Logistics,Rail Intermodal,24,121193.0,892.08,1,0.2,6634.6
+2025-04-04,SHP-20809,Los Angeles,Chicago,FedEx Logistics,Rail Intermodal,9,113103.89,697.71,1,0.19,3753.1
+2025-04-05,SHP-20871,Singapore,Sydney,UPS Global,Rail Intermodal,11,22402.22,1892.84,1,0.29,4389.2
+2025-04-05,SHP-20987,Hamburg,Tokyo,FedEx Logistics,Ocean Cargo,25,159500.03,1637.89,1,0.25,4513.0
+2025-04-06,SHP-20663,Dubai,Tokyo,Kuehne+Nagel,Ground Express,15,59836.77,2173.54,1,0.17,4668.5
+2025-04-07,SHP-20052,Dubai,London,UPS Global,Ocean Cargo,21,163712.55,1779.08,0,0.75,1890.6
+2025-04-07,SHP-20184,Dubai,Frankfurt,DHL Freight,Rail Intermodal,10,142008.2,3099.57,0,0.76,3469.2
+2025-04-08,SHP-20404,Shanghai,Chicago,UPS Global,Air Freight,11,48870.33,2198.64,1,0.3,2862.9
+2025-04-09,SHP-20975,Hamburg,Sydney,FedEx Logistics,Rail Intermodal,25,163229.99,679.84,0,0.57,4136.5
+2025-04-10,SHP-20395,Los Angeles,Sydney,DHL Freight,Ground Express,22,94931.57,737.16,1,0.08,9544.1
+2025-04-11,SHP-20191,Rotterdam,New York,Maersk Ocean,Air Freight,13,119795.11,2968.23,1,0.1,5022.4
+2025-04-11,SHP-20218,Hamburg,Frankfurt,Kuehne+Nagel,Ocean Cargo,17,163730.74,787.11,1,0.38,1456.4
+2025-04-12,SHP-20216,Shanghai,Chicago,UPS Global,Rail Intermodal,19,72973.33,1766.48,1,0.1,6066.3
+2025-04-12,SHP-20309,Dubai,Tokyo,Kuehne+Nagel,Air Freight,24,170822.78,2286.71,0,0.56,10341.5
+2025-04-12,SHP-20625,Los Angeles,Frankfurt,UPS Global,Ocean Cargo,28,20063.65,1940.9,1,0.14,12479.6
+2025-04-13,SHP-20330,Shanghai,Sydney,Kuehne+Nagel,Rail Intermodal,19,53335.14,1144.69,1,0.37,1606.9
+2025-04-13,SHP-20660,Shanghai,Frankfurt,FedEx Logistics,Ground Express,17,138858.18,1683.44,1,0.08,3244.0
+2025-04-13,SHP-20763,Singapore,London,UPS Global,Ground Express,3,163288.83,1006.31,0,0.59,457.7
+2025-04-14,SHP-20665,Los Angeles,Chicago,DHL Freight,Ocean Cargo,13,47065.44,1560.58,1,0.34,3013.4
+2025-04-15,SHP-20034,Los Angeles,New York,FedEx Logistics,Ground Express,27,145391.15,2988.99,1,0.12,10025.9
+2025-04-15,SHP-20087,Los Angeles,Frankfurt,FedEx Logistics,Rail Intermodal,3,173936.88,535.05,1,0.35,1210.4
+2025-04-16,SHP-20302,Shanghai,New York,FedEx Logistics,Rail Intermodal,27,163388.64,542.81,1,0.07,11573.4
+2025-04-16,SHP-20576,Singapore,Sydney,DHL Freight,Rail Intermodal,8,36227.38,2011.42,1,0.06,2240.3
+2025-04-16,SHP-20761,Hamburg,Tokyo,UPS Global,Ocean Cargo,28,126980.27,2492.3,1,0.07,6078.2
+2025-04-17,SHP-20228,Rotterdam,Sydney,DHL Freight,Ground Express,14,47561.38,1549.94,1,0.13,5409.4
+2025-04-17,SHP-20380,Shanghai,Sydney,Kuehne+Nagel,Ground Express,18,78266.33,2838.24,0,0.91,6517.4
+2025-04-18,SHP-20144,Hamburg,London,Maersk Ocean,Air Freight,22,69962.12,1615.8,1,0.29,5959.5
+2025-04-20,SHP-20085,Rotterdam,Frankfurt,Maersk Ocean,Rail Intermodal,6,89759.74,1511.97,1,0.23,1686.4
+2025-04-20,SHP-20742,Los Angeles,New York,DHL Freight,Ground Express,4,78075.65,2804.8,0,0.64,989.5
+2025-04-20,SHP-20903,Singapore,Sydney,DHL Freight,Ocean Cargo,8,108459.33,3177.28,1,0.11,1031.6
+2025-04-21,SHP-20158,Hamburg,Tokyo,Maersk Ocean,Air Freight,4,56736.99,1150.16,1,0.25,950.7
+2025-04-21,SHP-20764,Los Angeles,New York,Maersk Ocean,Rail Intermodal,7,120471.72,1832.94,0,0.8,2121.7
+2025-04-23,SHP-20489,Dubai,Frankfurt,Kuehne+Nagel,Air Freight,21,11540.03,2108.88,0,0.67,7741.5
+2025-04-24,SHP-20199,Hamburg,Tokyo,DHL Freight,Rail Intermodal,23,176794.91,440.92,1,0.14,3950.9
+2025-04-24,SHP-20685,Los Angeles,New York,FedEx Logistics,Ocean Cargo,8,147347.17,3035.46,1,0.13,2102.7
+2025-04-25,SHP-20397,Dubai,Sydney,DHL Freight,Ocean Cargo,2,63050.19,1550.64,1,0.05,291.7
+2025-04-25,SHP-20721,Hamburg,New York,DHL Freight,Ground Express,15,44670.79,497.61,0,0.6,2630.9
+2025-04-26,SHP-20108,Hamburg,London,Kuehne+Nagel,Ocean Cargo,28,62497.92,2802.57,1,0.32,8414.4
+2025-04-26,SHP-20698,Dubai,Sydney,UPS Global,Ground Express,21,62649.71,2156.92,1,0.27,9068.5
+2025-04-27,SHP-20128,Rotterdam,New York,UPS Global,Air Freight,9,75078.72,1478.81,1,0.17,1753.2
+2025-04-27,SHP-20475,Hamburg,London,DHL Freight,Ocean Cargo,16,51086.12,1051.8,1,0.19,5873.4
+2025-04-28,SHP-20097,Rotterdam,London,Kuehne+Nagel,Ground Express,9,113655.95,2091.68,1,0.26,3728.3
+2025-04-29,SHP-20415,Hamburg,Tokyo,UPS Global,Ocean Cargo,18,148016.43,1387.82,1,0.21,4650.9
+2025-04-30,SHP-20271,Shanghai,New York,FedEx Logistics,Rail Intermodal,16,172655.56,152.06,1,0.4,6663.7
+2025-04-30,SHP-20310,Los Angeles,Chicago,Maersk Ocean,Ocean Cargo,17,14829.4,265.79,0,0.6,4671.4
+2025-05-01,SHP-20147,Dubai,Tokyo,FedEx Logistics,Ocean Cargo,3,150208.28,1024.98,1,0.31,760.7
+2025-05-03,SHP-20225,Singapore,New York,FedEx Logistics,Air Freight,8,70310.12,1692.49,0,0.79,3404.4
+2025-05-03,SHP-20867,Shanghai,New York,Maersk Ocean,Rail Intermodal,7,25535.7,3032.44,0,0.79,2096.9
+2025-05-04,SHP-20719,Hamburg,London,Maersk Ocean,Air Freight,23,35325.94,1622.81,1,0.25,2698.7
+2025-05-05,SHP-20119,Rotterdam,New York,Maersk Ocean,Ocean Cargo,27,103169.0,1458.79,0,0.78,8580.6
+2025-05-05,SHP-20230,Dubai,Tokyo,Kuehne+Nagel,Air Freight,18,45209.14,2953.41,0,0.71,1750.1
+2025-05-05,SHP-20633,Rotterdam,Tokyo,Maersk Ocean,Air Freight,19,149080.09,1919.14,1,0.07,3498.4
+2025-05-05,SHP-20754,Hamburg,London,FedEx Logistics,Ground Express,19,141854.14,3155.19,0,0.93,8278.3
+2025-05-06,SHP-20766,Shanghai,Frankfurt,Kuehne+Nagel,Ground Express,23,84437.07,1858.35,1,0.26,9865.6
+2025-05-11,SHP-20864,Los Angeles,New York,FedEx Logistics,Ground Express,26,156524.7,2563.4,1,0.34,8906.2
+2025-05-13,SHP-20017,Shanghai,Chicago,FedEx Logistics,Ground Express,23,99365.94,1630.51,0,0.76,3907.9
+2025-05-13,SHP-20666,Shanghai,Frankfurt,FedEx Logistics,Rail Intermodal,10,118057.46,2662.32,1,0.28,1673.7
+2025-05-14,SHP-20382,Dubai,Frankfurt,Kuehne+Nagel,Ocean Cargo,8,130017.29,789.62,1,0.37,1032.7
+2025-05-14,SHP-20566,Rotterdam,New York,FedEx Logistics,Ocean Cargo,28,178877.48,1662.64,1,0.11,6800.3
+2025-05-15,SHP-20601,Singapore,Chicago,UPS Global,Rail Intermodal,10,79919.31,194.24,1,0.11,2406.7
+2025-05-16,SHP-20133,Shanghai,Chicago,Kuehne+Nagel,Rail Intermodal,16,171990.51,1920.0,1,0.19,6074.1
+2025-05-17,SHP-20695,Shanghai,Tokyo,DHL Freight,Ocean Cargo,11,34451.63,701.0,0,0.87,3172.4
+2025-05-18,SHP-20999,Rotterdam,New York,DHL Freight,Air Freight,11,62632.57,378.88,0,0.86,2424.8
+2025-05-19,SHP-20100,Shanghai,Sydney,DHL Freight,Ocean Cargo,26,155524.6,3097.83,1,0.39,9820.1
+2025-05-20,SHP-20212,Singapore,Frankfurt,DHL Freight,Rail Intermodal,16,43022.11,864.73,1,0.07,7161.4
+2025-05-20,SHP-20458,Rotterdam,Chicago,UPS Global,Ocean Cargo,24,108395.41,1794.83,1,0.26,7566.4
+2025-05-22,SHP-20402,Singapore,New York,DHL Freight,Air Freight,20,99001.61,1969.8,1,0.14,7137.4
+2025-05-22,SHP-20585,Singapore,Frankfurt,Kuehne+Nagel,Ocean Cargo,4,29778.33,262.48,1,0.2,1678.7
+2025-05-22,SHP-20889,Los Angeles,Frankfurt,Kuehne+Nagel,Ocean Cargo,17,124896.33,1668.31,0,0.81,3910.4
+2025-05-23,SHP-20037,Rotterdam,London,Kuehne+Nagel,Ground Express,3,81048.66,480.63,1,0.19,1332.5
+2025-05-24,SHP-20808,Los Angeles,Sydney,Kuehne+Nagel,Air Freight,25,118102.35,427.86,1,0.15,9794.4
+2025-05-24,SHP-20928,Los Angeles,Frankfurt,DHL Freight,Rail Intermodal,7,44291.43,3171.84,1,0.16,2154.7
+2025-05-25,SHP-20590,Shanghai,New York,DHL Freight,Ocean Cargo,4,108902.84,2305.56,1,0.18,1515.0
+2025-05-26,SHP-20272,Rotterdam,London,Maersk Ocean,Air Freight,22,19423.59,1249.33,1,0.04,6852.4
+2025-05-26,SHP-20900,Hamburg,Frankfurt,UPS Global,Ocean Cargo,5,143724.77,3070.92,1,0.08,1325.0
+2025-05-26,SHP-20940,Shanghai,Chicago,FedEx Logistics,Ocean Cargo,2,79133.63,1358.99,1,0.23,773.8
+2025-05-27,SHP-20141,Shanghai,Frankfurt,Maersk Ocean,Ocean Cargo,21,33393.26,1299.0,0,0.86,2966.2
+2025-05-27,SHP-20910,Singapore,London,UPS Global,Air Freight,4,113326.81,3022.54,1,0.3,1784.7
+2025-05-28,SHP-20008,Dubai,Sydney,FedEx Logistics,Ground Express,6,103239.42,902.21,1,0.3,1431.1
+2025-05-28,SHP-20011,Rotterdam,Frankfurt,Maersk Ocean,Air Freight,11,84401.65,1476.03,1,0.39,3981.2
+2025-05-28,SHP-20670,Los Angeles,Frankfurt,FedEx Logistics,Ocean Cargo,5,92543.49,1891.47,1,0.22,1933.6
+2025-05-28,SHP-20730,Dubai,Chicago,Maersk Ocean,Ground Express,13,53961.63,174.1,0,0.77,1746.4
+2025-05-29,SHP-20454,Rotterdam,Frankfurt,Kuehne+Nagel,Rail Intermodal,15,154487.07,660.32,1,0.3,4874.2
+2025-05-29,SHP-20600,Hamburg,London,Kuehne+Nagel,Ocean Cargo,20,154625.7,3108.91,1,0.18,5461.1
+2025-05-30,SHP-20350,Hamburg,New York,UPS Global,Ground Express,15,154491.96,314.89,1,0.4,3101.8
+2025-05-30,SHP-20452,Los Angeles,Chicago,Maersk Ocean,Rail Intermodal,22,156945.09,3067.61,1,0.18,6744.2
+2025-05-30,SHP-20539,Shanghai,Chicago,Maersk Ocean,Air Freight,20,116798.9,2463.41,1,0.14,3024.8
+2025-06-01,SHP-20045,Shanghai,Sydney,FedEx Logistics,Ocean Cargo,27,95642.61,3071.8,1,0.23,11325.5
+2025-06-01,SHP-20716,Los Angeles,Sydney,DHL Freight,Rail Intermodal,21,65683.72,3013.84,1,0.03,3917.8
+2025-06-02,SHP-20182,Singapore,Tokyo,Kuehne+Nagel,Ground Express,7,112887.59,1348.51,1,0.25,1873.9
+2025-06-02,SHP-20321,Dubai,New York,UPS Global,Ocean Cargo,21,32493.16,2863.75,1,0.15,9251.1
+2025-06-02,SHP-20573,Singapore,Chicago,DHL Freight,Air Freight,4,27733.77,2762.14,0,0.86,593.5
+2025-06-03,SHP-20170,Shanghai,Tokyo,FedEx Logistics,Ground Express,6,112524.95,2056.32,1,0.21,854.4
+2025-06-04,SHP-20817,Los Angeles,Frankfurt,Maersk Ocean,Rail Intermodal,3,13516.32,1974.53,1,0.31,1271.0
+2025-06-04,SHP-20884,Singapore,Tokyo,UPS Global,Ocean Cargo,13,123617.08,2608.56,0,0.75,5282.5
+2025-06-07,SHP-20176,Rotterdam,Chicago,Maersk Ocean,Ocean Cargo,26,179294.65,635.99,1,0.21,5048.2
+2025-06-08,SHP-20403,Rotterdam,London,UPS Global,Ocean Cargo,7,112954.86,711.18,1,0.09,1029.7
+2025-06-08,SHP-20776,Singapore,Frankfurt,Kuehne+Nagel,Ground Express,13,131809.03,1434.07,1,0.09,1702.2
+2025-06-09,SHP-20668,Singapore,London,Maersk Ocean,Ocean Cargo,2,145619.18,938.11,0,0.58,790.9
+2025-06-11,SHP-20440,Los Angeles,Frankfurt,FedEx Logistics,Ocean Cargo,25,51445.94,888.27,1,0.1,4309.7
+2025-06-11,SHP-20507,Singapore,Frankfurt,Kuehne+Nagel,Ocean Cargo,12,98268.27,356.83,1,0.09,4687.5
+2025-06-11,SHP-20565,Dubai,London,UPS Global,Ground Express,27,141942.35,684.97,1,0.2,10145.7
+2025-06-11,SHP-20839,Los Angeles,London,UPS Global,Ground Express,24,174344.6,1071.77,1,0.24,8437.3
+2025-06-13,SHP-20203,Hamburg,Frankfurt,FedEx Logistics,Ocean Cargo,23,157798.64,2451.96,1,0.22,6334.8
+2025-06-13,SHP-20226,Dubai,Sydney,DHL Freight,Air Freight,19,7073.92,1832.51,0,0.82,5286.2
+2025-06-13,SHP-20802,Hamburg,Sydney,UPS Global,Ocean Cargo,14,72625.92,344.31,1,0.06,4070.1
+2025-06-13,SHP-20896,Shanghai,London,Maersk Ocean,Ocean Cargo,17,57374.87,1355.84,1,0.36,4734.1
+2025-06-14,SHP-20759,Singapore,Frankfurt,DHL Freight,Rail Intermodal,2,122723.62,2899.41,1,0.23,675.4
+2025-06-15,SHP-20224,Hamburg,Frankfurt,DHL Freight,Air Freight,28,170407.92,2732.43,1,0.31,6512.4
+2025-06-17,SHP-20941,Hamburg,Tokyo,FedEx Logistics,Rail Intermodal,7,21088.89,979.07,1,0.39,884.1
+2025-06-18,SHP-20075,Los Angeles,New York,UPS Global,Ground Express,24,52643.08,1377.65,0,0.72,2634.3
+2025-06-18,SHP-20217,Rotterdam,New York,Kuehne+Nagel,Ocean Cargo,3,122892.59,968.81,0,0.52,320.8
+2025-06-18,SHP-20283,Singapore,Chicago,Maersk Ocean,Rail Intermodal,20,151042.13,2084.6,1,0.14,4837.4
+2025-06-18,SHP-20490,Rotterdam,Tokyo,UPS Global,Rail Intermodal,5,44675.59,2802.85,0,0.92,1572.7
+2025-06-19,SHP-20683,Dubai,Chicago,FedEx Logistics,Air Freight,16,127720.7,754.71,1,0.04,4938.6
+2025-06-20,SHP-20332,Hamburg,New York,Maersk Ocean,Ground Express,15,119587.84,955.62,0,0.77,1407.9
+2025-06-20,SHP-20642,Hamburg,Frankfurt,UPS Global,Ground Express,24,81941.52,1947.61,1,0.09,5070.8
+2025-06-21,SHP-20512,Los Angeles,Chicago,UPS Global,Ground Express,16,79822.24,2857.14,1,0.25,6160.0
+2025-06-21,SHP-20723,Los Angeles,Sydney,DHL Freight,Air Freight,27,141877.35,2012.25,1,0.33,2579.3
+2025-06-21,SHP-20980,Shanghai,New York,FedEx Logistics,Ground Express,10,21236.0,2878.54,1,0.34,4177.1
+2025-06-22,SHP-20194,Los Angeles,Frankfurt,UPS Global,Rail Intermodal,22,173684.96,758.34,1,0.13,2241.6
+2025-06-23,SHP-20146,Los Angeles,New York,UPS Global,Ground Express,9,19280.95,1327.81,1,0.03,3819.7
+2025-06-23,SHP-20431,Los Angeles,Chicago,Kuehne+Nagel,Ground Express,24,15056.03,3088.77,1,0.26,5818.1
+2025-06-24,SHP-20846,Los Angeles,Tokyo,Kuehne+Nagel,Rail Intermodal,12,160776.63,1280.89,1,0.33,5138.0
+2025-06-25,SHP-20190,Dubai,Tokyo,Maersk Ocean,Air Freight,20,71446.48,2213.7,1,0.33,8664.1
+2025-06-25,SHP-20527,Dubai,Tokyo,UPS Global,Ground Express,10,179129.26,1752.44,1,0.37,3072.9
+2025-06-26,SHP-20622,Rotterdam,London,DHL Freight,Air Freight,19,123486.09,2740.83,1,0.39,4292.8
+2025-06-26,SHP-20747,Singapore,New York,Maersk Ocean,Ocean Cargo,9,151810.55,2680.56,0,0.7,3407.0
+2025-06-27,SHP-20219,Dubai,New York,UPS Global,Ocean Cargo,24,40789.8,1993.42,1,0.23,8806.6
+2025-06-27,SHP-20316,Singapore,Tokyo,DHL Freight,Ocean Cargo,13,34380.3,3146.26,1,0.33,4262.8
+2025-06-27,SHP-20674,Rotterdam,Sydney,Maersk Ocean,Ground Express,2,163415.15,2118.46,1,0.34,650.0
+2025-06-28,SHP-20646,Rotterdam,London,DHL Freight,Rail Intermodal,23,81660.21,470.77,1,0.07,5199.8
+2025-06-29,SHP-20102,Shanghai,Frankfurt,FedEx Logistics,Rail Intermodal,2,170054.6,2039.62,1,0.37,323.8
+2025-06-29,SHP-20202,Rotterdam,Chicago,FedEx Logistics,Ocean Cargo,6,84621.27,1608.45,0,0.67,2038.3
+2025-06-29,SHP-20347,Rotterdam,Chicago,Maersk Ocean,Ocean Cargo,28,102693.41,2155.72,1,0.06,3565.5
+2025-06-29,SHP-20455,Dubai,Frankfurt,DHL Freight,Ocean Cargo,7,21721.9,1360.99,1,0.23,628.3
+2025-06-29,SHP-20675,Dubai,Frankfurt,FedEx Logistics,Ground Express,19,116816.09,1323.31,1,0.36,6337.3
+2025-06-29,SHP-20985,Rotterdam,Tokyo,UPS Global,Ocean Cargo,4,101511.99,1213.09,1,0.2,1517.3
+2025-06-30,SHP-20171,Singapore,London,Kuehne+Nagel,Ground Express,28,12209.0,2967.99,1,0.05,12066.9
+2025-06-30,SHP-20367,Singapore,New York,UPS Global,Rail Intermodal,27,81678.49,1885.28,0,0.67,5742.4
+2025-06-30,SHP-20851,Los Angeles,Frankfurt,DHL Freight,Rail Intermodal,11,129589.85,2001.88,0,0.89,4074.4
+2025-07-01,SHP-20649,Rotterdam,Sydney,Kuehne+Nagel,Rail Intermodal,17,30790.47,1709.81,1,0.06,2936.8
+2025-07-01,SHP-20800,Shanghai,Sydney,Maersk Ocean,Ground Express,9,125008.49,1428.4,1,0.31,3019.4
+2025-07-02,SHP-20876,Rotterdam,Frankfurt,Kuehne+Nagel,Rail Intermodal,6,126642.76,1910.07,0,0.91,2692.9
+2025-07-02,SHP-20918,Hamburg,Tokyo,FedEx Logistics,Rail Intermodal,21,177420.72,1049.43,1,0.33,3383.8
+2025-07-03,SHP-20056,Los Angeles,Frankfurt,Maersk Ocean,Ground Express,7,173653.58,1997.97,1,0.32,984.2
+2025-07-03,SHP-20436,Hamburg,Tokyo,Kuehne+Nagel,Ground Express,24,70989.05,1500.44,1,0.31,8646.4
+2025-07-04,SHP-20070,Shanghai,London,DHL Freight,Rail Intermodal,21,113223.21,1968.19,0,0.67,8739.1
+2025-07-04,SHP-20671,Hamburg,Tokyo,UPS Global,Air Freight,9,140308.4,1979.46,1,0.15,2665.8
+2025-07-04,SHP-20752,Rotterdam,New York,Maersk Ocean,Rail Intermodal,19,89730.01,1391.58,1,0.26,7943.6
+2025-07-05,SHP-20393,Hamburg,Chicago,UPS Global,Air Freight,5,82991.77,2190.26,0,0.91,851.1
+2025-07-05,SHP-20693,Hamburg,Frankfurt,UPS Global,Air Freight,8,45225.6,603.29,1,0.2,1124.1
+2025-07-05,SHP-20972,Rotterdam,Sydney,UPS Global,Rail Intermodal,2,141884.31,3015.83,0,0.63,810.9
+2025-07-06,SHP-20284,Singapore,New York,FedEx Logistics,Air Freight,15,112151.94,503.76,1,0.14,5316.4
+2025-07-06,SHP-20740,Hamburg,Sydney,DHL Freight,Air Freight,13,12049.37,1893.88,1,0.06,2506.7
+2025-07-06,SHP-20838,Singapore,New York,DHL Freight,Air Freight,22,72260.85,2320.41,0,0.94,2414.0
+2025-07-07,SHP-20116,Dubai,Sydney,DHL Freight,Air Freight,28,80578.39,410.36,1,0.33,8004.0
+2025-07-07,SHP-20234,Los Angeles,Tokyo,DHL Freight,Ground Express,27,90855.6,3177.39,1,0.23,5910.5
+2025-07-08,SHP-20790,Los Angeles,Tokyo,Kuehne+Nagel,Rail Intermodal,22,107196.96,2959.61,1,0.1,9044.4
+2025-07-09,SHP-20055,Shanghai,New York,FedEx Logistics,Ocean Cargo,28,31666.91,212.16,1,0.2,3425.1
+2025-07-09,SHP-20836,Dubai,Tokyo,Kuehne+Nagel,Rail Intermodal,22,126879.7,2249.89,1,0.37,7748.3
+2025-07-09,SHP-20925,Shanghai,Chicago,Maersk Ocean,Air Freight,8,137942.56,574.65,1,0.33,1549.9
+2025-07-09,SHP-20989,Rotterdam,Chicago,UPS Global,Ground Express,21,117892.14,2671.39,0,0.66,1912.6
+2025-07-10,SHP-20531,Singapore,London,Maersk Ocean,Ground Express,23,88037.58,1611.28,1,0.27,5937.5
+2025-07-10,SHP-20819,Shanghai,Frankfurt,FedEx Logistics,Ocean Cargo,3,23844.67,1417.82,1,0.14,935.7
+2025-07-10,SHP-20899,Rotterdam,New York,UPS Global,Rail Intermodal,19,124303.88,1661.48,1,0.14,6893.7
+2025-07-11,SHP-20294,Singapore,Frankfurt,Maersk Ocean,Air Freight,3,162025.31,2959.89,0,0.69,1234.1
+2025-07-11,SHP-20437,Los Angeles,Frankfurt,UPS Global,Air Freight,17,16822.0,504.62,1,0.28,2806.3
+2025-07-12,SHP-20669,Los Angeles,New York,DHL Freight,Air Freight,12,156755.06,1984.88,1,0.36,3942.2
+2025-07-13,SHP-20069,Rotterdam,Sydney,DHL Freight,Air Freight,14,105978.7,1649.83,1,0.08,5321.7
+2025-07-13,SHP-20298,Singapore,Sydney,Maersk Ocean,Rail Intermodal,10,20823.66,2750.07,1,0.33,3378.4
+2025-07-13,SHP-20376,Rotterdam,Chicago,Kuehne+Nagel,Ground Express,24,161953.5,474.28,1,0.07,8285.7
+2025-07-13,SHP-20919,Singapore,Tokyo,DHL Freight,Air Freight,25,71846.67,2424.6,1,0.35,7867.3
+2025-07-14,SHP-20143,Los Angeles,London,Maersk Ocean,Rail Intermodal,16,141171.71,2496.79,0,0.74,7000.3
+2025-07-14,SHP-20342,Dubai,Tokyo,UPS Global,Rail Intermodal,13,43186.58,1549.94,1,0.28,5004.9
+2025-07-15,SHP-20118,Hamburg,Tokyo,Maersk Ocean,Air Freight,20,32077.78,1697.61,1,0.11,2400.8
+2025-07-16,SHP-20661,Singapore,Sydney,DHL Freight,Ocean Cargo,11,57031.05,958.72,0,0.68,1799.4
+2025-07-16,SHP-20850,Dubai,Tokyo,UPS Global,Ocean Cargo,21,134360.81,1627.84,1,0.15,8976.7
+2025-07-16,SHP-20868,Dubai,Frankfurt,UPS Global,Ocean Cargo,3,74412.84,512.35,1,0.28,1299.6
+2025-07-16,SHP-20965,Los Angeles,Tokyo,Kuehne+Nagel,Air Freight,16,155021.74,3027.14,1,0.26,4704.0
+2025-07-18,SHP-20157,Los Angeles,Frankfurt,UPS Global,Ground Express,27,145200.92,1733.79,1,0.05,8178.5
+2025-07-18,SHP-20361,Rotterdam,Frankfurt,UPS Global,Ground Express,7,91862.07,270.19,1,0.28,1804.9
+2025-07-18,SHP-20617,Dubai,Frankfurt,FedEx Logistics,Ocean Cargo,9,178910.28,506.6,0,0.56,1587.2
+2025-07-19,SHP-20242,Singapore,Tokyo,Maersk Ocean,Ocean Cargo,17,173800.56,1108.26,1,0.13,5731.3
+2025-07-20,SHP-20687,Singapore,Chicago,UPS Global,Ocean Cargo,13,118266.22,1927.85,1,0.02,1680.7
+2025-07-22,SHP-20031,Singapore,Frankfurt,UPS Global,Rail Intermodal,19,18167.68,179.49,1,0.23,7387.2
+2025-07-22,SHP-20154,Los Angeles,Frankfurt,FedEx Logistics,Ocean Cargo,4,170130.9,2333.94,1,0.13,384.8
+2025-07-23,SHP-20473,Dubai,Tokyo,UPS Global,Ocean Cargo,2,67679.31,2252.21,1,0.12,189.2
+2025-07-24,SHP-20248,Dubai,Frankfurt,UPS Global,Ground Express,27,6845.86,1462.89,1,0.1,9621.1
+2025-07-24,SHP-20443,Hamburg,Tokyo,UPS Global,Ocean Cargo,26,14475.93,1908.83,1,0.2,7282.2
+2025-07-26,SHP-20351,Los Angeles,London,Maersk Ocean,Ocean Cargo,26,63210.15,396.47,1,0.14,2638.1
+2025-07-27,SHP-20180,Dubai,Chicago,DHL Freight,Ocean Cargo,5,144107.01,1351.41,1,0.23,1076.4
+2025-07-28,SHP-20553,Hamburg,New York,Kuehne+Nagel,Rail Intermodal,6,15921.85,2750.14,0,0.94,481.9
+2025-07-28,SHP-20769,Singapore,Frankfurt,UPS Global,Air Freight,9,62614.31,750.47,1,0.26,1042.1
+2025-07-30,SHP-20114,Hamburg,Tokyo,UPS Global,Rail Intermodal,5,25022.46,2568.94,0,0.82,797.8
+2025-08-01,SHP-20244,Singapore,Frankfurt,Kuehne+Nagel,Air Freight,25,128964.23,1557.95,1,0.32,9689.4
+2025-08-01,SHP-20250,Los Angeles,New York,Maersk Ocean,Rail Intermodal,4,169618.33,504.01,1,0.15,827.7
+2025-08-01,SHP-20556,Dubai,London,FedEx Logistics,Air Freight,4,30199.28,2127.59,1,0.27,1763.0
+2025-08-02,SHP-20484,Los Angeles,Tokyo,Maersk Ocean,Ground Express,13,115817.14,1407.65,1,0.25,3748.7
